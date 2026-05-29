@@ -16,7 +16,7 @@ public class AtaquePatadas : MonoBehaviour
         audioSource = GetComponent<AudioSource>();   
     }
 
-    //Ataques de puño del player
+    //Ataques de puÃ±o del player
     public void PatadaLigera()
     {
         if (acciones.agachado == false && acciones.enPiso == true && detectorDelante.enemigoDelante == false && !AtaqueController.instance.ataquePlayer && tiempoAtaques.SePuedeAtacar)

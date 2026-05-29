@@ -7,12 +7,12 @@ public class Player : MonoBehaviour
     [SerializeField] private float speed;
     private Animator animator;
     public InicioCombate inicioCombate;
-    public AtaquesPuños ataquePuños;
+    public AtaquesPuÃ±os ataquePuÃ±os;
     public AtaquePatadas ataquePatadas;
     public PatadasAgachado patadasAgachado;
     public PatadasSaltar patadasSaltar;
-    public PuñosAgachado puñosAgachado;
-    public PuñosSaltar puñosSaltar;
+    public PuÃ±osAgachado puÃ±osAgachado;
+    public PuÃ±osSaltar puÃ±osSaltar;
     public Acciones acciones;
 
     void Start()
@@ -53,7 +53,7 @@ public class Player : MonoBehaviour
                 animator.SetBool("Agachado", Input.GetKey(KeyCode.S));
             }
 
-            AtaquesPuñosJugador();
+            AtaquesPuÃ±osJugador();
             AtaquesPatadasJugador();
         }
 
@@ -86,7 +86,7 @@ public class Player : MonoBehaviour
         {
             movxPlayer = Input.GetAxisRaw("Horizontal");
             animator.SetBool("Caminar", movxPlayer != 0);
-            rigidbodyPlayer.velocity = new Vector2(movxPlayer * speed, rigidbodyPlayer.velocity.y);
+            rigidbodyPlayer.linearVelocity = new Vector2(movxPlayer * speed, rigidbodyPlayer.linearVelocity.y);
         }
 
     }
@@ -97,7 +97,7 @@ public class Player : MonoBehaviour
     private void ImpedirMov()
     {
         movxPlayer = 0f;
-        rigidbodyPlayer.velocity = Vector3.zero;
+        rigidbodyPlayer.linearVelocity = Vector3.zero;
         animator.SetBool("Caminar", false);
     }
 
@@ -118,36 +118,36 @@ public class Player : MonoBehaviour
         }
     }
 
-    //El siguiente metodo permite lanzar los golpes a través de los inputs
-    private void AtaquesPuñosJugador()
+    //El siguiente metodo permite lanzar los golpes a travÃ©s de los inputs
+    private void AtaquesPuÃ±osJugador()
     {
         if (Input.GetKeyDown(KeyCode.I))
         {
             if (acciones.agachado)
             {                
-                puñosAgachado.PuñosLigero();
+                puÃ±osAgachado.PuÃ±osLigero();
             }
             else if (!acciones.enPiso)
             {
-                puñosSaltar.PuñosLigero();
+                puÃ±osSaltar.PuÃ±osLigero();
             }
-            else ataquePuños.PuñoLigero();
+            else ataquePuÃ±os.PuÃ±oLigero();
         }
         else if (Input.GetKeyDown(KeyCode.O))
         {
-            if (acciones.agachado) puñosAgachado.PuñosMedio();
+            if (acciones.agachado) puÃ±osAgachado.PuÃ±osMedio();
 
-            else if (!acciones.enPiso) puñosSaltar.PuñosMedio();
+            else if (!acciones.enPiso) puÃ±osSaltar.PuÃ±osMedio();
 
-            else ataquePuños.PuñoMedio();
+            else ataquePuÃ±os.PuÃ±oMedio();
         }
         else if (Input.GetKeyDown(KeyCode.P))
         {
-            if (acciones.agachado) puñosAgachado.PuñosFuerte();
+            if (acciones.agachado) puÃ±osAgachado.PuÃ±osFuerte();
 
-            else if (!acciones.enPiso) puñosSaltar.PuñosFuerte();
+            else if (!acciones.enPiso) puÃ±osSaltar.PuÃ±osFuerte();
 
-            else ataquePuños.PuñoFuerte();
+            else ataquePuÃ±os.PuÃ±oFuerte();
         }
     }
 

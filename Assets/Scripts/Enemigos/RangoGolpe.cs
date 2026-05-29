@@ -8,13 +8,13 @@ public class RangoGolpe : MonoBehaviour
     [HideInInspector] public bool rangoGolpe;
     [SerializeField] private float ataqueRandom;
     public Acciones acciones;
-    public PuñosNormalesBot ataquePuños;
+    public PuÃ±osNormalesBot ataquePuÃ±os;
     public PatadasNormalesBot ataquePatadas;
 
     public PatadasAgachado patadasAgachado;
     public PatadasSaltar patadasSaltar;
-    public PuñosAgachado puñosAgachado;
-    public PuñosSaltar puñosSaltar;
+    public PuÃ±osAgachado puÃ±osAgachado;
+    public PuÃ±osSaltar puÃ±osSaltar;
     public TiempoAtaquesBot tiempoAtaquesbot;
     public VidaJugador vidaJugador;
 
@@ -27,7 +27,7 @@ public class RangoGolpe : MonoBehaviour
                 ataqueRandom = Random.Range(1f, 121f);
             }
 
-            AtaquesBotPuños();
+            AtaquesBotPuÃ±os();
             AtaquesBotPatadas();
 
         }
@@ -48,35 +48,35 @@ public class RangoGolpe : MonoBehaviour
         }
     }
 
-    private void AtaquesBotPuños()
+    private void AtaquesBotPuÃ±os()
     {
         if (ataqueRandom < 20)
         {
             if (acciones.agachado)
             {
-                puñosAgachado.PuñosLigero();
+                puÃ±osAgachado.PuÃ±osLigero();
             }
             else if (!acciones.enPiso)
             {
-                puñosSaltar.PuñosLigero();
+                puÃ±osSaltar.PuÃ±osLigero();
             }
-            else ataquePuños.PuñoLigeroBot();
+            else ataquePuÃ±os.PuÃ±oLigeroBot();
         }
         else if (ataqueRandom > 20 && ataqueRandom < 40)
         {
-            if (acciones.agachado) puñosAgachado.PuñosMedio();
+            if (acciones.agachado) puÃ±osAgachado.PuÃ±osMedio();
 
-            else if (!acciones.enPiso) puñosSaltar.PuñosMedio();
+            else if (!acciones.enPiso) puÃ±osSaltar.PuÃ±osMedio();
 
-            else ataquePuños.PuñoMedioBot();
+            else ataquePuÃ±os.PuÃ±oMedioBot();
         }
         else if (ataqueRandom > 40 && ataqueRandom < 60)
         {
-            if (acciones.agachado) puñosAgachado.PuñosFuerte();
+            if (acciones.agachado) puÃ±osAgachado.PuÃ±osFuerte();
 
-            else if (!acciones.enPiso) puñosSaltar.PuñosFuerte();
+            else if (!acciones.enPiso) puÃ±osSaltar.PuÃ±osFuerte();
 
-            else ataquePuños.PuñoFuerteBot();
+            else ataquePuÃ±os.PuÃ±oFuerteBot();
         }
     }
 

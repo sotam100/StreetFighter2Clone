@@ -15,7 +15,7 @@ public class MenuCambioEscena : MonoBehaviour
 
     void Update()
     {
-        //Si se escogió un personaje se cambia a la escena con un pequeño retraso, acompañado de un fadeout
+        //Si se escogiÃ³ un personaje se cambia a la escena con un pequeÃ±o retraso, acompaÃ±ado de un fadeout
         if (selectorController.elegido)
         {
             Invoke("CambioEscena", tiempoTransicionInicio);
@@ -23,7 +23,7 @@ public class MenuCambioEscena : MonoBehaviour
         }
     }
 
-    //El siguiente metodo cambia a la escena 3: "Transición de Inicio de combate"
+    //El siguiente metodo cambia a la escena 3: "TransiciÃ³n de Inicio de combate"
     private void CambioEscena()
     {
         SceneManager.LoadScene(3);

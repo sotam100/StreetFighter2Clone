@@ -37,7 +37,7 @@ public class Bot : MonoBehaviour
     //El siguiente metodo proporciona el movimietno del bot y hace que siempre mire al jugador
     private void Movimiento()
     {
-        rigidbodyEnemy.velocity = new Vector2(movx * speed, rigidbodyEnemy.velocity.y);
+        rigidbodyEnemy.linearVelocity = new Vector2(movx * speed, rigidbodyEnemy.linearVelocity.y);
 
         if (acciones.enPiso && !acciones.agachado && !AtaqueController.instance.ataqueBot && playerDetectado && inicioCombate.EnLucha && !rangoGolpe.rangoGolpe)
         {
@@ -47,13 +47,13 @@ public class Bot : MonoBehaviour
             if (direction.x < 0.0f)
             {
                 transform.localScale = new Vector3(-1.3f, 1.3f, 1);
-                rigidbodyEnemy.velocity = new Vector2(-speed, 0f);
+                rigidbodyEnemy.linearVelocity = new Vector2(-speed, 0f);
                 
             }
             else
             {
                 transform.localScale = new Vector3(1.3f, 1.3f, 1.3f);
-                rigidbodyEnemy.velocity = new Vector2(speed, 0f);
+                rigidbodyEnemy.linearVelocity = new Vector2(speed, 0f);
             }
         }
 
@@ -63,7 +63,7 @@ public class Bot : MonoBehaviour
     private void ImpedirMov()
     {
         movx = 0;
-        rigidbodyEnemy.velocity = Vector3.zero;
+        rigidbodyEnemy.linearVelocity = Vector3.zero;
         animator.SetBool("Caminar", false);
     }
 

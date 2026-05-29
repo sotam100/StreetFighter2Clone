@@ -17,7 +17,7 @@ public class PatadasNormalesBot : MonoBehaviour
         audioSource = GetComponent<AudioSource>();
     }
 
-    //Ataques de puño del bot 
+    //Ataques de puÃ±o del bot 
     public void PatadaLigeraBot()
     {
         if (acciones.agachado == false && acciones.enPiso == true && detectorDelante.jugadorDelante == false && !AtaqueController.instance.ataqueBot && tiempoAtaquesBot.botPuedeAtacar)

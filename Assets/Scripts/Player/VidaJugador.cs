@@ -7,7 +7,7 @@ public class VidaJugador : MonoBehaviour
     [HideInInspector] public float cantidadVida;
     [SerializeField] private float vidaMaxima;
     public BarraVidaJugador barrasVida;
-    public DañoAnimacion[] dañoAnimacion;
+    public DaÃ±oAnimacion[] daÃ±oAnimacion;
 
     void Start()
     {
@@ -16,56 +16,54 @@ public class VidaJugador : MonoBehaviour
     }
 
 
-    //El siguiente metodo se usa el Daño producido por el jugador hacia el enemigo
-    public void Daño(float dañoRecibido)
+    public void DaÃ±o(float daÃ±oRecibido)
     {
-        //Debug.Log("jugador: " + cantidadVida);
-        cantidadVida -= dañoRecibido;
+        cantidadVida -= daÃ±oRecibido;
         barrasVida.CambiarVidaActualPersonaje(cantidadVida);
-        AnimacionDaño();
+        AnimacionDaÃ±o();
     }
 
 
-    private void AnimacionDaño()
+    private void AnimacionDaÃ±o()
     {
         if (CambioPersonaje.personajesRyu == true)
         {
-            dañoAnimacion[0].AnimacionDañoEnemigo();
+            daÃ±oAnimacion[0].AnimacionDaÃ±oEnemigo();
         }
 
         if (CambioPersonaje.personajesHonda == true)
         {
-            dañoAnimacion[1].AnimacionDañoEnemigo();
+            daÃ±oAnimacion[1].AnimacionDaÃ±oEnemigo();
         }
 
         if (CambioPersonaje.personajesBlanka == true)
         {
-            dañoAnimacion[2].AnimacionDañoEnemigo();
+            daÃ±oAnimacion[2].AnimacionDaÃ±oEnemigo();
         }
 
         if (CambioPersonaje.personajesGuile == true)
         {
-            dañoAnimacion[3].AnimacionDañoEnemigo();
+            daÃ±oAnimacion[3].AnimacionDaÃ±oEnemigo();
         }
 
         if (CambioPersonaje.personajesKen == true)
         {
-            dañoAnimacion[4].AnimacionDañoEnemigo();
+            daÃ±oAnimacion[4].AnimacionDaÃ±oEnemigo();
         }
 
         if (CambioPersonaje.personajesChunLi == true)
         {
-            dañoAnimacion[5].AnimacionDañoEnemigo();
+            daÃ±oAnimacion[5].AnimacionDaÃ±oEnemigo();
         }
 
         if (CambioPersonaje.personajesZengief == true)
         {
-            dañoAnimacion[6].AnimacionDañoEnemigo();
+            daÃ±oAnimacion[6].AnimacionDaÃ±oEnemigo();
         }
 
         if (CambioPersonaje.personajesDhalsim == true)
         {
-            dañoAnimacion[7].AnimacionDañoEnemigo();
+            daÃ±oAnimacion[7].AnimacionDaÃ±oEnemigo();
         }
 
     }

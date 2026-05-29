@@ -12,45 +12,45 @@ public class ActivadorGolpeEnemigo : MonoBehaviour
 
     public PatadasSaltar patadasSaltar;
 
-    public PuñosAgachado puñosAgachado;
+    public PuÃ±osAgachado puÃ±osAgachado;
 
-    public PuñosDelanteros puñosDelanteros;
+    public PuÃ±osDelanteros puÃ±osDelanteros;
 
-    public PuñosSaltar puñosSaltar;
+    public PuÃ±osSaltar puÃ±osSaltar;
 
     public VidaJugador vidaJugador;
 
-    [SerializeField] private float dañoPuñoL, dañoPuñoM, dañoPuñoF;
+    [SerializeField] private float daÃ±oPuÃ±oL, daÃ±oPuÃ±oM, daÃ±oPuÃ±oF;
 
-    [SerializeField] private float dañoPatadaL, dañoPatadaM, dañoPatadaF;
+    [SerializeField] private float daÃ±oPatadaL, daÃ±oPatadaM, daÃ±oPatadaF;
 
     private void OnTriggerEnter2D(Collider2D other)
     {
 
         if (other.tag == "Player")
         {
-            PuñosNormalesJugador();
+            PuÃ±osNormalesJugador();
 
             //PatadasNormalesJugador();
         }
     }
 
-    private void PuñosNormalesJugador()
+    private void PuÃ±osNormalesJugador()
     {
         if (AtaqueController.instance.GolpeBotL)
         {
-            vidaJugador.Daño(dañoPuñoL);
+            vidaJugador.DaÃ±o(daÃ±oPuÃ±oL);
 
         }
 
         if (AtaqueController.instance.GolpeBotM)
         {
-            vidaJugador.Daño(dañoPuñoM);
+            vidaJugador.DaÃ±o(daÃ±oPuÃ±oM);
         }
 
         if (AtaqueController.instance.GolpeBotF)
         {
-            vidaJugador.Daño(dañoPuñoF);
+            vidaJugador.DaÃ±o(daÃ±oPuÃ±oF);
         }
     }
 
@@ -58,18 +58,18 @@ public class ActivadorGolpeEnemigo : MonoBehaviour
     {
         if (AtaqueController.instance.GolpeBotL)
         {
-            vidaJugador.Daño(dañoPatadaL);
+            vidaJugador.DaÃ±o(daÃ±oPatadaL);
 
         }
 
         if (AtaqueController.instance.GolpeBotM)
         {
-            vidaJugador.Daño(dañoPatadaM);
+            vidaJugador.DaÃ±o(daÃ±oPatadaM);
         }
 
         if (AtaqueController.instance.GolpeBotF)
         {
-            vidaJugador.Daño(dañoPatadaF);
+            vidaJugador.DaÃ±o(daÃ±oPatadaF);
         }
     }
 }
