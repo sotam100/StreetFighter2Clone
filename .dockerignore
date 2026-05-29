@@ -1,0 +1,30 @@
+# Unity temporary and cache folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+MemoryCaptures/
+Recordings/
+# OS and editor files
+.vs/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+# Git metadata
+.git
+# Package caches
+.gradle/
+# Ignore build results inside repo, output is produced in CI container
+Build/WebGL/
