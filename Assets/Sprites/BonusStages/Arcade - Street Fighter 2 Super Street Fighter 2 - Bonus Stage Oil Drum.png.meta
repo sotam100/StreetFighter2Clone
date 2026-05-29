@@ -1,0 +1,468 @@
+fileFormatVersion: 2
+guid: 4b3d600000ef74d93b12741ece9db4d2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8247029285937480184
+    second: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Oil Drum_0
+  - first:
+      213: -8594243615166653649
+    second: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Oil Drum_1
+  - first:
+      213: -192266689890869681
+    second: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Oil Drum_2
+  - first:
+      213: 690439159881637804
+    second: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Oil Drum_3
+  - first:
+      213: 673212234965568980
+    second: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Oil Drum_4
+  - first:
+      213: -7051142340452226840
+    second: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Oil Drum_5
+  - first:
+      213: 334821425910417752
+    second: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Oil Drum_6
+  - first:
+      213: 5965381348990876148
+    second: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Oil Drum_7
+  - first:
+      213: -7861341867082240225
+    second: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Oil Drum_8
+  - first:
+      213: 3338144454421541265
+    second: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Oil Drum_9
+  - first:
+      213: 2960191084723601644
+    second: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Oil Drum_10
+  - first:
+      213: 1145080649877134394
+    second: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Oil Drum_11
+  - first:
+      213: 1237746164589221933
+    second: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Oil Drum_12
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Oil Drum_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 81
+        width: 64
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80ef37f1f8aac8d80800000000000000
+      internalID: -8247029285937480184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Oil Drum_1
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 81
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2b92dc57fc1bb880800000000000000
+      internalID: -8594243615166653649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Oil Drum_2
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 81
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4e1ae6d67ee45df0800000000000000
+      internalID: -192266689890869681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Oil Drum_3
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 81
+        width: 63
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caf93cff1cee49900800000000000000
+      internalID: 690439159881637804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Oil Drum_4
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 81
+        width: 63
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ddc19bf5fab75900800000000000000
+      internalID: 673212234965568980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Oil Drum_5
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 13
+        width: 32
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e8e0a0666f452e90800000000000000
+      internalID: -7051142340452226840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Oil Drum_6
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 62
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 859849a105685a400800000000000000
+      internalID: 334821425910417752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Oil Drum_7
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 57
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f977502bba49c250800000000000000
+      internalID: 5965381348990876148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Oil Drum_8
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 64
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1f28aa1937e6e290800000000000000
+      internalID: -7861341867082240225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Oil Drum_9
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 68
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1917cbee1b8735e20800000000000000
+      internalID: 3338144454421541265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Oil Drum_10
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 61
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce08a389b16b41920800000000000000
+      internalID: 2960191084723601644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Oil Drum_11
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 13
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3c991fb8c424ef00800000000000000
+      internalID: 1145080649877134394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Oil Drum_12
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 13
+        width: 30
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d28517e249b5d2110800000000000000
+      internalID: 1237746164589221933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Oil Drum_0: -8247029285937480184
+      Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Oil Drum_1: -8594243615166653649
+      Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Oil Drum_10: 2960191084723601644
+      Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Oil Drum_11: 1145080649877134394
+      Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Oil Drum_12: 1237746164589221933
+      Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Oil Drum_2: -192266689890869681
+      Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Oil Drum_3: 690439159881637804
+      Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Oil Drum_4: 673212234965568980
+      Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Oil Drum_5: -7051142340452226840
+      Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Oil Drum_6: 334821425910417752
+      Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Oil Drum_7: 5965381348990876148
+      Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Oil Drum_8: -7861341867082240225
+      Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Oil Drum_9: 3338144454421541265
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

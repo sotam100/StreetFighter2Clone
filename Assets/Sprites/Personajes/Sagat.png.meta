@@ -1,0 +1,3640 @@
+fileFormatVersion: 2
+guid: e4674110447094e7cbf498ff7337e858
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5245891652604377012
+    second: Sagat_0
+  - first:
+      213: -4272739804633059879
+    second: Sagat_1
+  - first:
+      213: -1373682522226669448
+    second: Sagat_2
+  - first:
+      213: 1120638922575598930
+    second: Sagat_3
+  - first:
+      213: -1778778279312338882
+    second: Sagat_4
+  - first:
+      213: -6529098471770887908
+    second: Sagat_5
+  - first:
+      213: -9029635469275122856
+    second: Sagat_6
+  - first:
+      213: 2312573642627306302
+    second: Sagat_7
+  - first:
+      213: -2516747811269407974
+    second: Sagat_8
+  - first:
+      213: -8381563932448238024
+    second: Sagat_9
+  - first:
+      213: -1089702847973100298
+    second: Sagat_10
+  - first:
+      213: 995636430911773304
+    second: Sagat_11
+  - first:
+      213: -1554259578129313154
+    second: Sagat_12
+  - first:
+      213: -6817084394020825066
+    second: Sagat_13
+  - first:
+      213: -2058833992455970579
+    second: Sagat_14
+  - first:
+      213: 1210751738577990435
+    second: Sagat_15
+  - first:
+      213: -1550887552765518608
+    second: Sagat_16
+  - first:
+      213: 801548240888846527
+    second: Sagat_17
+  - first:
+      213: -3206908878378977170
+    second: Sagat_18
+  - first:
+      213: -163425076674862202
+    second: Sagat_19
+  - first:
+      213: -8647333853542791832
+    second: Sagat_20
+  - first:
+      213: 1461561890215697542
+    second: Sagat_21
+  - first:
+      213: -2746426364758379855
+    second: Sagat_22
+  - first:
+      213: 939516839158916618
+    second: Sagat_23
+  - first:
+      213: 4527520802630206488
+    second: Sagat_24
+  - first:
+      213: 5700659644001440342
+    second: Sagat_25
+  - first:
+      213: -2867597736958030847
+    second: Sagat_26
+  - first:
+      213: -2098873172088277484
+    second: Sagat_27
+  - first:
+      213: 7442326606169707870
+    second: Sagat_28
+  - first:
+      213: 1906042306588419230
+    second: Sagat_29
+  - first:
+      213: 5772286746582308006
+    second: Sagat_30
+  - first:
+      213: -9135982720297073054
+    second: Sagat_31
+  - first:
+      213: 2541576178277896401
+    second: Sagat_32
+  - first:
+      213: -2881968401410858327
+    second: Sagat_33
+  - first:
+      213: -4525849017916081892
+    second: Sagat_34
+  - first:
+      213: 1344977059746754629
+    second: Sagat_35
+  - first:
+      213: -6038194193519821196
+    second: Sagat_36
+  - first:
+      213: -1549875302171010493
+    second: Sagat_37
+  - first:
+      213: -5941267055553000425
+    second: Sagat_38
+  - first:
+      213: -4125256403137536504
+    second: Sagat_39
+  - first:
+      213: -1919086025814512968
+    second: Sagat_40
+  - first:
+      213: -3705086360716990052
+    second: Sagat_41
+  - first:
+      213: -9029151602226815306
+    second: Sagat_42
+  - first:
+      213: 343875330473207036
+    second: Sagat_43
+  - first:
+      213: 1112776242736995150
+    second: Sagat_44
+  - first:
+      213: -8758978486983772302
+    second: Sagat_45
+  - first:
+      213: 3511415932169274513
+    second: Sagat_46
+  - first:
+      213: -5379437954898805947
+    second: Sagat_47
+  - first:
+      213: 9011508747799559493
+    second: Sagat_48
+  - first:
+      213: -3774746464678415806
+    second: Sagat_49
+  - first:
+      213: 6108524581838355833
+    second: Sagat_50
+  - first:
+      213: -8930541140022076729
+    second: Sagat_51
+  - first:
+      213: 768548453127057175
+    second: Sagat_52
+  - first:
+      213: 1757877268742533973
+    second: Sagat_53
+  - first:
+      213: -471379659781924594
+    second: Sagat_54
+  - first:
+      213: -4992089975221229046
+    second: Sagat_55
+  - first:
+      213: 4246178496010137940
+    second: Sagat_56
+  - first:
+      213: 8348092064042013487
+    second: Sagat_57
+  - first:
+      213: 8113919324198132547
+    second: Sagat_58
+  - first:
+      213: -7854557056149428396
+    second: Sagat_59
+  - first:
+      213: -7788142657439229719
+    second: Sagat_60
+  - first:
+      213: -2972609956623712260
+    second: Sagat_61
+  - first:
+      213: -5637656989810778638
+    second: Sagat_62
+  - first:
+      213: 2221118260994455980
+    second: Sagat_63
+  - first:
+      213: 2570862432390510587
+    second: Sagat_64
+  - first:
+      213: 9048063984757148742
+    second: Sagat_65
+  - first:
+      213: 6137634266386839305
+    second: Sagat_66
+  - first:
+      213: 2084283982516605867
+    second: Sagat_67
+  - first:
+      213: -8010846714402190060
+    second: Sagat_68
+  - first:
+      213: 7690711005390658684
+    second: Sagat_69
+  - first:
+      213: -9030267990019926692
+    second: Sagat_70
+  - first:
+      213: -8425972926227699509
+    second: Sagat_71
+  - first:
+      213: -1428249203561580003
+    second: Sagat_72
+  - first:
+      213: -2654401263831717527
+    second: Sagat_73
+  - first:
+      213: 452381534659645401
+    second: Sagat_74
+  - first:
+      213: 6387135613408898181
+    second: Sagat_75
+  - first:
+      213: 6318501446912337833
+    second: Sagat_76
+  - first:
+      213: -5857088108705812474
+    second: Sagat_77
+  - first:
+      213: -6310552459008845413
+    second: Sagat_78
+  - first:
+      213: -766047719375202515
+    second: Sagat_79
+  - first:
+      213: 4196307957889718209
+    second: Sagat_80
+  - first:
+      213: -2598490069365384839
+    second: Sagat_81
+  - first:
+      213: -4445477105318420604
+    second: Sagat_82
+  - first:
+      213: 8859692101356916420
+    second: Sagat_83
+  - first:
+      213: -727038510217411321
+    second: Sagat_84
+  - first:
+      213: -8568792554532478226
+    second: Sagat_85
+  - first:
+      213: -8844095402333271287
+    second: Sagat_86
+  - first:
+      213: -7229882555452899317
+    second: Sagat_87
+  - first:
+      213: -2312091779267886182
+    second: Sagat_88
+  - first:
+      213: -2148042013870966628
+    second: Sagat_89
+  - first:
+      213: -6902271963936273050
+    second: Sagat_90
+  - first:
+      213: -4753818576447855117
+    second: Sagat_91
+  - first:
+      213: -2644629350825536640
+    second: Sagat_92
+  - first:
+      213: 6913312570938007980
+    second: Sagat_93
+  - first:
+      213: 4080997464220518873
+    second: Sagat_94
+  - first:
+      213: 8152457419742916204
+    second: Sagat_95
+  - first:
+      213: -2874232629461286131
+    second: Sagat_96
+  - first:
+      213: -5211761942431298019
+    second: Sagat_97
+  - first:
+      213: -2302323002283109542
+    second: Sagat_98
+  - first:
+      213: -3165716559271480657
+    second: Sagat_99
+  - first:
+      213: -1122149913935115266
+    second: Sagat_100
+  - first:
+      213: -3595986530549759462
+    second: Sagat_101
+  - first:
+      213: -674805559271055691
+    second: Sagat_102
+  - first:
+      213: -662354450040414484
+    second: Sagat_103
+  - first:
+      213: 4281566613937554400
+    second: Sagat_104
+  - first:
+      213: -6871910161177728282
+    second: Sagat_105
+  - first:
+      213: -5540584024902243177
+    second: Sagat_106
+  - first:
+      213: -7098578908931414571
+    second: Sagat_107
+  - first:
+      213: 5600651584167119305
+    second: Sagat_108
+  - first:
+      213: 1827844404922933788
+    second: Sagat_109
+  - first:
+      213: 6443583740402376362
+    second: Sagat_110
+  - first:
+      213: -3144831428720112939
+    second: Sagat_111
+  - first:
+      213: -3604800177875545696
+    second: Sagat_112
+  - first:
+      213: -7966414202460611906
+    second: Sagat_113
+  - first:
+      213: -8337986693492048844
+    second: Sagat_114
+  - first:
+      213: 4368384620598199511
+    second: Sagat_115
+  - first:
+      213: 3774796772607810988
+    second: Sagat_116
+  - first:
+      213: 5385333931302834477
+    second: Sagat_117
+  - first:
+      213: -4009288810737891785
+    second: Sagat_118
+  - first:
+      213: 118934672872888292
+    second: Sagat_119
+  - first:
+      213: 8302766011342197356
+    second: Sagat_120
+  - first:
+      213: -8162495603327379134
+    second: Sagat_121
+  - first:
+      213: -244273232172351713
+    second: Sagat_122
+  - first:
+      213: -2148121266732928253
+    second: Sagat_123
+  - first:
+      213: -6953508926138730511
+    second: Sagat_124
+  - first:
+      213: 8618226636784560404
+    second: Sagat_125
+  - first:
+      213: -191548366046959669
+    second: Sagat_126
+  - first:
+      213: 8973388641439171932
+    second: Sagat_127
+  - first:
+      213: 1729207087865836156
+    second: Sagat_128
+  - first:
+      213: 1497236490086164275
+    second: Sagat_129
+  - first:
+      213: 2611490636064370701
+    second: Sagat_130
+  - first:
+      213: -6518277382997545682
+    second: Sagat_131
+  - first:
+      213: 6585387155185545282
+    second: Sagat_132
+  - first:
+      213: 4726161994381876464
+    second: Sagat_133
+  - first:
+      213: -7836995168982230022
+    second: Sagat_134
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sagat_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1349
+        width: 54
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c48445cf559d237b0800000000000000
+      internalID: -5245891652604377012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sagat_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1349
+        width: 54
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ddac2f19cd24b4c0800000000000000
+      internalID: -4272739804633059879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sagat_2
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 1349
+        width: 54
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 878448c2603bfece0800000000000000
+      internalID: -1373682522226669448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sagat_3
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 1349
+        width: 54
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2555895a92f4d8f00800000000000000
+      internalID: 1120638922575598930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sagat_4
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 1349
+        width: 54
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e30586f44928057e0800000000000000
+      internalID: -1778778279312338882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sagat_5
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 1349
+        width: 54
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c19ec86588bf365a0800000000000000
+      internalID: -6529098471770887908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sagat_6
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 1349
+        width: 54
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 853b69ab16a40b280800000000000000
+      internalID: -9029635469275122856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sagat_7
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 1349
+        width: 54
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e335bb5b979e71020800000000000000
+      internalID: 2312573642627306302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sagat_8
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 1349
+        width: 54
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1b8b003337b21dd0800000000000000
+      internalID: -2516747811269407974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sagat_9
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 1349
+        width: 54
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8365238c204beab80800000000000000
+      internalID: -8381563932448238024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sagat_10
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 1349
+        width: 53
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f4f4d3880990e0f0800000000000000
+      internalID: -1089702847973100298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sagat_11
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 1349
+        width: 39
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87a1fed0f0631dd00800000000000000
+      internalID: 995636430911773304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sagat_12
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 1379
+        width: 41
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e729ad406292e6ae0800000000000000
+      internalID: -1554259578129313154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sagat_13
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 1349
+        width: 39
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6189782bcd9d461a0800000000000000
+      internalID: -6817084394020825066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sagat_14
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 1349
+        width: 53
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de0a92c546d8d63e0800000000000000
+      internalID: -2058833992455970579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sagat_15
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 1349
+        width: 57
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 323b0299a447dc010800000000000000
+      internalID: 1210751738577990435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sagat_16
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1224
+        width: 68
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fc16dadcf32a7ae0800000000000000
+      internalID: -1550887552765518608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sagat_17
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1224
+        width: 84
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb8d488d0ebaf1b00800000000000000
+      internalID: 801548240888846527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sagat_18
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 1224
+        width: 68
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e68bc25bd55ce73d0800000000000000
+      internalID: -3206908878378977170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sagat_19
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 1224
+        width: 52
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 683676532c56bbdf0800000000000000
+      internalID: -163425076674862202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sagat_20
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 1224
+        width: 68
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8654f5dfcaf7ef780800000000000000
+      internalID: -8647333853542791832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sagat_21
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 1224
+        width: 105
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68c1e83abc2884410800000000000000
+      internalID: 1461561890215697542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sagat_22
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 1224
+        width: 68
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b23fceb5cbb2e9d0800000000000000
+      internalID: -2746426364758379855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sagat_23
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 1224
+        width: 52
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a06a0926695d90d00800000000000000
+      internalID: 939516839158916618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sagat_24
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 1224
+        width: 68
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81407f1ae2cf4de30800000000000000
+      internalID: 4527520802630206488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sagat_25
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 1224
+        width: 82
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6525c1a2ebfcc1f40800000000000000
+      internalID: 5700659644001440342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sagat_26
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 1224
+        width: 68
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10c07e92d0f3438d0800000000000000
+      internalID: -2867597736958030847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sagat_27
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1092
+        width: 68
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 416b41568fd4fd2e0800000000000000
+      internalID: -2098873172088277484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sagat_28
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1092
+        width: 83
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e551f2ffd94784760800000000000000
+      internalID: 7442326606169707870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sagat_29
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 1092
+        width: 68
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e94a113116f937a10800000000000000
+      internalID: 1906042306588419230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sagat_30
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 1092
+        width: 68
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a4dbbf86384b1050800000000000000
+      internalID: 5772286746582308006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sagat_31
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 1092
+        width: 90
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2660692de18763180800000000000000
+      internalID: -9135982720297073054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sagat_32
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 1092
+        width: 68
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d059db711e754320800000000000000
+      internalID: 2541576178277896401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sagat_33
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 1092
+        width: 58
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a2610c12013108d0800000000000000
+      internalID: -2881968401410858327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sagat_34
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 1092
+        width: 57
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c19bf041c44f031c0800000000000000
+      internalID: -4525849017916081892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sagat_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 964
+        width: 74
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 540314582815aa210800000000000000
+      internalID: 1344977059746754629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sagat_36
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 964
+        width: 65
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47ebc6a6f56043ca0800000000000000
+      internalID: -6038194193519821196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sagat_37
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 964
+        width: 60
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34a12ffcf9cbd7ae0800000000000000
+      internalID: -1549875302171010493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sagat_38
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 964
+        width: 99
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71c480657116c8da0800000000000000
+      internalID: -5941267055553000425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sagat_39
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 964
+        width: 104
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80ed49b682520c6c0800000000000000
+      internalID: -4125256403137536504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sagat_40
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 964
+        width: 95
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bae8e16d690e55e0800000000000000
+      internalID: -1919086025814512968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sagat_41
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 964
+        width: 60
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c99a157d593e49cc0800000000000000
+      internalID: -3705086360716990052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sagat_42
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 964
+        width: 65
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6be1f1ec47202b280800000000000000
+      internalID: -9029151602226815306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sagat_43
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 883
+        width: 63
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf420e78ac0b5c400800000000000000
+      internalID: 343875330473207036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sagat_44
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 883
+        width: 59
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4b15d6d810617f00800000000000000
+      internalID: 1112776242736995150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sagat_45
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 883
+        width: 79
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2773b00297bd17680800000000000000
+      internalID: -8758978486983772302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sagat_46
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 883
+        width: 59
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 194c89f9f2e0bb030800000000000000
+      internalID: 3511415932169274513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sagat_47
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 883
+        width: 56
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54bb0077ea56855b0800000000000000
+      internalID: -5379437954898805947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sagat_48
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 883
+        width: 83
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54dfaea067f4f0d70800000000000000
+      internalID: 9011508747799559493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sagat_49
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 883
+        width: 56
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2427eaff6186d9bc0800000000000000
+      internalID: -3774746464678415806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sagat_50
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 883
+        width: 58
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97d773a2eb6d5c450800000000000000
+      internalID: 6108524581838355833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sagat_51
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 883
+        width: 86
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cad8f03628501480800000000000000
+      internalID: -8930541140022076729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sagat_52
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 883
+        width: 58
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71f60550fbe6aaa00800000000000000
+      internalID: 768548453127057175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sagat_53
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 786
+        width: 54
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 553f122ff0c356810800000000000000
+      internalID: 1757877268742533973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sagat_54
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 779
+        width: 61
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e099a5862b25579f0800000000000000
+      internalID: -471379659781924594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sagat_55
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 786
+        width: 83
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0a6624ed9888bab0800000000000000
+      internalID: -4992089975221229046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sagat_56
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 779
+        width: 61
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 451369b48d47dea30800000000000000
+      internalID: 4246178496010137940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sagat_57
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 786
+        width: 55
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f235b7d80816ad370800000000000000
+      internalID: 8348092064042013487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sagat_58
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 779
+        width: 43
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34bd10fc2ae6a9070800000000000000
+      internalID: 8113919324198132547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sagat_59
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 802
+        width: 83
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 457ec2009f10ff290800000000000000
+      internalID: -7854557056149428396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sagat_60
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 784
+        width: 34
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e894433485fae390800000000000000
+      internalID: -7788142657439229719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sagat_61
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 784
+        width: 47
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cff77a77efa2fb6d0800000000000000
+      internalID: -2972609956623712260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sagat_62
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 665
+        width: 47
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fd94dc56d403c1b0800000000000000
+      internalID: -5637656989810778638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sagat_63
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 665
+        width: 71
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca935b65a4ff2de10800000000000000
+      internalID: 2221118260994455980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sagat_64
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 665
+        width: 45
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf77801e2c98da320800000000000000
+      internalID: 2570862432390510587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sagat_65
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 665
+        width: 45
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64c8474614e219d70800000000000000
+      internalID: 9048063984757148742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sagat_66
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 665
+        width: 62
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 907b041c8d14d2550800000000000000
+      internalID: 6137634266386839305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sagat_67
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 665
+        width: 45
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba350f43d3ddcec10800000000000000
+      internalID: 2084283982516605867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sagat_68
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 665
+        width: 68
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41dc3f54b51c3d090800000000000000
+      internalID: -8010846714402190060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sagat_69
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 665
+        width: 55
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7c5f7a89e4eaba60800000000000000
+      internalID: 7690711005390658684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sagat_70
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 665
+        width: 60
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5518448b1b0ea280800000000000000
+      internalID: -9030267990019926692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sagat_71
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 693
+        width: 47
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc8a32d244ee01b80800000000000000
+      internalID: -8425972926227699509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sagat_72
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 696
+        width: 54
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1a3af2aae6dd2ce0800000000000000
+      internalID: -1428249203561580003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sagat_73
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 688
+        width: 41
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96966f93d1ca92bd0800000000000000
+      internalID: -2654401263831717527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sagat_74
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 499
+        width: 53
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9df8554eb9e274600800000000000000
+      internalID: 452381534659645401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sagat_75
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 546
+        width: 68
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58ceb79fff9a3a850800000000000000
+      internalID: 6387135613408898181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sagat_76
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 546
+        width: 98
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a76000d693dfa750800000000000000
+      internalID: 6318501446912337833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sagat_77
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 546
+        width: 58
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 600fc66b56177bea0800000000000000
+      internalID: -5857088108705812474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sagat_78
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 546
+        width: 59
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b995f4829f96c68a0800000000000000
+      internalID: -6310552459008845413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sagat_79
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 546
+        width: 92
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2794ad68a37e55f0800000000000000
+      internalID: -766047719375202515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sagat_80
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 597
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c7592ecad74c3a30800000000000000
+      internalID: 4196307957889718209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sagat_81
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 592
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 979981f9c0f40fbd0800000000000000
+      internalID: -2598490069365384839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sagat_82
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 591
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48f1d58302e7e42c0800000000000000
+      internalID: -4445477105318420604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sagat_83
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 553
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ce86b88603f3fa70800000000000000
+      internalID: 8859692101356916420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sagat_84
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 550
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7054674b35a09e5f0800000000000000
+      internalID: -727038510217411321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sagat_85
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 548
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee264113298851980800000000000000
+      internalID: -8568792554532478226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sagat_86
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 547
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90b8240f616734580800000000000000
+      internalID: -8844095402333271287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sagat_87
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 389
+        width: 59
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b00cf621f1c4aab90800000000000000
+      internalID: -7229882555452899317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sagat_88
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 389
+        width: 68
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9303a8d6ccc9efd0800000000000000
+      internalID: -2312091779267886182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sagat_89
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 389
+        width: 68
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c983b905b2f9032e0800000000000000
+      internalID: -2148042013870966628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sagat_90
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 389
+        width: 35
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66dc076f7343630a0800000000000000
+      internalID: -6902271963936273050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sagat_91
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 421
+        width: 50
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f52c28013b070eb0800000000000000
+      internalID: -4753818576447855117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sagat_92
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 419
+        width: 62
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 083d8750e936c4bd0800000000000000
+      internalID: -2644629350825536640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sagat_93
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 390
+        width: 39
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca1a00ca72501ff50800000000000000
+      internalID: 6913312570938007980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sagat_94
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 389
+        width: 74
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d94228529d92a830800000000000000
+      internalID: 4080997464220518873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sagat_95
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 389
+        width: 58
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6e264664d8532170800000000000000
+      internalID: 8152457419742916204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sagat_96
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 389
+        width: 64
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d038f1fd6acac18d0800000000000000
+      internalID: -2874232629461286131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sagat_97
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 389
+        width: 107
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1e8b7f502a1ca7b0800000000000000
+      internalID: -5211761942431298019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sagat_98
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 261
+        width: 62
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5354ba7d618c00e0800000000000000
+      internalID: -2302323002283109542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sagat_99
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 261
+        width: 67
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa23d01ef8d1114d0800000000000000
+      internalID: -3165716559271480657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sagat_100
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 261
+        width: 63
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efb892349925d60f0800000000000000
+      internalID: -1122149913935115266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sagat_101
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 262
+        width: 52
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a120e758d4d781ec0800000000000000
+      internalID: -3595986530549759462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sagat_102
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 262
+        width: 59
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5be903b4beb92a6f0800000000000000
+      internalID: -674805559271055691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sagat_103
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 261
+        width: 60
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cee11f11328dec6f0800000000000000
+      internalID: -662354450040414484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sagat_104
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 258
+        width: 66
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e38be1962e2b6b30800000000000000
+      internalID: 4281566613937554400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sagat_105
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 281
+        width: 73
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eaaa9a0e1212a0a0800000000000000
+      internalID: -6871910161177728282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sagat_106
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 265
+        width: 52
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79c6f734f24eb13b0800000000000000
+      internalID: -5540584024902243177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sagat_107
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 261
+        width: 65
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d5201b9718cc7d90800000000000000
+      internalID: -7098578908931414571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sagat_108
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 259
+        width: 90
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c9820931f289bd40800000000000000
+      internalID: 5600651584167119305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sagat_109
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 261
+        width: 52
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c12ed1c4dcecd5910800000000000000
+      internalID: 1827844404922933788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sagat_110
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 291
+        width: 73
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aae9a27b5453c6950800000000000000
+      internalID: 6443583740402376362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sagat_111
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 261
+        width: 56
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5da47a44a705b54d0800000000000000
+      internalID: -3144831428720112939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sagat_112
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 261
+        width: 49
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a19677565d29fdc0800000000000000
+      internalID: -3604800177875545696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sagat_113
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 124
+        width: 52
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eba55b0ad7c917190800000000000000
+      internalID: -7966414202460611906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sagat_114
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 124
+        width: 49
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43cf8706745894c80800000000000000
+      internalID: -8337986693492048844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sagat_115
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 124
+        width: 54
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d40901faae9f9c30800000000000000
+      internalID: 4368384620598199511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sagat_116
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 121
+        width: 66
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cad549a3aa5c26430800000000000000
+      internalID: 3774796772607810988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sagat_117
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 144
+        width: 73
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d21d9248dac8cba40800000000000000
+      internalID: 5385333931302834477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sagat_118
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 124
+        width: 52
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 736050a91152c58c0800000000000000
+      internalID: -4009288810737891785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sagat_119
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 127
+        width: 62
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e7d010747a86a100800000000000000
+      internalID: 118934672872888292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sagat_120
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 122
+        width: 90
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c621d3782b9593370800000000000000
+      internalID: 8302766011342197356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sagat_121
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 124
+        width: 49
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 249dbfade7df8be80800000000000000
+      internalID: -8162495603327379134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sagat_122
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 124
+        width: 49
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1ffa302aca2c9cf0800000000000000
+      internalID: -244273232172351713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sagat_123
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 124
+        width: 49
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 303fbe1d6175032e0800000000000000
+      internalID: -2148121266732928253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sagat_124
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 124
+        width: 49
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f73ef2197c208f90800000000000000
+      internalID: -6953508926138730511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sagat_125
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 124
+        width: 49
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4196a5ff6771a9770800000000000000
+      internalID: 8618226636784560404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sagat_126
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 124
+        width: 49
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc7e674a6cb775df0800000000000000
+      internalID: -191548366046959669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sagat_127
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 124
+        width: 49
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c55c1842d61e78c70800000000000000
+      internalID: 8973388641439171932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sagat_128
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 54
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c72b4574fa06ff710800000000000000
+      internalID: 1729207087865836156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sagat_129
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 0
+        width: 54
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 337a650b7a047c410800000000000000
+      internalID: 1497236490086164275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sagat_130
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 0
+        width: 54
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0030e0b5e0ed3420800000000000000
+      internalID: 2611490636064370701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sagat_131
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 0
+        width: 54
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2de7f6614d6a85a0800000000000000
+      internalID: -6518277382997545682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sagat_132
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 0
+        width: 53
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 240314d0abef36b50800000000000000
+      internalID: 6585387155185545282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sagat_133
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 0
+        width: 53
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fc551a2b43b69140800000000000000
+      internalID: 4726161994381876464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sagat_134
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 0
+        width: 54
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afb9c5e7a666d3390800000000000000
+      internalID: -7836995168982230022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Sagat_0: -5245891652604377012
+      Sagat_1: -4272739804633059879
+      Sagat_10: -1089702847973100298
+      Sagat_100: -1122149913935115266
+      Sagat_101: -3595986530549759462
+      Sagat_102: -674805559271055691
+      Sagat_103: -662354450040414484
+      Sagat_104: 4281566613937554400
+      Sagat_105: -6871910161177728282
+      Sagat_106: -5540584024902243177
+      Sagat_107: -7098578908931414571
+      Sagat_108: 5600651584167119305
+      Sagat_109: 1827844404922933788
+      Sagat_11: 995636430911773304
+      Sagat_110: 6443583740402376362
+      Sagat_111: -3144831428720112939
+      Sagat_112: -3604800177875545696
+      Sagat_113: -7966414202460611906
+      Sagat_114: -8337986693492048844
+      Sagat_115: 4368384620598199511
+      Sagat_116: 3774796772607810988
+      Sagat_117: 5385333931302834477
+      Sagat_118: -4009288810737891785
+      Sagat_119: 118934672872888292
+      Sagat_12: -1554259578129313154
+      Sagat_120: 8302766011342197356
+      Sagat_121: -8162495603327379134
+      Sagat_122: -244273232172351713
+      Sagat_123: -2148121266732928253
+      Sagat_124: -6953508926138730511
+      Sagat_125: 8618226636784560404
+      Sagat_126: -191548366046959669
+      Sagat_127: 8973388641439171932
+      Sagat_128: 1729207087865836156
+      Sagat_129: 1497236490086164275
+      Sagat_13: -6817084394020825066
+      Sagat_130: 2611490636064370701
+      Sagat_131: -6518277382997545682
+      Sagat_132: 6585387155185545282
+      Sagat_133: 4726161994381876464
+      Sagat_134: -7836995168982230022
+      Sagat_14: -2058833992455970579
+      Sagat_15: 1210751738577990435
+      Sagat_16: -1550887552765518608
+      Sagat_17: 801548240888846527
+      Sagat_18: -3206908878378977170
+      Sagat_19: -163425076674862202
+      Sagat_2: -1373682522226669448
+      Sagat_20: -8647333853542791832
+      Sagat_21: 1461561890215697542
+      Sagat_22: -2746426364758379855
+      Sagat_23: 939516839158916618
+      Sagat_24: 4527520802630206488
+      Sagat_25: 5700659644001440342
+      Sagat_26: -2867597736958030847
+      Sagat_27: -2098873172088277484
+      Sagat_28: 7442326606169707870
+      Sagat_29: 1906042306588419230
+      Sagat_3: 1120638922575598930
+      Sagat_30: 5772286746582308006
+      Sagat_31: -9135982720297073054
+      Sagat_32: 2541576178277896401
+      Sagat_33: -2881968401410858327
+      Sagat_34: -4525849017916081892
+      Sagat_35: 1344977059746754629
+      Sagat_36: -6038194193519821196
+      Sagat_37: -1549875302171010493
+      Sagat_38: -5941267055553000425
+      Sagat_39: -4125256403137536504
+      Sagat_4: -1778778279312338882
+      Sagat_40: -1919086025814512968
+      Sagat_41: -3705086360716990052
+      Sagat_42: -9029151602226815306
+      Sagat_43: 343875330473207036
+      Sagat_44: 1112776242736995150
+      Sagat_45: -8758978486983772302
+      Sagat_46: 3511415932169274513
+      Sagat_47: -5379437954898805947
+      Sagat_48: 9011508747799559493
+      Sagat_49: -3774746464678415806
+      Sagat_5: -6529098471770887908
+      Sagat_50: 6108524581838355833
+      Sagat_51: -8930541140022076729
+      Sagat_52: 768548453127057175
+      Sagat_53: 1757877268742533973
+      Sagat_54: -471379659781924594
+      Sagat_55: -4992089975221229046
+      Sagat_56: 4246178496010137940
+      Sagat_57: 8348092064042013487
+      Sagat_58: 8113919324198132547
+      Sagat_59: -7854557056149428396
+      Sagat_6: -9029635469275122856
+      Sagat_60: -7788142657439229719
+      Sagat_61: -2972609956623712260
+      Sagat_62: -5637656989810778638
+      Sagat_63: 2221118260994455980
+      Sagat_64: 2570862432390510587
+      Sagat_65: 9048063984757148742
+      Sagat_66: 6137634266386839305
+      Sagat_67: 2084283982516605867
+      Sagat_68: -8010846714402190060
+      Sagat_69: 7690711005390658684
+      Sagat_7: 2312573642627306302
+      Sagat_70: -9030267990019926692
+      Sagat_71: -8425972926227699509
+      Sagat_72: -1428249203561580003
+      Sagat_73: -2654401263831717527
+      Sagat_74: 452381534659645401
+      Sagat_75: 6387135613408898181
+      Sagat_76: 6318501446912337833
+      Sagat_77: -5857088108705812474
+      Sagat_78: -6310552459008845413
+      Sagat_79: -766047719375202515
+      Sagat_8: -2516747811269407974
+      Sagat_80: 4196307957889718209
+      Sagat_81: -2598490069365384839
+      Sagat_82: -4445477105318420604
+      Sagat_83: 8859692101356916420
+      Sagat_84: -727038510217411321
+      Sagat_85: -8568792554532478226
+      Sagat_86: -8844095402333271287
+      Sagat_87: -7229882555452899317
+      Sagat_88: -2312091779267886182
+      Sagat_89: -2148042013870966628
+      Sagat_9: -8381563932448238024
+      Sagat_90: -6902271963936273050
+      Sagat_91: -4753818576447855117
+      Sagat_92: -2644629350825536640
+      Sagat_93: 6913312570938007980
+      Sagat_94: 4080997464220518873
+      Sagat_95: 8152457419742916204
+      Sagat_96: -2874232629461286131
+      Sagat_97: -5211761942431298019
+      Sagat_98: -2302323002283109542
+      Sagat_99: -3165716559271480657
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

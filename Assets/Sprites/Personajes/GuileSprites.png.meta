@@ -1,0 +1,4888 @@
+fileFormatVersion: 2
+guid: 0563d53109ebe448194aa28835ae9541
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1823620761418844378
+    second: GuileSprites_0
+  - first:
+      213: 2388942240802841563
+    second: GuileSprites_1
+  - first:
+      213: 995383315021470804
+    second: GuileSprites_2
+  - first:
+      213: 7259910937828333361
+    second: GuileSprites_3
+  - first:
+      213: 8949385847640843085
+    second: GuileSprites_4
+  - first:
+      213: -4758594648932187089
+    second: GuileSprites_5
+  - first:
+      213: -1731328360914707364
+    second: GuileSprites_6
+  - first:
+      213: 8988757152442219306
+    second: GuileSprites_7
+  - first:
+      213: 3454127520770489916
+    second: GuileSprites_8
+  - first:
+      213: -2458189822602156780
+    second: GuileSprites_9
+  - first:
+      213: 6563875657663078009
+    second: GuileSprites_10
+  - first:
+      213: 6456857605685387730
+    second: GuileSprites_11
+  - first:
+      213: 144385093086257855
+    second: GuileSprites_12
+  - first:
+      213: 376634852143528467
+    second: GuileSprites_13
+  - first:
+      213: -4275677780926545038
+    second: GuileSprites_14
+  - first:
+      213: -3804744231602013910
+    second: GuileSprites_15
+  - first:
+      213: -5423274174171662847
+    second: GuileSprites_16
+  - first:
+      213: 2103771903876064324
+    second: GuileSprites_17
+  - first:
+      213: -2514855668054298702
+    second: GuileSprites_18
+  - first:
+      213: 6438229846726168387
+    second: GuileSprites_19
+  - first:
+      213: -8060766584900687694
+    second: GuileSprites_20
+  - first:
+      213: -5423376485802768692
+    second: GuileSprites_21
+  - first:
+      213: 2830688995073842112
+    second: GuileSprites_22
+  - first:
+      213: -1205178881408064329
+    second: GuileSprites_23
+  - first:
+      213: -7397861786359571004
+    second: GuileSprites_24
+  - first:
+      213: -6052851695696030306
+    second: GuileSprites_25
+  - first:
+      213: 1649683863828711676
+    second: GuileSprites_26
+  - first:
+      213: -6123826850869676314
+    second: GuileSprites_27
+  - first:
+      213: -7196139869883421239
+    second: GuileSprites_28
+  - first:
+      213: 5205215632229888527
+    second: GuileSprites_29
+  - first:
+      213: -4488862326929359296
+    second: GuileSprites_30
+  - first:
+      213: -1053599580689234611
+    second: GuileSprites_31
+  - first:
+      213: -3450581549922250947
+    second: GuileSprites_32
+  - first:
+      213: 6504827348998232041
+    second: GuileSprites_33
+  - first:
+      213: -1880843027701092059
+    second: GuileSprites_34
+  - first:
+      213: -4949471692398451901
+    second: GuileSprites_35
+  - first:
+      213: 4486246005313774214
+    second: GuileSprites_36
+  - first:
+      213: -4868113801705132267
+    second: GuileSprites_37
+  - first:
+      213: -3796611006132781623
+    second: GuileSprites_38
+  - first:
+      213: -2799461973580416799
+    second: GuileSprites_39
+  - first:
+      213: -6836327735370574306
+    second: GuileSprites_40
+  - first:
+      213: 1760448497903857794
+    second: GuileSprites_41
+  - first:
+      213: -6241403613930367196
+    second: GuileSprites_42
+  - first:
+      213: -219656277782861942
+    second: GuileSprites_43
+  - first:
+      213: 7350086161355237745
+    second: GuileSprites_44
+  - first:
+      213: 8628084301106273054
+    second: GuileSprites_45
+  - first:
+      213: -7460574815403990487
+    second: GuileSprites_46
+  - first:
+      213: 6495092186581776902
+    second: GuileSprites_47
+  - first:
+      213: 6654712902426230629
+    second: GuileSprites_48
+  - first:
+      213: -1119793861144925881
+    second: GuileSprites_49
+  - first:
+      213: 3142595899230253931
+    second: GuileSprites_50
+  - first:
+      213: 6005335054267045796
+    second: GuileSprites_51
+  - first:
+      213: -5018249717559013407
+    second: GuileSprites_52
+  - first:
+      213: -7134971977355644286
+    second: GuileSprites_53
+  - first:
+      213: -6930462353475682993
+    second: GuileSprites_54
+  - first:
+      213: -6505096160403120456
+    second: GuileSprites_55
+  - first:
+      213: 3894421066473029308
+    second: GuileSprites_56
+  - first:
+      213: -4932055892191453459
+    second: GuileSprites_57
+  - first:
+      213: -5652253625721365286
+    second: GuileSprites_58
+  - first:
+      213: -2442605135444846625
+    second: GuileSprites_59
+  - first:
+      213: -8550706424394124208
+    second: GuileSprites_60
+  - first:
+      213: -3768662168248591213
+    second: GuileSprites_61
+  - first:
+      213: 4167213500269686951
+    second: GuileSprites_62
+  - first:
+      213: -8717071636452878558
+    second: GuileSprites_63
+  - first:
+      213: -6381839451116195922
+    second: GuileSprites_64
+  - first:
+      213: 4758645713374314069
+    second: GuileSprites_65
+  - first:
+      213: -7671817076886478124
+    second: GuileSprites_66
+  - first:
+      213: -2209780291105206816
+    second: GuileSprites_67
+  - first:
+      213: 7287532692031465695
+    second: GuileSprites_68
+  - first:
+      213: -366200988313924078
+    second: GuileSprites_69
+  - first:
+      213: 5905928310674548959
+    second: GuileSprites_70
+  - first:
+      213: -968986528352539005
+    second: GuileSprites_71
+  - first:
+      213: -2806794125710678080
+    second: GuileSprites_72
+  - first:
+      213: 2064867040120595197
+    second: GuileSprites_73
+  - first:
+      213: -5180084346127859874
+    second: GuileSprites_74
+  - first:
+      213: 2438269966965679092
+    second: GuileSprites_75
+  - first:
+      213: -6854569903072267011
+    second: GuileSprites_76
+  - first:
+      213: 3923730687172417458
+    second: GuileSprites_77
+  - first:
+      213: -1050171782043637879
+    second: GuileSprites_78
+  - first:
+      213: -296189221226520898
+    second: GuileSprites_79
+  - first:
+      213: -7154852447973149982
+    second: GuileSprites_80
+  - first:
+      213: -5108745049159599663
+    second: GuileSprites_81
+  - first:
+      213: -4710587485241941656
+    second: GuileSprites_82
+  - first:
+      213: 7586421857767863286
+    second: GuileSprites_83
+  - first:
+      213: 2119210172771461772
+    second: GuileSprites_84
+  - first:
+      213: -1513679788547183062
+    second: GuileSprites_85
+  - first:
+      213: -6901444097052875296
+    second: GuileSprites_86
+  - first:
+      213: -6684906265437171035
+    second: GuileSprites_87
+  - first:
+      213: 1421978949377952209
+    second: GuileSprites_88
+  - first:
+      213: -3807392251865621979
+    second: GuileSprites_89
+  - first:
+      213: -2637788689999115726
+    second: GuileSprites_90
+  - first:
+      213: -1393620878897772815
+    second: GuileSprites_91
+  - first:
+      213: -4629682476948658590
+    second: GuileSprites_92
+  - first:
+      213: 700655557943592409
+    second: GuileSprites_93
+  - first:
+      213: -1112201820976106966
+    second: GuileSprites_94
+  - first:
+      213: -6799252682969145829
+    second: GuileSprites_95
+  - first:
+      213: 1611895736824494850
+    second: GuileSprites_96
+  - first:
+      213: 144025950807578367
+    second: GuileSprites_97
+  - first:
+      213: 5201854955896542731
+    second: GuileSprites_98
+  - first:
+      213: -1327423253470550402
+    second: GuileSprites_99
+  - first:
+      213: -7072798422693843506
+    second: GuileSprites_100
+  - first:
+      213: 4419181983516371845
+    second: GuileSprites_101
+  - first:
+      213: 8037924836268180513
+    second: GuileSprites_102
+  - first:
+      213: -6990466542174443399
+    second: GuileSprites_103
+  - first:
+      213: 7173112586993493512
+    second: GuileSprites_104
+  - first:
+      213: -2425315741559335348
+    second: GuileSprites_105
+  - first:
+      213: -6455569789467213809
+    second: GuileSprites_106
+  - first:
+      213: 2707651435226618210
+    second: GuileSprites_107
+  - first:
+      213: 8447124551129338145
+    second: GuileSprites_108
+  - first:
+      213: -3532429573218671464
+    second: GuileSprites_109
+  - first:
+      213: -4405168514035638975
+    second: GuileSprites_110
+  - first:
+      213: 7635037420250062089
+    second: GuileSprites_111
+  - first:
+      213: 5350655709559988001
+    second: GuileSprites_112
+  - first:
+      213: 3528699732714894071
+    second: GuileSprites_113
+  - first:
+      213: -7530286360157533972
+    second: GuileSprites_114
+  - first:
+      213: 2704956073946917859
+    second: GuileSprites_115
+  - first:
+      213: 222164603459619410
+    second: GuileSprites_116
+  - first:
+      213: -7206496856103456103
+    second: GuileSprites_117
+  - first:
+      213: 8708695881369179157
+    second: GuileSprites_118
+  - first:
+      213: -8859122005833183376
+    second: GuileSprites_119
+  - first:
+      213: 9099521167562725559
+    second: GuileSprites_120
+  - first:
+      213: -709689019250726438
+    second: GuileSprites_121
+  - first:
+      213: 8045503275730145580
+    second: GuileSprites_122
+  - first:
+      213: -8328703396888990517
+    second: GuileSprites_123
+  - first:
+      213: -6689344290658329893
+    second: GuileSprites_124
+  - first:
+      213: 3649432294083009204
+    second: GuileSprites_125
+  - first:
+      213: -8837111134361926549
+    second: GuileSprites_126
+  - first:
+      213: 8665565180413564354
+    second: GuileSprites_127
+  - first:
+      213: 2943556153397241315
+    second: GuileSprites_128
+  - first:
+      213: -3550387213048008888
+    second: GuileSprites_129
+  - first:
+      213: 3337782116999748906
+    second: GuileSprites_130
+  - first:
+      213: 3837431997086715973
+    second: GuileSprites_131
+  - first:
+      213: 6347294238200466489
+    second: GuileSprites_132
+  - first:
+      213: 6241113327261201596
+    second: GuileSprites_133
+  - first:
+      213: 3722405951644360342
+    second: GuileSprites_134
+  - first:
+      213: 2863324294381924713
+    second: GuileSprites_135
+  - first:
+      213: -76833891019503754
+    second: GuileSprites_136
+  - first:
+      213: -304827210199322858
+    second: GuileSprites_137
+  - first:
+      213: -3440455493744697001
+    second: GuileSprites_138
+  - first:
+      213: -5522923717985098387
+    second: GuileSprites_139
+  - first:
+      213: 6545385663163624194
+    second: GuileSprites_140
+  - first:
+      213: -2397234322126652158
+    second: GuileSprites_141
+  - first:
+      213: -8866649981357192176
+    second: GuileSprites_142
+  - first:
+      213: 2391038659416472666
+    second: GuileSprites_143
+  - first:
+      213: -3561020607830143693
+    second: GuileSprites_144
+  - first:
+      213: -9048895447099127456
+    second: GuileSprites_145
+  - first:
+      213: 5819540095733443134
+    second: GuileSprites_146
+  - first:
+      213: -396438509881145858
+    second: GuileSprites_147
+  - first:
+      213: 9163150329299460944
+    second: GuileSprites_148
+  - first:
+      213: -4655823445783210568
+    second: GuileSprites_149
+  - first:
+      213: -3116608789502834217
+    second: GuileSprites_150
+  - first:
+      213: 9120012744687273615
+    second: GuileSprites_151
+  - first:
+      213: 2061517910775710764
+    second: GuileSprites_152
+  - first:
+      213: 4113392690380951673
+    second: GuileSprites_153
+  - first:
+      213: -8798461777484931243
+    second: GuileSprites_154
+  - first:
+      213: -3667005114367742721
+    second: GuileSprites_155
+  - first:
+      213: -3927301979055210493
+    second: GuileSprites_156
+  - first:
+      213: 3486833789135030856
+    second: GuileSprites_157
+  - first:
+      213: 5748961898580045144
+    second: GuileSprites_158
+  - first:
+      213: 7332048775158772901
+    second: GuileSprites_159
+  - first:
+      213: 2167551634470376427
+    second: GuileSprites_160
+  - first:
+      213: -2181375141519658314
+    second: GuileSprites_161
+  - first:
+      213: -6517886112746490764
+    second: GuileSprites_162
+  - first:
+      213: 4088889742276010814
+    second: GuileSprites_163
+  - first:
+      213: -8392674671022597875
+    second: GuileSprites_164
+  - first:
+      213: 3542567613585054659
+    second: GuileSprites_165
+  - first:
+      213: -8279596156460588549
+    second: GuileSprites_166
+  - first:
+      213: 5914998480966601483
+    second: GuileSprites_167
+  - first:
+      213: -8568953244770238854
+    second: GuileSprites_168
+  - first:
+      213: -4192013136264559527
+    second: GuileSprites_169
+  - first:
+      213: 6982841850880216766
+    second: GuileSprites_170
+  - first:
+      213: -9029413364489249869
+    second: GuileSprites_171
+  - first:
+      213: 4634035555394002230
+    second: GuileSprites_172
+  - first:
+      213: -5959329139218812927
+    second: GuileSprites_173
+  - first:
+      213: 6157338252519385912
+    second: GuileSprites_174
+  - first:
+      213: 2080209246213715805
+    second: GuileSprites_175
+  - first:
+      213: -7186698426995456119
+    second: GuileSprites_176
+  - first:
+      213: -4222508919092688292
+    second: GuileSprites_177
+  - first:
+      213: -8415671666963532147
+    second: GuileSprites_178
+  - first:
+      213: 5235213454223630190
+    second: GuileSprites_179
+  - first:
+      213: -7382281610819918634
+    second: GuileSprites_180
+  - first:
+      213: 9101452028023045092
+    second: GuileSprites_181
+  - first:
+      213: 2458395377963374905
+    second: GuileSprites_182
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GuileSprites_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1074
+        width: 50
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad8c569ab6dce4910800000000000000
+      internalID: 1823620761418844378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_1
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1074
+        width: 49
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd3aaf39f4a372120800000000000000
+      internalID: 2388942240802841563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_2
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1074
+        width: 50
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45c943be9df40dd00800000000000000
+      internalID: 995383315021470804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_3
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 1074
+        width: 49
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1371b36888260c460800000000000000
+      internalID: 7259910937828333361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_4
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 1074
+        width: 49
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d436a86330b923c70800000000000000
+      internalID: 8949385847640843085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_5
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1074
+        width: 49
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f248250016316fdb0800000000000000
+      internalID: -4758594648932187089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_6
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 1074
+        width: 49
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5c9e1a570619f7e0800000000000000
+      internalID: -1731328360914707364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_7
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1074
+        width: 50
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2bf193710b7ebc70800000000000000
+      internalID: 8988757152442219306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_8
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 1074
+        width: 46
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3efc6ceda68fef20800000000000000
+      internalID: 3454127520770489916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_9
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 1074
+        width: 42
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41561516161c2edd0800000000000000
+      internalID: -2458189822602156780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_10
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 1083
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97e57dc3222971b50800000000000000
+      internalID: 6563875657663078009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_11
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 1103
+        width: 33
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d1282058cd5b9950800000000000000
+      internalID: 6456857605685387730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_12
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 1083
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb2a4482a75f00200800000000000000
+      internalID: 144385093086257855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_13
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 1074
+        width: 42
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31afb0c07631a3500800000000000000
+      internalID: 376634852143528467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_14
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 1074
+        width: 46
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 273c7d536bdb9a4c0800000000000000
+      internalID: -4275677780926545038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_15
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 1074
+        width: 47
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a29352e9745d23bc0800000000000000
+      internalID: -3804744231602013910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_16
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 1101
+        width: 53
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 106b2f05fd8acb4b0800000000000000
+      internalID: -5423274174171662847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_17
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 1094
+        width: 47
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 444eafa7669123d10800000000000000
+      internalID: 2103771903876064324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_18
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 1101
+        width: 53
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bfee3c1810791dd0800000000000000
+      internalID: -2514855668054298702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_19
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 1074
+        width: 47
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34f4e643fef295950800000000000000
+      internalID: 6438229846726168387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_20
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 1074
+        width: 46
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b8e7a1bf77622090800000000000000
+      internalID: -8060766584900687694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_21
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 1074
+        width: 47
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc6058802db4cb4b0800000000000000
+      internalID: -5423376485802768692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_22
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 1074
+        width: 53
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cbdbf4b4a0a84720800000000000000
+      internalID: 2830688995073842112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_23
+      rect:
+        serializedVersion: 2
+        x: 1237
+        y: 1074
+        width: 45
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b4aed25138564fe0800000000000000
+      internalID: -1205178881408064329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_24
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 1074
+        width: 43
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cdd99e96e3855990800000000000000
+      internalID: -7397861786359571004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_25
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 948
+        width: 56
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e95daefb373fffba0800000000000000
+      internalID: -6052851695696030306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_26
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 948
+        width: 69
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf84437dbbad4e610800000000000000
+      internalID: 1649683863828711676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_27
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 948
+        width: 56
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e6f9efacebc30ba0800000000000000
+      internalID: -6123826850869676314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_28
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 948
+        width: 67
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cda2954aec222c90800000000000000
+      internalID: -7196139869883421239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_29
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 948
+        width: 67
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f027f520a04ac3840800000000000000
+      internalID: 5205215632229888527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_30
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 948
+        width: 67
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04efdb52f7b54b1c0800000000000000
+      internalID: -4488862326929359296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_31
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 948
+        width: 50
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d45848973ccd061f0800000000000000
+      internalID: -1053599580689234611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_32
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 948
+        width: 47
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3f0e50cc521d10d0800000000000000
+      internalID: -3450581549922250947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_33
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 948
+        width: 43
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e71946820ac54a50800000000000000
+      internalID: 6504827348998232041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_34
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 948
+        width: 85
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5213b9f3b37e5e5e0800000000000000
+      internalID: -1880843027701092059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_35
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 948
+        width: 47
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3432dbc18b1ff4bb0800000000000000
+      internalID: -4949471692398451901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_36
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 948
+        width: 52
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6822eb109f8524e30800000000000000
+      internalID: 4486246005313774214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_37
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 948
+        width: 52
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51f603b2a4cf07cb0800000000000000
+      internalID: -4868113801705132267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_38
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 1000
+        width: 53
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cdfd1db76abf4bc0800000000000000
+      internalID: -3796611006132781623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_39
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 993
+        width: 47
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e8768eca205629d0800000000000000
+      internalID: -2799461973580416799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_40
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 995
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e161615252c7021a0800000000000000
+      internalID: -6836327735370574306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_41
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 997
+        width: 85
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 280fde2e49e5e6810800000000000000
+      internalID: 1760448497903857794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_42
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 992
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42757d34b741269a0800000000000000
+      internalID: -6241403613930367196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_43
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 1002
+        width: 53
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a87611677cf93fcf0800000000000000
+      internalID: -219656277782861942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_44
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 948
+        width: 51
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 179e71cdb60c00660800000000000000
+      internalID: 7350086161355237745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_45
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 948
+        width: 43
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1b509355fc1db770800000000000000
+      internalID: 8628084301106273054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_46
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 948
+        width: 43
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 922ae93bbb6b67890800000000000000
+      internalID: -7460574815403990487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_47
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 948
+        width: 43
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60a3f946ee3332a50800000000000000
+      internalID: 6495092186581776902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_48
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 948
+        width: 43
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56ff257602a4a5c50800000000000000
+      internalID: 6654712902426230629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_49
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 948
+        width: 43
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7492bcc8a61b570f0800000000000000
+      internalID: -1119793861144925881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_50
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 948
+        width: 43
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b63f736f15ebc9b20800000000000000
+      internalID: 3142595899230253931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_51
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 823
+        width: 45
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a7d9ca0a6c375350800000000000000
+      internalID: 6005335054267045796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_52
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 823
+        width: 82
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1efc0be38789b5ab0800000000000000
+      internalID: -5018249717559013407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_53
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 823
+        width: 45
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 282b95f0acc7bfc90800000000000000
+      internalID: -7134971977355644286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_54
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 823
+        width: 47
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4d3ddb653d02df90800000000000000
+      internalID: -6930462353475682993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_55
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 851
+        width: 45
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8be1a61f18149b5a0800000000000000
+      internalID: -6505096160403120456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_56
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 869
+        width: 83
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbe3ce09353cb0630800000000000000
+      internalID: 3894421066473029308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_57
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 856
+        width: 36
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dee5e851c41dd8bb0800000000000000
+      internalID: -4932055892191453459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_58
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 823
+        width: 51
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adcd67a36492f81b0800000000000000
+      internalID: -5652253625721365286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_59
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 823
+        width: 47
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd7d34f129f1a1ed0800000000000000
+      internalID: -2442605135444846625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_60
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 823
+        width: 46
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05476538fc9c55980800000000000000
+      internalID: -8550706424394124208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_61
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 823
+        width: 52
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39cd617a9b503bbc0800000000000000
+      internalID: -3768662168248591213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_62
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 823
+        width: 57
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a079c2899ae4d930800000000000000
+      internalID: 4167213500269686951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_63
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 823
+        width: 75
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 227d79b188db60780800000000000000
+      internalID: -8717071636452878558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_64
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 823
+        width: 56
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaf25a6e4d62f67a0800000000000000
+      internalID: -6381839451116195922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_65
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 823
+        width: 45
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55e7c9d501b1a0240800000000000000
+      internalID: 4758645713374314069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_66
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 823
+        width: 42
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d2e76ef30b388590800000000000000
+      internalID: -7671817076886478124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_67
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 823
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0edc30d78884551e0800000000000000
+      internalID: -2209780291105206816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_68
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 823
+        width: 46
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd8e4955f54822560800000000000000
+      internalID: 7287532692031465695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_69
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 823
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21ec62f242efaeaf0800000000000000
+      internalID: -366200988313924078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_70
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 823
+        width: 43
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd8eda2f18216f150800000000000000
+      internalID: 5905928310674548959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_71
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 823
+        width: 43
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38e6869e2e77d82f0800000000000000
+      internalID: -968986528352539005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_72
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 823
+        width: 43
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c7ac5b1d934c09d0800000000000000
+      internalID: -2806794125710678080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_73
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 688
+        width: 58
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df2ecc202a1e7ac10800000000000000
+      internalID: 2064867040120595197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_74
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 688
+        width: 66
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5fbc728bb4ac18b0800000000000000
+      internalID: -5180084346127859874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_75
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 688
+        width: 58
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f32e7fcd9976d120800000000000000
+      internalID: 2438269966965679092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_76
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 688
+        width: 54
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df43b4f7dfcafd0a0800000000000000
+      internalID: -6854569903072267011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_77
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 688
+        width: 67
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b7163b6544e37630800000000000000
+      internalID: 3923730687172417458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_78
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 688
+        width: 51
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 987662a045a0d61f0800000000000000
+      internalID: -1050171782043637879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_79
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 688
+        width: 67
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebe5e7af879b3ebf0800000000000000
+      internalID: -296189221226520898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_80
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 688
+        width: 50
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e2f93a4b9bd4bc90800000000000000
+      internalID: -7154852447973149982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_81
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 688
+        width: 92
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d97ec0f1771a19b0800000000000000
+      internalID: -5108745049159599663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_82
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 688
+        width: 50
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 861e0c2d3a1a0aeb0800000000000000
+      internalID: -4710587485241941656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_83
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 688
+        width: 45
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f3338c2c72684960800000000000000
+      internalID: 7586421857767863286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_84
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 687
+        width: 94
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8aef609c62f86d10800000000000000
+      internalID: 2119210172771461772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_85
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 688
+        width: 70
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2ee4fb80445efae0800000000000000
+      internalID: -1513679788547183062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_86
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 688
+        width: 50
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e562fdb8252930a0800000000000000
+      internalID: -6901444097052875296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_87
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 688
+        width: 92
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a295d37b217a33a0800000000000000
+      internalID: -6684906265437171035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_88
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 688
+        width: 57
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d981cb0252ebb310800000000000000
+      internalID: 1421978949377952209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_89
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 688
+        width: 45
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52a99fa5bec692bc0800000000000000
+      internalID: -3807392251865621979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_90
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 687
+        width: 94
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23a4f0c7921b46bd0800000000000000
+      internalID: -2637788689999115726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_91
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 688
+        width: 70
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f60bb1c13dd8ace0800000000000000
+      internalID: -1393620878897772815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_92
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 582
+        width: 54
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 266ef9af05010cfb0800000000000000
+      internalID: -4629682476948658590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_93
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 590
+        width: 61
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d58129848a39b900800000000000000
+      internalID: 700655557943592409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_94
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 582
+        width: 54
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a223d26265aa090f0800000000000000
+      internalID: -1112201820976106966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_95
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 582
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1e908575b334a1a0800000000000000
+      internalID: -6799252682969145829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_96
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 586
+        width: 56
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20bf368e1aa9e5610800000000000000
+      internalID: 1611895736824494850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_97
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 582
+        width: 37
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff6d254d6deaff100800000000000000
+      internalID: 144025950807578367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_98
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 584
+        width: 45
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0691539583b03840800000000000000
+      internalID: 5201854955896542731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_99
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 598
+        width: 83
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e766b4e759b049de0800000000000000
+      internalID: -1327423253470550402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_100
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 589
+        width: 36
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecde36fce4f58dd90800000000000000
+      internalID: -7072798422693843506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_101
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 596
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58bac45a996145d30800000000000000
+      internalID: 4419181983516371845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_102
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 590
+        width: 85
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1240e054d027c8f60800000000000000
+      internalID: 8037924836268180513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_103
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 597
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 978607b87bfdcfe90800000000000000
+      internalID: -6990466542174443399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_104
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 594
+        width: 33
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80661a1a4e30c8360800000000000000
+      internalID: 7173112586993493512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_105
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 601
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c465134de2c875ed0800000000000000
+      internalID: -2425315741559335348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_106
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 594
+        width: 33
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f004014ca753966a0800000000000000
+      internalID: -6455569789467213809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_107
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 594
+        width: 72
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 269524472a2839520800000000000000
+      internalID: 2707651435226618210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_108
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 468
+        width: 58
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1219b8346073a3570800000000000000
+      internalID: 8447124551129338145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_109
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 468
+        width: 82
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 894673ec40a4afec0800000000000000
+      internalID: -3532429573218671464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_110
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 468
+        width: 52
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14d9b297392bdd2c0800000000000000
+      internalID: -4405168514035638975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_111
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 504
+        width: 41
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90dd1d0e41a15f960800000000000000
+      internalID: 7635037420250062089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_112
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 504
+        width: 41
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12f1db3d409514a40800000000000000
+      internalID: 5350655709559988001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_113
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 517
+        width: 38
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f2bc7706b578f030800000000000000
+      internalID: 3528699732714894071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_114
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 504
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce847ddd37c0f7790800000000000000
+      internalID: -7530286360157533972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_115
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 501
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eb24a0c73fe98520800000000000000
+      internalID: 2704956073946917859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_116
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 499
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25a40ee9789451300800000000000000
+      internalID: 222164603459619410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_117
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 498
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 992fbf08a416dfb90800000000000000
+      internalID: -7206496856103456103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_118
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 480
+        width: 33
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 514dae173c08bd870800000000000000
+      internalID: 8708695881369179157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_119
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 468
+        width: 54
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07f877c29731e0580800000000000000
+      internalID: -8859122005833183376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_120
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 495
+        width: 66
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b859b26a4ef74e70800000000000000
+      internalID: 9099521167562725559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_121
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 484
+        width: 76
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad9a09ad89da626f0800000000000000
+      internalID: -709689019250726438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_122
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 477
+        width: 44
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2113253a9e57af60800000000000000
+      internalID: 8045503275730145580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_123
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 503
+        width: 52
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcca7dc43608a6c80800000000000000
+      internalID: -8328703396888990517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_124
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 499
+        width: 38
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdad50f2fccaa23a0800000000000000
+      internalID: -6689344290658329893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_125
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 366
+        width: 45
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ba18a0065365a230800000000000000
+      internalID: 3649432294083009204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_126
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 366
+        width: 78
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6445bb8e364c5580800000000000000
+      internalID: -8837111134361926549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_127
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 366
+        width: 85
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c55b849e95424870800000000000000
+      internalID: 8665565180413564354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_128
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 366
+        width: 62
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e568a3d9bc99d820800000000000000
+      internalID: 2943556153397241315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_129
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 366
+        width: 59
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84f2f27f3ad7abec0800000000000000
+      internalID: -3550387213048008888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_130
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 366
+        width: 51
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2ddb6da62f225e20800000000000000
+      internalID: 3337782116999748906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_131
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 366
+        width: 51
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 540521cd11c414530800000000000000
+      internalID: 3837431997086715973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_132
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 369
+        width: 49
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93c82d0fa7e161850800000000000000
+      internalID: 6347294238200466489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_133
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 369
+        width: 53
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb43c5a1183ec9650800000000000000
+      internalID: 6241113327261201596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_134
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 366
+        width: 50
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69edf89ad74a8a330800000000000000
+      internalID: 3722405951644360342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_135
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 366
+        width: 45
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 961716376429cb720800000000000000
+      internalID: 2863324294381924713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_136
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 366
+        width: 46
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6774213bbf70feef0800000000000000
+      internalID: -76833891019503754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_137
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 259
+        width: 45
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61f2232744905cbf0800000000000000
+      internalID: -304827210199322858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_138
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 259
+        width: 48
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7516ecde4fb0140d0800000000000000
+      internalID: -3440455493744697001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_139
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 259
+        width: 64
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d652be3e322aa53b0800000000000000
+      internalID: -5522923717985098387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_140
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 259
+        width: 58
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20b6dcae491e5da50800000000000000
+      internalID: 6545385663163624194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_141
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 259
+        width: 62
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20d344ac5105bbed0800000000000000
+      internalID: -2397234322126652158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_142
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 259
+        width: 68
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01c0b79c1d453f480800000000000000
+      internalID: -8866649981357192176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_143
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 259
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5cbeb21efcae2120800000000000000
+      internalID: 2391038659416472666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_144
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 259
+        width: 58
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33d4070df96b49ec0800000000000000
+      internalID: -3561020607830143693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_145
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 279
+        width: 63
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 069c102b88ddb6280800000000000000
+      internalID: -9048895447099127456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_146
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 259
+        width: 58
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3aa55242e823c050800000000000000
+      internalID: 5819540095733443134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_147
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 306
+        width: 52
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef5cf3396419f7af0800000000000000
+      internalID: -396438509881145858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_148
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 288
+        width: 33
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 053e5611dac0a2f70800000000000000
+      internalID: 9163150329299460944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_149
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 259
+        width: 48
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b518216e31336fb0800000000000000
+      internalID: -4655823445783210568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_150
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 259
+        width: 69
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d9c2d581d49fb4d0800000000000000
+      internalID: -3116608789502834217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_151
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 259
+        width: 45
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f86ce1a754bc09e70800000000000000
+      internalID: 9120012744687273615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_152
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 259
+        width: 45
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2444e11e9bfb9c10800000000000000
+      internalID: 2061517910775710764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_153
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 138
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97058d3bbd4b51930800000000000000
+      internalID: 4113392690380951673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_154
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 152
+        width: 63
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55f982f21a595e580800000000000000
+      internalID: -8798461777484931243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_155
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 138
+        width: 85
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffce190f64e2c1dc0800000000000000
+      internalID: -3667005114367742721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_156
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 152
+        width: 63
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 300c9b468ab6f79c0800000000000000
+      internalID: -3927301979055210493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_157
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 138
+        width: 69
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84a09307bd8b36030800000000000000
+      internalID: 3486833789135030856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_158
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 138
+        width: 85
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85d6e10336a68cf40800000000000000
+      internalID: 5748961898580045144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_159
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 136
+        width: 45
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a43d2f938ba0c560800000000000000
+      internalID: 7332048775158772901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_160
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 136
+        width: 45
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be39ce43ab0b41e10800000000000000
+      internalID: 2167551634470376427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_161
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 136
+        width: 45
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b27adfbdd23ab1e0800000000000000
+      internalID: -2181375141519658314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_162
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 136
+        width: 45
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4743b4b1d11db85a0800000000000000
+      internalID: -6517886112746490764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_163
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 136
+        width: 45
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e33a9168e87aeb830800000000000000
+      internalID: 4088889742276010814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_164
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 136
+        width: 45
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d09974e5ada378b80800000000000000
+      internalID: -8392674671022597875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_165
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 136
+        width: 45
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cb5a88a97ab92130800000000000000
+      internalID: 3542567613585054659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_166
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 136
+        width: 45
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf12a72b927f81d80800000000000000
+      internalID: -8279596156460588549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_167
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 5
+        width: 49
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0b4df887cb461250800000000000000
+      internalID: 5914998480966601483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_168
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 5
+        width: 49
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7ef9849c66f41980800000000000000
+      internalID: -8568953244770238854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_169
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 5
+        width: 49
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9540e27434af2d5c0800000000000000
+      internalID: -4192013136264559527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_170
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 5
+        width: 49
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebe427caaa908e060800000000000000
+      internalID: 6982841850880216766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_171
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 5
+        width: 49
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bb1477826411b280800000000000000
+      internalID: -9029413364489249869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_172
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 5
+        width: 57
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63d1ac319c66f4040800000000000000
+      internalID: 4634035555394002230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_173
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 5
+        width: 60
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1007a35c8b53c4da0800000000000000
+      internalID: -5959329139218812927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_174
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 5
+        width: 59
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83ba7578482437550800000000000000
+      internalID: 6157338252519385912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_175
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 5
+        width: 51
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d573d0bb9436edc10800000000000000
+      internalID: 2080209246213715805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_176
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 7
+        width: 50
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 987c31f7bd7b34c90800000000000000
+      internalID: -7186698426995456119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_177
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 7
+        width: 50
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5acf888282a665c0800000000000000
+      internalID: -4222508919092688292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_178
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 7
+        width: 50
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d86b1500537853b80800000000000000
+      internalID: -8415671666963532147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_179
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 7
+        width: 50
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6f585636e637a840800000000000000
+      internalID: 5235213454223630190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_180
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 7
+        width: 50
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d42e2becfddc8990800000000000000
+      internalID: -7382281610819918634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_181
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 7
+        width: 50
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eb729ed56ade4e70800000000000000
+      internalID: 9101452028023045092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuileSprites_182
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 7
+        width: 50
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93918f43299fd1220800000000000000
+      internalID: 2458395377963374905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      GuileSprites_0: 1823620761418844378
+      GuileSprites_1: 2388942240802841563
+      GuileSprites_10: 6563875657663078009
+      GuileSprites_100: -7072798422693843506
+      GuileSprites_101: 4419181983516371845
+      GuileSprites_102: 8037924836268180513
+      GuileSprites_103: -6990466542174443399
+      GuileSprites_104: 7173112586993493512
+      GuileSprites_105: -2425315741559335348
+      GuileSprites_106: -6455569789467213809
+      GuileSprites_107: 2707651435226618210
+      GuileSprites_108: 8447124551129338145
+      GuileSprites_109: -3532429573218671464
+      GuileSprites_11: 6456857605685387730
+      GuileSprites_110: -4405168514035638975
+      GuileSprites_111: 7635037420250062089
+      GuileSprites_112: 5350655709559988001
+      GuileSprites_113: 3528699732714894071
+      GuileSprites_114: -7530286360157533972
+      GuileSprites_115: 2704956073946917859
+      GuileSprites_116: 222164603459619410
+      GuileSprites_117: -7206496856103456103
+      GuileSprites_118: 8708695881369179157
+      GuileSprites_119: -8859122005833183376
+      GuileSprites_12: 144385093086257855
+      GuileSprites_120: 9099521167562725559
+      GuileSprites_121: -709689019250726438
+      GuileSprites_122: 8045503275730145580
+      GuileSprites_123: -8328703396888990517
+      GuileSprites_124: -6689344290658329893
+      GuileSprites_125: 3649432294083009204
+      GuileSprites_126: -8837111134361926549
+      GuileSprites_127: 8665565180413564354
+      GuileSprites_128: 2943556153397241315
+      GuileSprites_129: -3550387213048008888
+      GuileSprites_13: 376634852143528467
+      GuileSprites_130: 3337782116999748906
+      GuileSprites_131: 3837431997086715973
+      GuileSprites_132: 6347294238200466489
+      GuileSprites_133: 6241113327261201596
+      GuileSprites_134: 3722405951644360342
+      GuileSprites_135: 2863324294381924713
+      GuileSprites_136: -76833891019503754
+      GuileSprites_137: -304827210199322858
+      GuileSprites_138: -3440455493744697001
+      GuileSprites_139: -5522923717985098387
+      GuileSprites_14: -4275677780926545038
+      GuileSprites_140: 6545385663163624194
+      GuileSprites_141: -2397234322126652158
+      GuileSprites_142: -8866649981357192176
+      GuileSprites_143: 2391038659416472666
+      GuileSprites_144: -3561020607830143693
+      GuileSprites_145: -9048895447099127456
+      GuileSprites_146: 5819540095733443134
+      GuileSprites_147: -396438509881145858
+      GuileSprites_148: 9163150329299460944
+      GuileSprites_149: -4655823445783210568
+      GuileSprites_15: -3804744231602013910
+      GuileSprites_150: -3116608789502834217
+      GuileSprites_151: 9120012744687273615
+      GuileSprites_152: 2061517910775710764
+      GuileSprites_153: 4113392690380951673
+      GuileSprites_154: -8798461777484931243
+      GuileSprites_155: -3667005114367742721
+      GuileSprites_156: -3927301979055210493
+      GuileSprites_157: 3486833789135030856
+      GuileSprites_158: 5748961898580045144
+      GuileSprites_159: 7332048775158772901
+      GuileSprites_16: -5423274174171662847
+      GuileSprites_160: 2167551634470376427
+      GuileSprites_161: -2181375141519658314
+      GuileSprites_162: -6517886112746490764
+      GuileSprites_163: 4088889742276010814
+      GuileSprites_164: -8392674671022597875
+      GuileSprites_165: 3542567613585054659
+      GuileSprites_166: -8279596156460588549
+      GuileSprites_167: 5914998480966601483
+      GuileSprites_168: -8568953244770238854
+      GuileSprites_169: -4192013136264559527
+      GuileSprites_17: 2103771903876064324
+      GuileSprites_170: 6982841850880216766
+      GuileSprites_171: -9029413364489249869
+      GuileSprites_172: 4634035555394002230
+      GuileSprites_173: -5959329139218812927
+      GuileSprites_174: 6157338252519385912
+      GuileSprites_175: 2080209246213715805
+      GuileSprites_176: -7186698426995456119
+      GuileSprites_177: -4222508919092688292
+      GuileSprites_178: -8415671666963532147
+      GuileSprites_179: 5235213454223630190
+      GuileSprites_18: -2514855668054298702
+      GuileSprites_180: -7382281610819918634
+      GuileSprites_181: 9101452028023045092
+      GuileSprites_182: 2458395377963374905
+      GuileSprites_19: 6438229846726168387
+      GuileSprites_2: 995383315021470804
+      GuileSprites_20: -8060766584900687694
+      GuileSprites_21: -5423376485802768692
+      GuileSprites_22: 2830688995073842112
+      GuileSprites_23: -1205178881408064329
+      GuileSprites_24: -7397861786359571004
+      GuileSprites_25: -6052851695696030306
+      GuileSprites_26: 1649683863828711676
+      GuileSprites_27: -6123826850869676314
+      GuileSprites_28: -7196139869883421239
+      GuileSprites_29: 5205215632229888527
+      GuileSprites_3: 7259910937828333361
+      GuileSprites_30: -4488862326929359296
+      GuileSprites_31: -1053599580689234611
+      GuileSprites_32: -3450581549922250947
+      GuileSprites_33: 6504827348998232041
+      GuileSprites_34: -1880843027701092059
+      GuileSprites_35: -4949471692398451901
+      GuileSprites_36: 4486246005313774214
+      GuileSprites_37: -4868113801705132267
+      GuileSprites_38: -3796611006132781623
+      GuileSprites_39: -2799461973580416799
+      GuileSprites_4: 8949385847640843085
+      GuileSprites_40: -6836327735370574306
+      GuileSprites_41: 1760448497903857794
+      GuileSprites_42: -6241403613930367196
+      GuileSprites_43: -219656277782861942
+      GuileSprites_44: 7350086161355237745
+      GuileSprites_45: 8628084301106273054
+      GuileSprites_46: -7460574815403990487
+      GuileSprites_47: 6495092186581776902
+      GuileSprites_48: 6654712902426230629
+      GuileSprites_49: -1119793861144925881
+      GuileSprites_5: -4758594648932187089
+      GuileSprites_50: 3142595899230253931
+      GuileSprites_51: 6005335054267045796
+      GuileSprites_52: -5018249717559013407
+      GuileSprites_53: -7134971977355644286
+      GuileSprites_54: -6930462353475682993
+      GuileSprites_55: -6505096160403120456
+      GuileSprites_56: 3894421066473029308
+      GuileSprites_57: -4932055892191453459
+      GuileSprites_58: -5652253625721365286
+      GuileSprites_59: -2442605135444846625
+      GuileSprites_6: -1731328360914707364
+      GuileSprites_60: -8550706424394124208
+      GuileSprites_61: -3768662168248591213
+      GuileSprites_62: 4167213500269686951
+      GuileSprites_63: -8717071636452878558
+      GuileSprites_64: -6381839451116195922
+      GuileSprites_65: 4758645713374314069
+      GuileSprites_66: -7671817076886478124
+      GuileSprites_67: -2209780291105206816
+      GuileSprites_68: 7287532692031465695
+      GuileSprites_69: -366200988313924078
+      GuileSprites_7: 8988757152442219306
+      GuileSprites_70: 5905928310674548959
+      GuileSprites_71: -968986528352539005
+      GuileSprites_72: -2806794125710678080
+      GuileSprites_73: 2064867040120595197
+      GuileSprites_74: -5180084346127859874
+      GuileSprites_75: 2438269966965679092
+      GuileSprites_76: -6854569903072267011
+      GuileSprites_77: 3923730687172417458
+      GuileSprites_78: -1050171782043637879
+      GuileSprites_79: -296189221226520898
+      GuileSprites_8: 3454127520770489916
+      GuileSprites_80: -7154852447973149982
+      GuileSprites_81: -5108745049159599663
+      GuileSprites_82: -4710587485241941656
+      GuileSprites_83: 7586421857767863286
+      GuileSprites_84: 2119210172771461772
+      GuileSprites_85: -1513679788547183062
+      GuileSprites_86: -6901444097052875296
+      GuileSprites_87: -6684906265437171035
+      GuileSprites_88: 1421978949377952209
+      GuileSprites_89: -3807392251865621979
+      GuileSprites_9: -2458189822602156780
+      GuileSprites_90: -2637788689999115726
+      GuileSprites_91: -1393620878897772815
+      GuileSprites_92: -4629682476948658590
+      GuileSprites_93: 700655557943592409
+      GuileSprites_94: -1112201820976106966
+      GuileSprites_95: -6799252682969145829
+      GuileSprites_96: 1611895736824494850
+      GuileSprites_97: 144025950807578367
+      GuileSprites_98: 5201854955896542731
+      GuileSprites_99: -1327423253470550402
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

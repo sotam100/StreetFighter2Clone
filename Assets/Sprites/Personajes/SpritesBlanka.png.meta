@@ -1,0 +1,5018 @@
+fileFormatVersion: 2
+guid: d6d03bab274ed47418d0270fa7632565
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5747833346817840694
+    second: SpritesBlanka_0
+  - first:
+      213: 7150030897218496113
+    second: SpritesBlanka_1
+  - first:
+      213: 6263513302125361186
+    second: SpritesBlanka_2
+  - first:
+      213: 1831189103611132761
+    second: SpritesBlanka_3
+  - first:
+      213: -1726260838356782181
+    second: SpritesBlanka_4
+  - first:
+      213: 1901302466603655599
+    second: SpritesBlanka_5
+  - first:
+      213: -5005438610558364094
+    second: SpritesBlanka_6
+  - first:
+      213: -7172253907121460151
+    second: SpritesBlanka_7
+  - first:
+      213: -6085580024050334530
+    second: SpritesBlanka_8
+  - first:
+      213: -7918506853126439522
+    second: SpritesBlanka_9
+  - first:
+      213: 4503165230599630835
+    second: SpritesBlanka_10
+  - first:
+      213: -6871411983941811634
+    second: SpritesBlanka_11
+  - first:
+      213: -3931449993815070033
+    second: SpritesBlanka_12
+  - first:
+      213: 3313772531723320863
+    second: SpritesBlanka_13
+  - first:
+      213: 7627270667427798860
+    second: SpritesBlanka_14
+  - first:
+      213: -2899807578633851027
+    second: SpritesBlanka_15
+  - first:
+      213: 8616817125008756233
+    second: SpritesBlanka_16
+  - first:
+      213: -3391675400816586690
+    second: SpritesBlanka_17
+  - first:
+      213: 4490099697940245663
+    second: SpritesBlanka_18
+  - first:
+      213: 4982751148901598990
+    second: SpritesBlanka_19
+  - first:
+      213: -8500303263426017821
+    second: SpritesBlanka_20
+  - first:
+      213: -7509619242522754437
+    second: SpritesBlanka_21
+  - first:
+      213: 803480816095546311
+    second: SpritesBlanka_22
+  - first:
+      213: 1022182334489135800
+    second: SpritesBlanka_23
+  - first:
+      213: -8412598002869399646
+    second: SpritesBlanka_24
+  - first:
+      213: 908172796045352718
+    second: SpritesBlanka_25
+  - first:
+      213: -5157614279176167295
+    second: SpritesBlanka_26
+  - first:
+      213: -8955143269374090718
+    second: SpritesBlanka_27
+  - first:
+      213: 1606895525777872990
+    second: SpritesBlanka_28
+  - first:
+      213: -4341212117353462879
+    second: SpritesBlanka_29
+  - first:
+      213: -7669788472617140344
+    second: SpritesBlanka_30
+  - first:
+      213: -7022184179021926159
+    second: SpritesBlanka_31
+  - first:
+      213: 7531652730575789687
+    second: SpritesBlanka_32
+  - first:
+      213: -304634537880214873
+    second: SpritesBlanka_33
+  - first:
+      213: -3924514050131423626
+    second: SpritesBlanka_34
+  - first:
+      213: -2082399336962170853
+    second: SpritesBlanka_35
+  - first:
+      213: 7366678215914204715
+    second: SpritesBlanka_36
+  - first:
+      213: -6319827703308508211
+    second: SpritesBlanka_37
+  - first:
+      213: -6300626473565483886
+    second: SpritesBlanka_38
+  - first:
+      213: -6815091816589428058
+    second: SpritesBlanka_39
+  - first:
+      213: 8407368393310011214
+    second: SpritesBlanka_40
+  - first:
+      213: -5301994393910270472
+    second: SpritesBlanka_41
+  - first:
+      213: 8715000727108917798
+    second: SpritesBlanka_42
+  - first:
+      213: -761127091711482361
+    second: SpritesBlanka_43
+  - first:
+      213: -524799265045873496
+    second: SpritesBlanka_44
+  - first:
+      213: -6311175728671934185
+    second: SpritesBlanka_45
+  - first:
+      213: 3403872520483179942
+    second: SpritesBlanka_46
+  - first:
+      213: -2283647446653554132
+    second: SpritesBlanka_47
+  - first:
+      213: -6018563651221508448
+    second: SpritesBlanka_48
+  - first:
+      213: 3125500807628821800
+    second: SpritesBlanka_49
+  - first:
+      213: 5311817741660574756
+    second: SpritesBlanka_50
+  - first:
+      213: -8831599664785220818
+    second: SpritesBlanka_51
+  - first:
+      213: -8407630271784844543
+    second: SpritesBlanka_52
+  - first:
+      213: -4753422195518127786
+    second: SpritesBlanka_53
+  - first:
+      213: -1961415156660551314
+    second: SpritesBlanka_54
+  - first:
+      213: 7932353455099378642
+    second: SpritesBlanka_55
+  - first:
+      213: -3927941305539329642
+    second: SpritesBlanka_56
+  - first:
+      213: -3576455478727406016
+    second: SpritesBlanka_57
+  - first:
+      213: 4508326274024421932
+    second: SpritesBlanka_58
+  - first:
+      213: 4612725437652640215
+    second: SpritesBlanka_59
+  - first:
+      213: 5242047737008959840
+    second: SpritesBlanka_60
+  - first:
+      213: -50539328116324241
+    second: SpritesBlanka_61
+  - first:
+      213: -5379256731793118140
+    second: SpritesBlanka_62
+  - first:
+      213: -6027951181041300349
+    second: SpritesBlanka_63
+  - first:
+      213: -2927656311289326232
+    second: SpritesBlanka_64
+  - first:
+      213: -88861967641670520
+    second: SpritesBlanka_65
+  - first:
+      213: 2231012138879555356
+    second: SpritesBlanka_66
+  - first:
+      213: -751171578509206059
+    second: SpritesBlanka_67
+  - first:
+      213: -8023322454198668969
+    second: SpritesBlanka_68
+  - first:
+      213: 1070877204796789071
+    second: SpritesBlanka_69
+  - first:
+      213: 1000443122827530197
+    second: SpritesBlanka_70
+  - first:
+      213: 2085409642204169363
+    second: SpritesBlanka_71
+  - first:
+      213: -1346690391344893555
+    second: SpritesBlanka_72
+  - first:
+      213: 3341032107656249856
+    second: SpritesBlanka_73
+  - first:
+      213: -1160962999277338424
+    second: SpritesBlanka_74
+  - first:
+      213: 3510263057283728197
+    second: SpritesBlanka_75
+  - first:
+      213: 1076190769528048813
+    second: SpritesBlanka_76
+  - first:
+      213: 4901534128435394745
+    second: SpritesBlanka_77
+  - first:
+      213: -6459123797805449762
+    second: SpritesBlanka_78
+  - first:
+      213: -674289580250290251
+    second: SpritesBlanka_79
+  - first:
+      213: 8302286682712893293
+    second: SpritesBlanka_80
+  - first:
+      213: -3317602982646684713
+    second: SpritesBlanka_81
+  - first:
+      213: 7827385796124122725
+    second: SpritesBlanka_82
+  - first:
+      213: 7660145125220158335
+    second: SpritesBlanka_83
+  - first:
+      213: -7852886627286418104
+    second: SpritesBlanka_84
+  - first:
+      213: 7787598579737416226
+    second: SpritesBlanka_85
+  - first:
+      213: 2598564060448202312
+    second: SpritesBlanka_86
+  - first:
+      213: 7909379126437510172
+    second: SpritesBlanka_87
+  - first:
+      213: -8614076417315636042
+    second: SpritesBlanka_88
+  - first:
+      213: -8079443687415010838
+    second: SpritesBlanka_89
+  - first:
+      213: 1631910924127987742
+    second: SpritesBlanka_90
+  - first:
+      213: -378893005262722313
+    second: SpritesBlanka_91
+  - first:
+      213: -7189804949004884340
+    second: SpritesBlanka_92
+  - first:
+      213: -8270419409118154492
+    second: SpritesBlanka_93
+  - first:
+      213: 5892166627461938111
+    second: SpritesBlanka_94
+  - first:
+      213: 922036590544784563
+    second: SpritesBlanka_95
+  - first:
+      213: -2470439719285194604
+    second: SpritesBlanka_96
+  - first:
+      213: -7557362058356538662
+    second: SpritesBlanka_97
+  - first:
+      213: 3816185056042808424
+    second: SpritesBlanka_98
+  - first:
+      213: -8774767395130439521
+    second: SpritesBlanka_99
+  - first:
+      213: 8387318600424319618
+    second: SpritesBlanka_100
+  - first:
+      213: -4211704706347573604
+    second: SpritesBlanka_101
+  - first:
+      213: -5306497938184659438
+    second: SpritesBlanka_102
+  - first:
+      213: 2602533553983603797
+    second: SpritesBlanka_103
+  - first:
+      213: -9191490178382582466
+    second: SpritesBlanka_104
+  - first:
+      213: -92742337681156141
+    second: SpritesBlanka_105
+  - first:
+      213: -5752877438056197845
+    second: SpritesBlanka_106
+  - first:
+      213: 4131651727495374842
+    second: SpritesBlanka_107
+  - first:
+      213: 6158521458469268679
+    second: SpritesBlanka_108
+  - first:
+      213: -6108473653525484358
+    second: SpritesBlanka_109
+  - first:
+      213: -3425955632192898600
+    second: SpritesBlanka_110
+  - first:
+      213: 8170009910201639175
+    second: SpritesBlanka_111
+  - first:
+      213: 8439210297525182806
+    second: SpritesBlanka_112
+  - first:
+      213: -6744075655614989289
+    second: SpritesBlanka_113
+  - first:
+      213: -515537355139972899
+    second: SpritesBlanka_114
+  - first:
+      213: 7933311022974193969
+    second: SpritesBlanka_115
+  - first:
+      213: -196272071387534806
+    second: SpritesBlanka_116
+  - first:
+      213: -4709961905755595179
+    second: SpritesBlanka_117
+  - first:
+      213: -3418206927438751478
+    second: SpritesBlanka_118
+  - first:
+      213: 2404925970268688600
+    second: SpritesBlanka_119
+  - first:
+      213: -322109400718454469
+    second: SpritesBlanka_120
+  - first:
+      213: 1431146240564693275
+    second: SpritesBlanka_121
+  - first:
+      213: 1393962123765846860
+    second: SpritesBlanka_122
+  - first:
+      213: 8415252944384708901
+    second: SpritesBlanka_123
+  - first:
+      213: 8690193914830440358
+    second: SpritesBlanka_124
+  - first:
+      213: -974324374653308563
+    second: SpritesBlanka_125
+  - first:
+      213: 3988147800368360744
+    second: SpritesBlanka_126
+  - first:
+      213: -1961569366531487695
+    second: SpritesBlanka_127
+  - first:
+      213: 8690495965138197184
+    second: SpritesBlanka_128
+  - first:
+      213: 5200645715019055018
+    second: SpritesBlanka_129
+  - first:
+      213: -6165241748643209614
+    second: SpritesBlanka_130
+  - first:
+      213: -3919732117157170132
+    second: SpritesBlanka_131
+  - first:
+      213: 6523682566935313451
+    second: SpritesBlanka_132
+  - first:
+      213: -4499335117164418914
+    second: SpritesBlanka_133
+  - first:
+      213: 7397554825873098754
+    second: SpritesBlanka_134
+  - first:
+      213: 3600218000594292229
+    second: SpritesBlanka_135
+  - first:
+      213: -3310242957946127719
+    second: SpritesBlanka_136
+  - first:
+      213: 5008780197750780209
+    second: SpritesBlanka_137
+  - first:
+      213: 2273392716881697512
+    second: SpritesBlanka_138
+  - first:
+      213: 1226294756184336451
+    second: SpritesBlanka_139
+  - first:
+      213: 3501330919943614028
+    second: SpritesBlanka_140
+  - first:
+      213: 4086020416083639979
+    second: SpritesBlanka_141
+  - first:
+      213: -7530267175102642935
+    second: SpritesBlanka_142
+  - first:
+      213: -3292807462407721360
+    second: SpritesBlanka_143
+  - first:
+      213: -3672476334153321468
+    second: SpritesBlanka_144
+  - first:
+      213: 2335508583163105113
+    second: SpritesBlanka_145
+  - first:
+      213: 1046667918876173952
+    second: SpritesBlanka_146
+  - first:
+      213: -6874198122877518354
+    second: SpritesBlanka_147
+  - first:
+      213: 243675251386707575
+    second: SpritesBlanka_148
+  - first:
+      213: 8791486299266846103
+    second: SpritesBlanka_149
+  - first:
+      213: 7446189251722169735
+    second: SpritesBlanka_150
+  - first:
+      213: 7737551874520847422
+    second: SpritesBlanka_151
+  - first:
+      213: -7136180642016237989
+    second: SpritesBlanka_152
+  - first:
+      213: -1774596929961852938
+    second: SpritesBlanka_153
+  - first:
+      213: -765299185933664080
+    second: SpritesBlanka_154
+  - first:
+      213: 8466986843464747192
+    second: SpritesBlanka_155
+  - first:
+      213: 6786240522379055732
+    second: SpritesBlanka_156
+  - first:
+      213: -1919332047239188564
+    second: SpritesBlanka_157
+  - first:
+      213: -6313575576563203850
+    second: SpritesBlanka_158
+  - first:
+      213: -6627661874306962353
+    second: SpritesBlanka_159
+  - first:
+      213: 7746846709945177716
+    second: SpritesBlanka_160
+  - first:
+      213: 3021548438177934355
+    second: SpritesBlanka_161
+  - first:
+      213: 5934241057781964008
+    second: SpritesBlanka_162
+  - first:
+      213: -1852425445507866422
+    second: SpritesBlanka_163
+  - first:
+      213: 4694516757005197599
+    second: SpritesBlanka_164
+  - first:
+      213: -68821262427155658
+    second: SpritesBlanka_165
+  - first:
+      213: 1181416875702768773
+    second: SpritesBlanka_166
+  - first:
+      213: -7073982481097202429
+    second: SpritesBlanka_167
+  - first:
+      213: -6093482785429133468
+    second: SpritesBlanka_168
+  - first:
+      213: -256152552727616296
+    second: SpritesBlanka_169
+  - first:
+      213: -3770354888373254790
+    second: SpritesBlanka_170
+  - first:
+      213: -3222232718392746029
+    second: SpritesBlanka_171
+  - first:
+      213: 4042829236358423647
+    second: SpritesBlanka_172
+  - first:
+      213: 6101274871421290347
+    second: SpritesBlanka_173
+  - first:
+      213: -1130831665384622084
+    second: SpritesBlanka_174
+  - first:
+      213: 1644349065707055458
+    second: SpritesBlanka_175
+  - first:
+      213: 7992935998216242031
+    second: SpritesBlanka_176
+  - first:
+      213: -2799858512931774401
+    second: SpritesBlanka_177
+  - first:
+      213: 5876919537068599590
+    second: SpritesBlanka_178
+  - first:
+      213: -7956297128805467361
+    second: SpritesBlanka_179
+  - first:
+      213: 6136203904704534307
+    second: SpritesBlanka_180
+  - first:
+      213: -2497130270257694850
+    second: SpritesBlanka_181
+  - first:
+      213: 4974845438190570275
+    second: SpritesBlanka_182
+  - first:
+      213: -1399808804696742085
+    second: SpritesBlanka_183
+  - first:
+      213: 75049090135339739
+    second: SpritesBlanka_184
+  - first:
+      213: 3800244244268039134
+    second: SpritesBlanka_185
+  - first:
+      213: 4196807813526194104
+    second: SpritesBlanka_186
+  - first:
+      213: -7708524736918525603
+    second: SpritesBlanka_187
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SpritesBlanka_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1527
+        width: 66
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac927ce36089b30b0800000000000000
+      internalID: -5747833346817840694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_1
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 1527
+        width: 65
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 176a6c1f7330a3360800000000000000
+      internalID: 7150030897218496113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_2
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1527
+        width: 65
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 228bd1ba9287ce650800000000000000
+      internalID: 6263513302125361186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_3
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 1527
+        width: 65
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95bbe45a9c0b96910800000000000000
+      internalID: 1831189103611132761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_4
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 1527
+        width: 65
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b937314e9e61b08e0800000000000000
+      internalID: -1726260838356782181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_5
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 1527
+        width: 62
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa12c741588c26a10800000000000000
+      internalID: 1901302466603655599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_6
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 1527
+        width: 62
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 246d4a88a1c198ab0800000000000000
+      internalID: -5005438610558364094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_7
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 1527
+        width: 64
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94c2e1b5219077c90800000000000000
+      internalID: -7172253907121460151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_8
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 1527
+        width: 66
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb4444ef53dab8ba0800000000000000
+      internalID: -6085580024050334530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_9
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 1527
+        width: 61
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9df6eb98ffcb1290800000000000000
+      internalID: -7918506853126439522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_10
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 1527
+        width: 45
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ffe7ce1be47e7e30800000000000000
+      internalID: 4503165230599630835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_11
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 1562
+        width: 46
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4249c7f437d3a0a0800000000000000
+      internalID: -6871411983941811634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_12
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 1527
+        width: 45
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faae0727f0fa079c0800000000000000
+      internalID: -3931449993815070033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_13
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 1527
+        width: 61
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1eb0db7f82ecfd20800000000000000
+      internalID: 3313772531723320863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_14
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 1527
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4f5ac1d24289d960800000000000000
+      internalID: 7627270667427798860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_15
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 1527
+        width: 56
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6f2b8efe50d1c7d0800000000000000
+      internalID: -2899807578633851027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_16
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1400
+        width: 66
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90e46a67585159770800000000000000
+      internalID: 8616817125008756233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_17
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 1400
+        width: 89
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3095ec51395ee0d0800000000000000
+      internalID: -3391675400816586690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_18
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 1394
+        width: 73
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9c21ddb2e9005e30800000000000000
+      internalID: 4490099697940245663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_19
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 1400
+        width: 89
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e07037a25c9462540800000000000000
+      internalID: 4982751148901598990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_20
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1400
+        width: 66
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e5066ce73bd80a80800000000000000
+      internalID: -8500303263426017821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_21
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 1400
+        width: 87
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b724efa261978c790800000000000000
+      internalID: -7509619242522754437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_22
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 1400
+        width: 91
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cb47339b89862b00800000000000000
+      internalID: 803480816095546311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_23
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 1400
+        width: 69
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ba87eeda658f2e00800000000000000
+      internalID: 1022182334489135800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_24
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 1400
+        width: 71
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2af0fc030b2704b80800000000000000
+      internalID: -8412598002869399646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_25
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 1400
+        width: 87
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0fd4f6a85a7a9c00800000000000000
+      internalID: 908172796045352718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_26
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 1400
+        width: 77
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 180e839a3297c68b0800000000000000
+      internalID: -5157614279176167295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_27
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 1400
+        width: 87
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2222a3494a0f8b380800000000000000
+      internalID: -8955143269374090718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_28
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 1400
+        width: 71
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e58972d87f6dc4610800000000000000
+      internalID: 1606895525777872990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_29
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1289
+        width: 76
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a3868a749ae0c3c0800000000000000
+      internalID: -4341212117353462879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_30
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1276
+        width: 95
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88ff44b35007f8590800000000000000
+      internalID: -7669788472617140344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_31
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 1289
+        width: 88
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f0b70eb1b03c8e90800000000000000
+      internalID: -7022184179021926159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_32
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1289
+        width: 95
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77e1299014ec58860800000000000000
+      internalID: 7531652730575789687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_33
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 1289
+        width: 76
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a2a5577088b5cbf0800000000000000
+      internalID: -304634537880214873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_34
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 1283
+        width: 60
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67e03eda3435989c0800000000000000
+      internalID: -3924514050131423626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_35
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 1289
+        width: 79
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b106cd706d4d913e0800000000000000
+      internalID: -2082399336962170853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_36
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 1289
+        width: 78
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2eac2a9ec2bb3660800000000000000
+      internalID: 7366678215914204715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_37
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 1289
+        width: 79
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc3af9e00367b48a0800000000000000
+      internalID: -6319827703308508211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_38
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 1289
+        width: 60
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29c05bcba9daf88a0800000000000000
+      internalID: -6300626473565483886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_39
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 1288
+        width: 58
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aaf388c91eeb61a0800000000000000
+      internalID: -6815091816589428058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_40
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 1288
+        width: 60
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4ff6137209fca470800000000000000
+      internalID: 8407368393310011214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_41
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1159
+        width: 66
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f5addd90388b66b0800000000000000
+      internalID: -5301994393910270472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_42
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 1159
+        width: 91
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62a199cbcf6e1f870800000000000000
+      internalID: 8715000727108917798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_43
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1159
+        width: 66
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7066c9551feef65f0800000000000000
+      internalID: -761127091711482361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_44
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 1198
+        width: 52
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8acfd8459d987b8f0800000000000000
+      internalID: -524799265045873496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_45
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 1205
+        width: 98
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7193171ec133a68a0800000000000000
+      internalID: -6311175728671934185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_46
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 1159
+        width: 80
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ad0d1cd50cfc3f20800000000000000
+      internalID: 3403872520483179942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_47
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 1159
+        width: 87
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c22bcfd1fbade40e0800000000000000
+      internalID: -2283647446653554132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_48
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 1159
+        width: 78
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ae2dd63f34c97ca0800000000000000
+      internalID: -6018563651221508448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_49
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 1159
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82599e7cc62006b20800000000000000
+      internalID: 3125500807628821800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_50
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 1153
+        width: 67
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 424db43c71e57b940800000000000000
+      internalID: 5311817741660574756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_51
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 1181
+        width: 38
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2b940e85eadf6580800000000000000
+      internalID: -8831599664785220818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_52
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 1185
+        width: 46
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 103817730d8125b80800000000000000
+      internalID: -8407630271784844543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_53
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 1181
+        width: 38
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6514fa8a2b3780eb0800000000000000
+      internalID: -4753422195518127786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_54
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 1159
+        width: 67
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e614e2a9e47a7c4e0800000000000000
+      internalID: -1961415156660551314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_55
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 1159
+        width: 58
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2db7a04a071651e60800000000000000
+      internalID: 7932353455099378642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_56
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 1159
+        width: 58
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6918eb891362d79c0800000000000000
+      internalID: -3927941305539329642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_57
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 1153
+        width: 56
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04e0473e0b0ed5ec0800000000000000
+      internalID: -3576455478727406016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_58
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 1159
+        width: 56
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2a39ce2cdac09e30800000000000000
+      internalID: 4508326274024421932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_59
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 1159
+        width: 56
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d1a1b5a851b30040800000000000000
+      internalID: 4612725437652640215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_60
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1064
+        width: 76
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0613f0ca4ae7fb840800000000000000
+      internalID: 5242047737008959840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_61
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1064
+        width: 93
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f688074bfb27c4ff0800000000000000
+      internalID: -50539328116324241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_62
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 1064
+        width: 87
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44ca7d1c08a0955b0800000000000000
+      internalID: -5379256731793118140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_63
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1064
+        width: 93
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38c03aa965a685ca0800000000000000
+      internalID: -6027951181041300349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_64
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 1064
+        width: 76
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8655b25a810ee57d0800000000000000
+      internalID: -2927656311289326232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_65
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 1064
+        width: 68
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88c0da0e28c44cef0800000000000000
+      internalID: -88861967641670520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_66
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 1064
+        width: 108
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c17108b48b526fe10800000000000000
+      internalID: 2231012138879555356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_67
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 1064
+        width: 68
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ddd691ed6d4395f0800000000000000
+      internalID: -751171578509206059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_68
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 1062
+        width: 63
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 751b21fbcbe67a090800000000000000
+      internalID: -8023322454198668969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_69
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 1064
+        width: 89
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f41d9fdd4258cde00800000000000000
+      internalID: 1070877204796789071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_70
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 1062
+        width: 63
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5df0e1a38b942ed00800000000000000
+      internalID: 1000443122827530197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_71
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 1064
+        width: 68
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39401c6450dd0fc10800000000000000
+      internalID: 2085409642204169363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_72
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 1064
+        width: 96
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d81b47169389f4de0800000000000000
+      internalID: -1346690391344893555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_73
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 1064
+        width: 68
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0028608100bbd5e20800000000000000
+      internalID: 3341032107656249856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_74
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 958
+        width: 53
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c0c3be9d4e63efe0800000000000000
+      internalID: -1160962999277338424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_75
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 958
+        width: 71
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 543c29507a5f6b030800000000000000
+      internalID: 3510263057283728197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_76
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 958
+        width: 53
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dac06409dc56fee00800000000000000
+      internalID: 1076190769528048813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_77
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 964
+        width: 76
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b878d3025fb50440800000000000000
+      internalID: 4901534128435394745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_78
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 961
+        width: 60
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eddb887b0259c56a0800000000000000
+      internalID: -6459123797805449762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_79
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 955
+        width: 47
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b72f65033174a6f0800000000000000
+      internalID: -674289580250290251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_80
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 965
+        width: 64
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d67ee8220c5a73370800000000000000
+      internalID: 8302286682712893293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_81
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 957
+        width: 78
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d361992aa185f1d0800000000000000
+      internalID: -3317602982646684713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_82
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 965
+        width: 64
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56e9ae909e570ac60800000000000000
+      internalID: 7827385796124122725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_83
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 966
+        width: 87
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7b00bcf76d4e4a60800000000000000
+      internalID: 7660145125220158335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_84
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 967
+        width: 103
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84d7d270831f40390800000000000000
+      internalID: -7852886627286418104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_85
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 966
+        width: 87
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 222d596d5ab131c60800000000000000
+      internalID: 7787598579737416226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_86
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 854
+        width: 56
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84e9c15ce34ff0420800000000000000
+      internalID: 2598564060448202312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_87
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 854
+        width: 53
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1c7239e862c3cd60800000000000000
+      internalID: 7909379126437510172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_88
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 854
+        width: 56
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bcf4d54327a47880800000000000000
+      internalID: -8614076417315636042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_89
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 854
+        width: 53
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae92bd4e5cc00ef80800000000000000
+      internalID: -8079443687415010838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_90
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 854
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e186ab9d656b5a610800000000000000
+      internalID: 1631910924127987742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_91
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 854
+        width: 51
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fa6f65b1d6edbaf0800000000000000
+      internalID: -378893005262722313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_92
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 854
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c86e73afd7ea83c90800000000000000
+      internalID: -7189804949004884340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_93
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 854
+        width: 51
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4013400bd51993d80800000000000000
+      internalID: -8270419409118154492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_94
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 873
+        width: 49
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbbb743645e25c150800000000000000
+      internalID: 5892166627461938111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_95
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 873
+        width: 52
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bc8559d46bbbcc00800000000000000
+      internalID: 922036590544784563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_96
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 873
+        width: 49
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4908dfc0a2c37bdd0800000000000000
+      internalID: -2470439719285194604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_97
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 873
+        width: 52
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad2c4a0af3bde1790800000000000000
+      internalID: -7557362058356538662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_98
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 854
+        width: 66
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 864f596e610d5f430800000000000000
+      internalID: 3816185056042808424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_99
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 854
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f98029a7b83c93680800000000000000
+      internalID: -8774767395130439521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_100
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 742
+        width: 61
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28a615444ddb56470800000000000000
+      internalID: 8387318600424319618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_101
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 761
+        width: 49
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9edf4752e40d85c0800000000000000
+      internalID: -4211704706347573604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_102
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 761
+        width: 52
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21e19218d388b56b0800000000000000
+      internalID: -5306497938184659438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_103
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 761
+        width: 49
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5544a318a7e0e1420800000000000000
+      internalID: 2602533553983603797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_104
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 761
+        width: 52
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3da301a164417080800000000000000
+      internalID: -9191490178382582466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_105
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 788
+        width: 98
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d710e2d55386bef0800000000000000
+      internalID: -92742337681156141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_106
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 751
+        width: 76
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b211d4c337ca920b0800000000000000
+      internalID: -5752877438056197845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_107
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 743
+        width: 82
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af7adf01b53965930800000000000000
+      internalID: 4131651727495374842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_108
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 747
+        width: 77
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cc6ea123a6777550800000000000000
+      internalID: 6158521458469268679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_109
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 746
+        width: 46
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abce7c183975a3ba0800000000000000
+      internalID: -6108473653525484358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_110
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 625
+        width: 61
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d9b4e6018f8470d0800000000000000
+      internalID: -3425955632192898600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_111
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 625
+        width: 38
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7016dfc0ab4b16170800000000000000
+      internalID: 8170009910201639175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_112
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 671
+        width: 98
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 651aec08d091e1570800000000000000
+      internalID: 8439210297525182806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_113
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 623
+        width: 76
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71c75b04cea3862a0800000000000000
+      internalID: -6744075655614989289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_114
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 671
+        width: 98
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd00076c18178d8f0800000000000000
+      internalID: -515537355139972899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_115
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 625
+        width: 38
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1315119c758c81e60800000000000000
+      internalID: 7933311022974193969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_116
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 640
+        width: 66
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2aad994793b64df0800000000000000
+      internalID: -196272071387534806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_117
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 646
+        width: 65
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55ed0d5e99ad2aeb0800000000000000
+      internalID: -4709961905755595179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_118
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 644
+        width: 49
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a09db31f8e61090d0800000000000000
+      internalID: -3418206927438751478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_119
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 644
+        width: 52
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d01af89d63006120800000000000000
+      internalID: 2404925970268688600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_120
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 644
+        width: 49
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b31dc57e433a78bf0800000000000000
+      internalID: -322109400718454469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_121
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 644
+        width: 52
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b198e7a5ce37cd310800000000000000
+      internalID: 1431146240564693275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_122
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 625
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4399618a29585310800000000000000
+      internalID: 1393962123765846860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_123
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 496
+        width: 61
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5215c1d87fbf8c470800000000000000
+      internalID: 8415252944384708901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_124
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 496
+        width: 67
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a7cabaa255c99870800000000000000
+      internalID: 8690193914830440358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_125
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 518
+        width: 47
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d61f8c8b4218a72f0800000000000000
+      internalID: -974324374653308563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_126
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 516
+        width: 56
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82d26b85b4fb85730800000000000000
+      internalID: 3988147800368360744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_127
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 518
+        width: 47
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1384a91dd0b17c4e0800000000000000
+      internalID: -1961569366531487695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_128
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 542
+        width: 98
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ca170c3908da9870800000000000000
+      internalID: 8690495965138197184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_129
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 505
+        width: 76
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaf3e5e39b76c2840800000000000000
+      internalID: 5200645715019055018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_130
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 497
+        width: 82
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27e96b16b49a07aa0800000000000000
+      internalID: -6165241748643209614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_131
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 496
+        width: 61
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c24382638605a99c0800000000000000
+      internalID: -3919732117157170132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_132
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 496
+        width: 56
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2c769d0bb6c88a50800000000000000
+      internalID: 6523682566935313451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_133
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 496
+        width: 56
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9869f7ac862f81c0800000000000000
+      internalID: -4499335117164418914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_134
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 496
+        width: 56
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20884a29be469a660800000000000000
+      internalID: 7397554825873098754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_135
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 390
+        width: 60
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50ec36f523b86f130800000000000000
+      internalID: 3600218000594292229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_136
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 390
+        width: 71
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99af1637197af02d0800000000000000
+      internalID: -3310242957946127719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_137
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 390
+        width: 81
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13132fc5d03c28540800000000000000
+      internalID: 5008780197750780209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_138
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 390
+        width: 58
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ea91bc81a6bc8f10800000000000000
+      internalID: 2273392716881697512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_139
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 390
+        width: 64
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 348aa44659ca40110800000000000000
+      internalID: 1226294756184336451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_140
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 390
+        width: 64
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4ea45cbbe9379030800000000000000
+      internalID: 3501330919943614028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_141
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 390
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baeb8a57be574b830800000000000000
+      internalID: 4086020416083639979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_142
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 387
+        width: 53
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 905093cb6ed1f7790800000000000000
+      internalID: -7530267175102642935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_143
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 387
+        width: 56
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07eae691f099d42d0800000000000000
+      internalID: -3292807462407721360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_144
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 387
+        width: 54
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40433c05b3eb80dc0800000000000000
+      internalID: -3672476334153321468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_145
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 278
+        width: 56
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95f005daea4696020800000000000000
+      internalID: 2335508583163105113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_146
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 281
+        width: 63
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 086696e3de2868e00800000000000000
+      internalID: 1046667918876173952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_147
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 291
+        width: 79
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eed7a327a31f990a0800000000000000
+      internalID: -6874198122877518354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_148
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 281
+        width: 95
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77e657f9955b16300800000000000000
+      internalID: 243675251386707575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_149
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 312
+        width: 49
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79d838bb532a10a70800000000000000
+      internalID: 8791486299266846103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_150
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 320
+        width: 98
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78d4b3f3cad265760800000000000000
+      internalID: 7446189251722169735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_151
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 274
+        width: 80
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3419ff3f6e416b60800000000000000
+      internalID: 7737551874520847422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_152
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 274
+        width: 87
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b566a93e38137fc90800000000000000
+      internalID: -7136180642016237989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_153
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 274
+        width: 78
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ffff129e7d5f57e0800000000000000
+      internalID: -1774596929961852938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_154
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 274
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b04783f17c1165f0800000000000000
+      internalID: -765299185933664080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_155
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 274
+        width: 107
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b84f929ca7c08570800000000000000
+      internalID: 8466986843464747192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_156
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 274
+        width: 58
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 472d3c0dcc19d2e50800000000000000
+      internalID: 6786240522379055732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_157
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 274
+        width: 58
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cafe84e0ca92d55e0800000000000000
+      internalID: -1919332047239188564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_158
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 161
+        width: 63
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f04e50c67ca168a0800000000000000
+      internalID: -6313575576563203850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_159
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 175
+        width: 79
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4ca882e3a0d504a0800000000000000
+      internalID: -6627661874306962353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_160
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 158
+        width: 95
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4769fa3c904528b60800000000000000
+      internalID: 7746846709945177716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_161
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 175
+        width: 79
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31c6b31bb42bee920800000000000000
+      internalID: 3021548438177934355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_162
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 158
+        width: 107
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ecd1a41dc8aa5250800000000000000
+      internalID: 5934241057781964008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_163
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 158
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac0eb933fdcda46e0800000000000000
+      internalID: -1852425445507866422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_164
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 158
+        width: 61
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f11e96d2e16462140800000000000000
+      internalID: 4694516757005197599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_165
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 158
+        width: 66
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 633190c2d6f7b0ff0800000000000000
+      internalID: -68821262427155658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_166
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 158
+        width: 61
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5845ae7936c356010800000000000000
+      internalID: 1181416875702768773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_167
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 158
+        width: 66
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3056ddab96a24dd90800000000000000
+      internalID: -7073982481097202429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_168
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 158
+        width: 60
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 467e989f0b99f6ba0800000000000000
+      internalID: -6093482785429133468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_169
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 196
+        width: 49
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d46c564c96f17cf0800000000000000
+      internalID: -256152552727616296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_170
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 192
+        width: 52
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a75ca5984320dabc0800000000000000
+      internalID: -3770354888373254790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_171
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 159
+        width: 78
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3df1f8c2a645843d0800000000000000
+      internalID: -3222232718392746029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_172
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 158
+        width: 66
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5425b845c30b1830800000000000000
+      internalID: 4042829236358423647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_173
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 159
+        width: 58
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b67451c6b251ca450800000000000000
+      internalID: 6101274871421290347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_174
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 158
+        width: 58
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf77cfb779a7e40f0800000000000000
+      internalID: -1130831665384622084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_175
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 158
+        width: 58
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 269e63c53c6e1d610800000000000000
+      internalID: 1644349065707055458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_176
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 8
+        width: 65
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f638c1621fc9cee60800000000000000
+      internalID: 7992935998216242031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_177
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 8
+        width: 68
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f30295b4487e429d0800000000000000
+      internalID: -2799858512931774401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_178
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 8
+        width: 67
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 629e6848e230f8150800000000000000
+      internalID: 5876919537068599590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_179
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 8
+        width: 68
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1bf6166aed859190800000000000000
+      internalID: -7956297128805467361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_180
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 8
+        width: 67
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3275749b0fc282550800000000000000
+      internalID: 6136203904704534307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_181
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 8
+        width: 66
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e773a63ef39685dd0800000000000000
+      internalID: -2497130270257694850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_182
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 8
+        width: 66
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32b42d371933a0540800000000000000
+      internalID: 4974845438190570275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_183
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 8
+        width: 66
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3726920f41e29ce0800000000000000
+      internalID: -1399808804696742085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_184
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 8
+        width: 66
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd2bb36ffb0aa0100800000000000000
+      internalID: 75049090135339739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_185
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 8
+        width: 66
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edbb15f610e2db430800000000000000
+      internalID: 3800244244268039134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_186
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 8
+        width: 66
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b700d3887e0e3a30800000000000000
+      internalID: 4196807813526194104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBlanka_187
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 8
+        width: 66
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d59e8a1e791d50590800000000000000
+      internalID: -7708524736918525603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SpritesBlanka_0: -5747833346817840694
+      SpritesBlanka_1: 7150030897218496113
+      SpritesBlanka_10: 4503165230599630835
+      SpritesBlanka_100: 8387318600424319618
+      SpritesBlanka_101: -4211704706347573604
+      SpritesBlanka_102: -5306497938184659438
+      SpritesBlanka_103: 2602533553983603797
+      SpritesBlanka_104: -9191490178382582466
+      SpritesBlanka_105: -92742337681156141
+      SpritesBlanka_106: -5752877438056197845
+      SpritesBlanka_107: 4131651727495374842
+      SpritesBlanka_108: 6158521458469268679
+      SpritesBlanka_109: -6108473653525484358
+      SpritesBlanka_11: -6871411983941811634
+      SpritesBlanka_110: -3425955632192898600
+      SpritesBlanka_111: 8170009910201639175
+      SpritesBlanka_112: 8439210297525182806
+      SpritesBlanka_113: -6744075655614989289
+      SpritesBlanka_114: -515537355139972899
+      SpritesBlanka_115: 7933311022974193969
+      SpritesBlanka_116: -196272071387534806
+      SpritesBlanka_117: -4709961905755595179
+      SpritesBlanka_118: -3418206927438751478
+      SpritesBlanka_119: 2404925970268688600
+      SpritesBlanka_12: -3931449993815070033
+      SpritesBlanka_120: -322109400718454469
+      SpritesBlanka_121: 1431146240564693275
+      SpritesBlanka_122: 1393962123765846860
+      SpritesBlanka_123: 8415252944384708901
+      SpritesBlanka_124: 8690193914830440358
+      SpritesBlanka_125: -974324374653308563
+      SpritesBlanka_126: 3988147800368360744
+      SpritesBlanka_127: -1961569366531487695
+      SpritesBlanka_128: 8690495965138197184
+      SpritesBlanka_129: 5200645715019055018
+      SpritesBlanka_13: 3313772531723320863
+      SpritesBlanka_130: -6165241748643209614
+      SpritesBlanka_131: -3919732117157170132
+      SpritesBlanka_132: 6523682566935313451
+      SpritesBlanka_133: -4499335117164418914
+      SpritesBlanka_134: 7397554825873098754
+      SpritesBlanka_135: 3600218000594292229
+      SpritesBlanka_136: -3310242957946127719
+      SpritesBlanka_137: 5008780197750780209
+      SpritesBlanka_138: 2273392716881697512
+      SpritesBlanka_139: 1226294756184336451
+      SpritesBlanka_14: 7627270667427798860
+      SpritesBlanka_140: 3501330919943614028
+      SpritesBlanka_141: 4086020416083639979
+      SpritesBlanka_142: -7530267175102642935
+      SpritesBlanka_143: -3292807462407721360
+      SpritesBlanka_144: -3672476334153321468
+      SpritesBlanka_145: 2335508583163105113
+      SpritesBlanka_146: 1046667918876173952
+      SpritesBlanka_147: -6874198122877518354
+      SpritesBlanka_148: 243675251386707575
+      SpritesBlanka_149: 8791486299266846103
+      SpritesBlanka_15: -2899807578633851027
+      SpritesBlanka_150: 7446189251722169735
+      SpritesBlanka_151: 7737551874520847422
+      SpritesBlanka_152: -7136180642016237989
+      SpritesBlanka_153: -1774596929961852938
+      SpritesBlanka_154: -765299185933664080
+      SpritesBlanka_155: 8466986843464747192
+      SpritesBlanka_156: 6786240522379055732
+      SpritesBlanka_157: -1919332047239188564
+      SpritesBlanka_158: -6313575576563203850
+      SpritesBlanka_159: -6627661874306962353
+      SpritesBlanka_16: 8616817125008756233
+      SpritesBlanka_160: 7746846709945177716
+      SpritesBlanka_161: 3021548438177934355
+      SpritesBlanka_162: 5934241057781964008
+      SpritesBlanka_163: -1852425445507866422
+      SpritesBlanka_164: 4694516757005197599
+      SpritesBlanka_165: -68821262427155658
+      SpritesBlanka_166: 1181416875702768773
+      SpritesBlanka_167: -7073982481097202429
+      SpritesBlanka_168: -6093482785429133468
+      SpritesBlanka_169: -256152552727616296
+      SpritesBlanka_17: -3391675400816586690
+      SpritesBlanka_170: -3770354888373254790
+      SpritesBlanka_171: -3222232718392746029
+      SpritesBlanka_172: 4042829236358423647
+      SpritesBlanka_173: 6101274871421290347
+      SpritesBlanka_174: -1130831665384622084
+      SpritesBlanka_175: 1644349065707055458
+      SpritesBlanka_176: 7992935998216242031
+      SpritesBlanka_177: -2799858512931774401
+      SpritesBlanka_178: 5876919537068599590
+      SpritesBlanka_179: -7956297128805467361
+      SpritesBlanka_18: 4490099697940245663
+      SpritesBlanka_180: 6136203904704534307
+      SpritesBlanka_181: -2497130270257694850
+      SpritesBlanka_182: 4974845438190570275
+      SpritesBlanka_183: -1399808804696742085
+      SpritesBlanka_184: 75049090135339739
+      SpritesBlanka_185: 3800244244268039134
+      SpritesBlanka_186: 4196807813526194104
+      SpritesBlanka_187: -7708524736918525603
+      SpritesBlanka_19: 4982751148901598990
+      SpritesBlanka_2: 6263513302125361186
+      SpritesBlanka_20: -8500303263426017821
+      SpritesBlanka_21: -7509619242522754437
+      SpritesBlanka_22: 803480816095546311
+      SpritesBlanka_23: 1022182334489135800
+      SpritesBlanka_24: -8412598002869399646
+      SpritesBlanka_25: 908172796045352718
+      SpritesBlanka_26: -5157614279176167295
+      SpritesBlanka_27: -8955143269374090718
+      SpritesBlanka_28: 1606895525777872990
+      SpritesBlanka_29: -4341212117353462879
+      SpritesBlanka_3: 1831189103611132761
+      SpritesBlanka_30: -7669788472617140344
+      SpritesBlanka_31: -7022184179021926159
+      SpritesBlanka_32: 7531652730575789687
+      SpritesBlanka_33: -304634537880214873
+      SpritesBlanka_34: -3924514050131423626
+      SpritesBlanka_35: -2082399336962170853
+      SpritesBlanka_36: 7366678215914204715
+      SpritesBlanka_37: -6319827703308508211
+      SpritesBlanka_38: -6300626473565483886
+      SpritesBlanka_39: -6815091816589428058
+      SpritesBlanka_4: -1726260838356782181
+      SpritesBlanka_40: 8407368393310011214
+      SpritesBlanka_41: -5301994393910270472
+      SpritesBlanka_42: 8715000727108917798
+      SpritesBlanka_43: -761127091711482361
+      SpritesBlanka_44: -524799265045873496
+      SpritesBlanka_45: -6311175728671934185
+      SpritesBlanka_46: 3403872520483179942
+      SpritesBlanka_47: -2283647446653554132
+      SpritesBlanka_48: -6018563651221508448
+      SpritesBlanka_49: 3125500807628821800
+      SpritesBlanka_5: 1901302466603655599
+      SpritesBlanka_50: 5311817741660574756
+      SpritesBlanka_51: -8831599664785220818
+      SpritesBlanka_52: -8407630271784844543
+      SpritesBlanka_53: -4753422195518127786
+      SpritesBlanka_54: -1961415156660551314
+      SpritesBlanka_55: 7932353455099378642
+      SpritesBlanka_56: -3927941305539329642
+      SpritesBlanka_57: -3576455478727406016
+      SpritesBlanka_58: 4508326274024421932
+      SpritesBlanka_59: 4612725437652640215
+      SpritesBlanka_6: -5005438610558364094
+      SpritesBlanka_60: 5242047737008959840
+      SpritesBlanka_61: -50539328116324241
+      SpritesBlanka_62: -5379256731793118140
+      SpritesBlanka_63: -6027951181041300349
+      SpritesBlanka_64: -2927656311289326232
+      SpritesBlanka_65: -88861967641670520
+      SpritesBlanka_66: 2231012138879555356
+      SpritesBlanka_67: -751171578509206059
+      SpritesBlanka_68: -8023322454198668969
+      SpritesBlanka_69: 1070877204796789071
+      SpritesBlanka_7: -7172253907121460151
+      SpritesBlanka_70: 1000443122827530197
+      SpritesBlanka_71: 2085409642204169363
+      SpritesBlanka_72: -1346690391344893555
+      SpritesBlanka_73: 3341032107656249856
+      SpritesBlanka_74: -1160962999277338424
+      SpritesBlanka_75: 3510263057283728197
+      SpritesBlanka_76: 1076190769528048813
+      SpritesBlanka_77: 4901534128435394745
+      SpritesBlanka_78: -6459123797805449762
+      SpritesBlanka_79: -674289580250290251
+      SpritesBlanka_8: -6085580024050334530
+      SpritesBlanka_80: 8302286682712893293
+      SpritesBlanka_81: -3317602982646684713
+      SpritesBlanka_82: 7827385796124122725
+      SpritesBlanka_83: 7660145125220158335
+      SpritesBlanka_84: -7852886627286418104
+      SpritesBlanka_85: 7787598579737416226
+      SpritesBlanka_86: 2598564060448202312
+      SpritesBlanka_87: 7909379126437510172
+      SpritesBlanka_88: -8614076417315636042
+      SpritesBlanka_89: -8079443687415010838
+      SpritesBlanka_9: -7918506853126439522
+      SpritesBlanka_90: 1631910924127987742
+      SpritesBlanka_91: -378893005262722313
+      SpritesBlanka_92: -7189804949004884340
+      SpritesBlanka_93: -8270419409118154492
+      SpritesBlanka_94: 5892166627461938111
+      SpritesBlanka_95: 922036590544784563
+      SpritesBlanka_96: -2470439719285194604
+      SpritesBlanka_97: -7557362058356538662
+      SpritesBlanka_98: 3816185056042808424
+      SpritesBlanka_99: -8774767395130439521
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

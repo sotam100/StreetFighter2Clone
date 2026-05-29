@@ -1,0 +1,2652 @@
+fileFormatVersion: 2
+guid: b482fefdc67a44b51929af7e4b4e6c11
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8475923765353087651
+    second: Menu y Transicion_1_0
+  - first:
+      213: -1519268070459482845
+    second: Menu y Transicion_1_1
+  - first:
+      213: -1406786362681350782
+    second: Menu y Transicion_1_2
+  - first:
+      213: -2747925131310815433
+    second: Menu y Transicion_1_3
+  - first:
+      213: 5064764742776564446
+    second: Menu y Transicion_1_4
+  - first:
+      213: 3872710284485908693
+    second: Menu y Transicion_1_5
+  - first:
+      213: -8294259579881397629
+    second: Menu y Transicion_1_6
+  - first:
+      213: -1059891405899188345
+    second: Menu y Transicion_1_7
+  - first:
+      213: 8423308948496628569
+    second: Menu y Transicion_1_8
+  - first:
+      213: 1072196991702133055
+    second: Menu y Transicion_1_9
+  - first:
+      213: 275187886526486352
+    second: Menu y Transicion_1_10
+  - first:
+      213: -2555028928409256812
+    second: Menu y Transicion_1_11
+  - first:
+      213: -7122830141789701893
+    second: Menu y Transicion_1_12
+  - first:
+      213: 1276252983870066821
+    second: Menu y Transicion_1_13
+  - first:
+      213: 8768735294851271319
+    second: Menu y Transicion_1_14
+  - first:
+      213: -1073086660237854629
+    second: Menu y Transicion_1_15
+  - first:
+      213: 753752126910229680
+    second: Menu y Transicion_1_16
+  - first:
+      213: -2406246204171886494
+    second: Menu y Transicion_1_17
+  - first:
+      213: 9050676796395203456
+    second: Menu y Transicion_1_18
+  - first:
+      213: -6146839736333502639
+    second: Menu y Transicion_1_19
+  - first:
+      213: -5725733596054238950
+    second: Menu y Transicion_1_20
+  - first:
+      213: -2043072158588971283
+    second: Menu y Transicion_1_21
+  - first:
+      213: -6032344021579248135
+    second: Menu y Transicion_1_22
+  - first:
+      213: 9194976909919485521
+    second: Menu y Transicion_1_23
+  - first:
+      213: 4767397672856175439
+    second: Menu y Transicion_1_24
+  - first:
+      213: 4871912927531478126
+    second: Menu y Transicion_1_25
+  - first:
+      213: -145543532555699976
+    second: Menu y Transicion_1_26
+  - first:
+      213: 3907653800783521069
+    second: Menu y Transicion_1_27
+  - first:
+      213: 3937500736887690937
+    second: Menu y Transicion_1_28
+  - first:
+      213: -127410546535389472
+    second: Menu y Transicion_1_29
+  - first:
+      213: 7641610408243020955
+    second: Menu y Transicion_1_30
+  - first:
+      213: 5988512390672135384
+    second: Menu y Transicion_1_31
+  - first:
+      213: 2313206317603240893
+    second: Menu y Transicion_1_32
+  - first:
+      213: 1159005539054390981
+    second: Menu y Transicion_1_33
+  - first:
+      213: 2314864118805274901
+    second: Menu y Transicion_1_34
+  - first:
+      213: -5878389009345334517
+    second: Menu y Transicion_1_35
+  - first:
+      213: -6694804786833869750
+    second: Menu y Transicion_1_36
+  - first:
+      213: -1675372223451635519
+    second: Menu y Transicion_1_37
+  - first:
+      213: 2461903806756253449
+    second: Menu y Transicion_1_38
+  - first:
+      213: -7821061442057029463
+    second: Menu y Transicion_1_39
+  - first:
+      213: 5838194834003174671
+    second: Menu y Transicion_1_40
+  - first:
+      213: 6006337720083230107
+    second: Menu y Transicion_1_41
+  - first:
+      213: -8419006172550649771
+    second: Menu y Transicion_1_42
+  - first:
+      213: 7604628103979863735
+    second: Menu y Transicion_1_43
+  - first:
+      213: -1615006000904393346
+    second: Menu y Transicion_1_44
+  - first:
+      213: -7641620737443400662
+    second: Menu y Transicion_1_45
+  - first:
+      213: -6464564343174481092
+    second: Menu y Transicion_1_46
+  - first:
+      213: 8271846645593797373
+    second: Menu y Transicion_1_47
+  - first:
+      213: -6058509257426780101
+    second: Menu y Transicion_1_48
+  - first:
+      213: -1736082218403531206
+    second: Menu y Transicion_1_49
+  - first:
+      213: -8227049778959803551
+    second: Menu y Transicion_1_50
+  - first:
+      213: 377871599770783005
+    second: Menu y Transicion_1_51
+  - first:
+      213: 4584380515023030893
+    second: Menu y Transicion_1_52
+  - first:
+      213: -2390175259541342279
+    second: Menu y Transicion_1_53
+  - first:
+      213: -3323179320609527286
+    second: Menu y Transicion_1_54
+  - first:
+      213: 2353433417121666180
+    second: Menu y Transicion_1_55
+  - first:
+      213: 7639496945426796755
+    second: Menu y Transicion_1_56
+  - first:
+      213: 8735545053145105432
+    second: Menu y Transicion_1_57
+  - first:
+      213: -1281958798550492755
+    second: Menu y Transicion_1_58
+  - first:
+      213: 3416512150770893991
+    second: Menu y Transicion_1_59
+  - first:
+      213: 4061303047147126740
+    second: Menu y Transicion_1_60
+  - first:
+      213: -999398742290547529
+    second: Menu y Transicion_1_61
+  - first:
+      213: -7583745548917520529
+    second: Menu y Transicion_1_62
+  - first:
+      213: -7039831593289156872
+    second: Menu y Transicion_1_63
+  - first:
+      213: -1227193383320100447
+    second: Menu y Transicion_1_64
+  - first:
+      213: 8459675463366600511
+    second: Menu y Transicion_1_65
+  - first:
+      213: 4513510741492931358
+    second: Menu y Transicion_1_66
+  - first:
+      213: -7331256032870936274
+    second: Menu y Transicion_1_67
+  - first:
+      213: 5817735603977022316
+    second: Menu y Transicion_1_68
+  - first:
+      213: 5045269278103529741
+    second: Menu y Transicion_1_69
+  - first:
+      213: 5005482733211712299
+    second: Menu y Transicion_1_70
+  - first:
+      213: 5350544593945858986
+    second: Menu y Transicion_1_71
+  - first:
+      213: 7271172410094249031
+    second: Menu y Transicion_1_72
+  - first:
+      213: 2183029574391920707
+    second: Menu y Transicion_1_73
+  - first:
+      213: 8472315035970111965
+    second: Menu y Transicion_1_74
+  - first:
+      213: -1681208897962693253
+    second: Menu y Transicion_1_75
+  - first:
+      213: 1937818407516067539
+    second: Menu y Transicion_1_76
+  - first:
+      213: -5026874155710521935
+    second: Menu y Transicion_1_77
+  - first:
+      213: -8675702911508836808
+    second: Menu y Transicion_1_78
+  - first:
+      213: -6719967125935340873
+    second: Menu y Transicion_1_79
+  - first:
+      213: 5143087234292812729
+    second: Menu y Transicion_1_80
+  - first:
+      213: -6081984756778496703
+    second: Menu y Transicion_1_81
+  - first:
+      213: -862356442979333763
+    second: Menu y Transicion_1_82
+  - first:
+      213: 5959564831023482160
+    second: Menu y Transicion_1_83
+  - first:
+      213: 3561286933550217095
+    second: Menu y Transicion_1_84
+  - first:
+      213: 1569432754185317888
+    second: Menu y Transicion_1_85
+  - first:
+      213: 2012434578751368109
+    second: Menu y Transicion_1_86
+  - first:
+      213: 8695009237377325120
+    second: Menu y Transicion_1_87
+  - first:
+      213: 6653300966285419006
+    second: Menu y Transicion_1_88
+  - first:
+      213: 4750491220140142471
+    second: Menu y Transicion_1_89
+  - first:
+      213: 6272150036556824266
+    second: Menu y Transicion_1_90
+  - first:
+      213: 1353314154675853203
+    second: Menu y Transicion_1_91
+  - first:
+      213: 5453902337990399023
+    second: Menu y Transicion_1_92
+  - first:
+      213: -1363471658275357992
+    second: Menu y Transicion_1_93
+  - first:
+      213: -6707561103304943492
+    second: Menu y Transicion_1_94
+  - first:
+      213: -65609636541781106
+    second: Menu y Transicion_1_95
+  - first:
+      213: -3412403492499618881
+    second: Menu y Transicion_1_96
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Menu y Transicion_1_0
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 494
+        width: 57
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a28929d1c780a570800000000000000
+      internalID: 8475923765353087651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu y Transicion_1_1
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 513
+        width: 69
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32d5ba54db97aeae0800000000000000
+      internalID: -1519268070459482845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu y Transicion_1_2
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 512
+        width: 70
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 285a381b1471a7ce0800000000000000
+      internalID: -1406786362681350782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu y Transicion_1_3
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 477
+        width: 58
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 737a9d6f6a86dd9d0800000000000000
+      internalID: -2747925131310815433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu y Transicion_1_4
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 477
+        width: 58
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edaae1403b8a94640800000000000000
+      internalID: 5064764742776564446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu y Transicion_1_5
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 477
+        width: 58
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d8d8c83c71aeb530800000000000000
+      internalID: 3872710284485908693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu y Transicion_1_6
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 477
+        width: 58
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 382e9426bded4ec80800000000000000
+      internalID: -8294259579881397629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu y Transicion_1_7
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 407
+        width: 83
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 787b3e2c1628a41f0800000000000000
+      internalID: -1059891405899188345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu y Transicion_1_8
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 403
+        width: 166
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95bb28c2cda95e470800000000000000
+      internalID: 8423308948496628569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu y Transicion_1_9
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 396
+        width: 58
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f39e5a3bb7531ee00800000000000000
+      internalID: 1072196991702133055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu y Transicion_1_10
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 396
+        width: 58
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 057d6eebce9a1d300800000000000000
+      internalID: 275187886526486352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu y Transicion_1_11
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 396
+        width: 58
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49cb15b0ab6ba8cd0800000000000000
+      internalID: -2555028928409256812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu y Transicion_1_12
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 396
+        width: 58
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf8fd2379bf962d90800000000000000
+      internalID: -7122830141789701893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu y Transicion_1_13
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 374
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5809b13b35926b110800000000000000
+      internalID: 1276252983870066821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu y Transicion_1_14
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 374
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79a4a0bba4ec0b970800000000000000
+      internalID: 8768735294851271319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu y Transicion_1_15
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 374
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b58ff433e51ab11f0800000000000000
+      internalID: -1073086660237854629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu y Transicion_1_16
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 386
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bced2dd09dd57a00800000000000000
+      internalID: 753752126910229680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu y Transicion_1_17
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 374
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 260e33e73db4b9ed0800000000000000
+      internalID: -2406246204171886494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu y Transicion_1_18
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 386
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08ba10208967a9d70800000000000000
+      internalID: 9050676796395203456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu y Transicion_1_19
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 386
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 157f590c3d902baa0800000000000000
+      internalID: -6146839736333502639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu y Transicion_1_20
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 374
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a19caa071ab1a80b0800000000000000
+      internalID: -5725733596054238950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu y Transicion_1_21
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 386
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de650d842bc85a3e0800000000000000
+      internalID: -2043072158588971283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu y Transicion_1_22
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 374
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fd41d6b21fc84ca0800000000000000
+      internalID: -6032344021579248135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu y Transicion_1_23
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 386
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15e7ba158ce1b9f70800000000000000
+      internalID: 9194976909919485521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu y Transicion_1_24
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 386
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f43cd99bce2392240800000000000000
+      internalID: 4767397672856175439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu y Transicion_1_25
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 374
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6ca52ebef28c9340800000000000000
+      internalID: 4871912927531478126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu y Transicion_1_26
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 386
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f879a2adeceafdf0800000000000000
+      internalID: -145543532555699976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu y Transicion_1_27
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 374
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2528ec9d66ca3630800000000000000
+      internalID: 3907653800783521069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu y Transicion_1_28
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 386
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b69705fe00d4a630800000000000000
+      internalID: 3937500736887690937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu y Transicion_1_29
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 374
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e6ae1178c85b3ef0800000000000000
+      internalID: -127410546535389472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu y Transicion_1_30
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 374
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b94c047ed247c0a60800000000000000
+      internalID: 7641610408243020955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu y Transicion_1_31
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 374
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d4b9037a487b1350800000000000000
+      internalID: 5988512390672135384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu y Transicion_1_32
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 374
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbb3ee4d3e82a1020800000000000000
+      internalID: 2313206317603240893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu y Transicion_1_33
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 372
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ce0c08a56d951010800000000000000
+      internalID: 1159005539054390981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu y Transicion_1_34
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 372
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 511afa0c6ac002020800000000000000
+      internalID: 2314864118805274901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu y Transicion_1_35
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 372
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b03396e4754cb6ea0800000000000000
+      internalID: -5878389009345334517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu y Transicion_1_36
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 372
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a44be2854864713a0800000000000000
+      internalID: -6694804786833869750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu y Transicion_1_37
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 331
+        width: 98
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c0eb9ad6d1efb8e0800000000000000
+      internalID: -1675372223451635519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu y Transicion_1_38
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 331
+        width: 98
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90f63e0f7707a2220800000000000000
+      internalID: 2461903806756253449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu y Transicion_1_39
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 363
+        width: 23
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a8bfa36e02067390800000000000000
+      internalID: -7821061442057029463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu y Transicion_1_40
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 363
+        width: 23
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f05a74af44f650150800000000000000
+      internalID: 5838194834003174671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu y Transicion_1_41
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 363
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9d279e555cca5350800000000000000
+      internalID: 6006337720083230107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu y Transicion_1_42
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 363
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5582c4bed7ea92b80800000000000000
+      internalID: -8419006172550649771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu y Transicion_1_43
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 337
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7be0ca238f0198960800000000000000
+      internalID: 7604628103979863735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu y Transicion_1_44
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 363
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7d28fd49985699e0800000000000000
+      internalID: -1615006000904393346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu y Transicion_1_45
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 363
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a247d642d6283f590800000000000000
+      internalID: -7641620737443400662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu y Transicion_1_46
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 363
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3bbd690bf04946a0800000000000000
+      internalID: -6464564343174481092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu y Transicion_1_47
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 363
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df2ff13b2b08bc270800000000000000
+      internalID: 8271846645593797373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu y Transicion_1_48
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 363
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3049a20ee9dbeba0800000000000000
+      internalID: -6058509257426780101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu y Transicion_1_49
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 363
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a367f27ab6238e7e0800000000000000
+      internalID: -1736082218403531206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu y Transicion_1_50
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 363
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16b15a790d5a3dd80800000000000000
+      internalID: -8227049778959803551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu y Transicion_1_51
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 363
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1dcb0bc7387e3500800000000000000
+      internalID: 377871599770783005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu y Transicion_1_52
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 363
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6a8b211acdfe9f30800000000000000
+      internalID: 4584380515023030893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu y Transicion_1_53
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 363
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b77c10e34464ded0800000000000000
+      internalID: -2390175259541342279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu y Transicion_1_54
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 363
+        width: 23
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0a252ec302b1e1d0800000000000000
+      internalID: -3323179320609527286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu y Transicion_1_55
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 363
+        width: 23
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 484121e493319a020800000000000000
+      internalID: 2353433417121666180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu y Transicion_1_56
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 363
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d098defef1f40a60800000000000000
+      internalID: 7639496945426796755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu y Transicion_1_57
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 363
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 814822461f3ea3970800000000000000
+      internalID: 8735545053145105432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu y Transicion_1_58
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 363
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da916bbc341953ee0800000000000000
+      internalID: -1281958798550492755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu y Transicion_1_59
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 363
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a4418d13b3e96f20800000000000000
+      internalID: 3416512150770893991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu y Transicion_1_60
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 363
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4df7a6a8a95ac5830800000000000000
+      internalID: 4061303047147126740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu y Transicion_1_61
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 363
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bcbcc0932c6122f0800000000000000
+      internalID: -999398742290547529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu y Transicion_1_62
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 348
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6742d98a9f11c690800000000000000
+      internalID: -7583745548917520529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu y Transicion_1_63
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 348
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f67d6be67e7d4e90800000000000000
+      internalID: -7039831593289156872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu y Transicion_1_64
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 337
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a1ee7cae1228fee0800000000000000
+      internalID: -1227193383320100447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu y Transicion_1_65
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 348
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f37ed0d330ec66570800000000000000
+      internalID: 8459675463366600511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu y Transicion_1_66
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 337
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1b98941b1633ae30800000000000000
+      internalID: 4513510741492931358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu y Transicion_1_67
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 348
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e21d9431b75224a90800000000000000
+      internalID: -7331256032870936274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu y Transicion_1_68
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 348
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6b613845bfbcb050800000000000000
+      internalID: 5817735603977022316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu y Transicion_1_69
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 348
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d096d8d6da5640640800000000000000
+      internalID: 5045269278103529741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu y Transicion_1_70
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 348
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2b7f62960c077540800000000000000
+      internalID: 5005482733211712299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu y Transicion_1_71
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 348
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa39705b5f3f04a40800000000000000
+      internalID: 5350544593945858986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu y Transicion_1_72
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 337
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 744e94c58c468e460800000000000000
+      internalID: 7271172410094249031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu y Transicion_1_73
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 337
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3487dcbe4ddab4e10800000000000000
+      internalID: 2183029574391920707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu y Transicion_1_74
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 233
+        width: 74
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd9033013a5b39570800000000000000
+      internalID: 8472315035970111965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu y Transicion_1_75
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 136
+        width: 74
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7d25bb2a652ba8e0800000000000000
+      internalID: -1681208897962693253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu y Transicion_1_76
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 233
+        width: 74
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d6553b139384ea10800000000000000
+      internalID: 1937818407516067539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu y Transicion_1_77
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 233
+        width: 72
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bd5842c694fc3ab0800000000000000
+      internalID: -5026874155710521935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu y Transicion_1_78
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 233
+        width: 72
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83e81b6fa26b99780800000000000000
+      internalID: -8675702911508836808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu y Transicion_1_79
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 136
+        width: 69
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b2425cb081edb2a0800000000000000
+      internalID: -6719967125935340873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu y Transicion_1_80
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 233
+        width: 74
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bb8ed0279aef5740800000000000000
+      internalID: 5143087234292812729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu y Transicion_1_81
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 136
+        width: 74
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14d80e26613789ba0800000000000000
+      internalID: -6081984756778496703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu y Transicion_1_82
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 233
+        width: 74
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d798272526b4804f0800000000000000
+      internalID: -862356442979333763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu y Transicion_1_83
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 136
+        width: 74
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 035c01183a0a4b250800000000000000
+      internalID: 5959564831023482160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu y Transicion_1_84
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 233
+        width: 74
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7873089f89b3c6130800000000000000
+      internalID: 3561286933550217095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu y Transicion_1_85
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 136
+        width: 74
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00e241456ceb7c510800000000000000
+      internalID: 1569432754185317888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu y Transicion_1_86
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 233
+        width: 74
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dab2038469a9deb10800000000000000
+      internalID: 2012434578751368109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu y Transicion_1_87
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 136
+        width: 74
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0489d9055d0eaa870800000000000000
+      internalID: 8695009237377325120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu y Transicion_1_88
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 39
+        width: 74
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef1a4376af5455c50800000000000000
+      internalID: 6653300966285419006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu y Transicion_1_89
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 136
+        width: 72
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78fa01578922de140800000000000000
+      internalID: 4750491220140142471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu y Transicion_1_90
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 136
+        width: 74
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ace3cea1a372b0750800000000000000
+      internalID: 6272150036556824266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu y Transicion_1_91
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 39
+        width: 74
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39756f2bd00f7c210800000000000000
+      internalID: 1353314154675853203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu y Transicion_1_92
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 39
+        width: 74
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f241797c74720bb40800000000000000
+      internalID: 5453902337990399023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu y Transicion_1_93
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 39
+        width: 74
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8da3f2330c9f31de0800000000000000
+      internalID: -1363471658275357992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu y Transicion_1_94
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 39
+        width: 74
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c781848f6b4f9e2a0800000000000000
+      internalID: -6707561103304943492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu y Transicion_1_95
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 39
+        width: 74
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8ba5181268e61ff0800000000000000
+      internalID: -65609636541781106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu y Transicion_1_96
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 39
+        width: 74
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb3024f6a15b4a0d0800000000000000
+      internalID: -3412403492499618881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Menu y Transicion_1_0: 8475923765353087651
+      Menu y Transicion_1_1: -1519268070459482845
+      Menu y Transicion_1_10: 275187886526486352
+      Menu y Transicion_1_11: -2555028928409256812
+      Menu y Transicion_1_12: -7122830141789701893
+      Menu y Transicion_1_13: 1276252983870066821
+      Menu y Transicion_1_14: 8768735294851271319
+      Menu y Transicion_1_15: -1073086660237854629
+      Menu y Transicion_1_16: 753752126910229680
+      Menu y Transicion_1_17: -2406246204171886494
+      Menu y Transicion_1_18: 9050676796395203456
+      Menu y Transicion_1_19: -6146839736333502639
+      Menu y Transicion_1_2: -1406786362681350782
+      Menu y Transicion_1_20: -5725733596054238950
+      Menu y Transicion_1_21: -2043072158588971283
+      Menu y Transicion_1_22: -6032344021579248135
+      Menu y Transicion_1_23: 9194976909919485521
+      Menu y Transicion_1_24: 4767397672856175439
+      Menu y Transicion_1_25: 4871912927531478126
+      Menu y Transicion_1_26: -145543532555699976
+      Menu y Transicion_1_27: 3907653800783521069
+      Menu y Transicion_1_28: 3937500736887690937
+      Menu y Transicion_1_29: -127410546535389472
+      Menu y Transicion_1_3: -2747925131310815433
+      Menu y Transicion_1_30: 7641610408243020955
+      Menu y Transicion_1_31: 5988512390672135384
+      Menu y Transicion_1_32: 2313206317603240893
+      Menu y Transicion_1_33: 1159005539054390981
+      Menu y Transicion_1_34: 2314864118805274901
+      Menu y Transicion_1_35: -5878389009345334517
+      Menu y Transicion_1_36: -6694804786833869750
+      Menu y Transicion_1_37: -1675372223451635519
+      Menu y Transicion_1_38: 2461903806756253449
+      Menu y Transicion_1_39: -7821061442057029463
+      Menu y Transicion_1_4: 5064764742776564446
+      Menu y Transicion_1_40: 5838194834003174671
+      Menu y Transicion_1_41: 6006337720083230107
+      Menu y Transicion_1_42: -8419006172550649771
+      Menu y Transicion_1_43: 7604628103979863735
+      Menu y Transicion_1_44: -1615006000904393346
+      Menu y Transicion_1_45: -7641620737443400662
+      Menu y Transicion_1_46: -6464564343174481092
+      Menu y Transicion_1_47: 8271846645593797373
+      Menu y Transicion_1_48: -6058509257426780101
+      Menu y Transicion_1_49: -1736082218403531206
+      Menu y Transicion_1_5: 3872710284485908693
+      Menu y Transicion_1_50: -8227049778959803551
+      Menu y Transicion_1_51: 377871599770783005
+      Menu y Transicion_1_52: 4584380515023030893
+      Menu y Transicion_1_53: -2390175259541342279
+      Menu y Transicion_1_54: -3323179320609527286
+      Menu y Transicion_1_55: 2353433417121666180
+      Menu y Transicion_1_56: 7639496945426796755
+      Menu y Transicion_1_57: 8735545053145105432
+      Menu y Transicion_1_58: -1281958798550492755
+      Menu y Transicion_1_59: 3416512150770893991
+      Menu y Transicion_1_6: -8294259579881397629
+      Menu y Transicion_1_60: 4061303047147126740
+      Menu y Transicion_1_61: -999398742290547529
+      Menu y Transicion_1_62: -7583745548917520529
+      Menu y Transicion_1_63: -7039831593289156872
+      Menu y Transicion_1_64: -1227193383320100447
+      Menu y Transicion_1_65: 8459675463366600511
+      Menu y Transicion_1_66: 4513510741492931358
+      Menu y Transicion_1_67: -7331256032870936274
+      Menu y Transicion_1_68: 5817735603977022316
+      Menu y Transicion_1_69: 5045269278103529741
+      Menu y Transicion_1_7: -1059891405899188345
+      Menu y Transicion_1_70: 5005482733211712299
+      Menu y Transicion_1_71: 5350544593945858986
+      Menu y Transicion_1_72: 7271172410094249031
+      Menu y Transicion_1_73: 2183029574391920707
+      Menu y Transicion_1_74: 8472315035970111965
+      Menu y Transicion_1_75: -1681208897962693253
+      Menu y Transicion_1_76: 1937818407516067539
+      Menu y Transicion_1_77: -5026874155710521935
+      Menu y Transicion_1_78: -8675702911508836808
+      Menu y Transicion_1_79: -6719967125935340873
+      Menu y Transicion_1_8: 8423308948496628569
+      Menu y Transicion_1_80: 5143087234292812729
+      Menu y Transicion_1_81: -6081984756778496703
+      Menu y Transicion_1_82: -862356442979333763
+      Menu y Transicion_1_83: 5959564831023482160
+      Menu y Transicion_1_84: 3561286933550217095
+      Menu y Transicion_1_85: 1569432754185317888
+      Menu y Transicion_1_86: 2012434578751368109
+      Menu y Transicion_1_87: 8695009237377325120
+      Menu y Transicion_1_88: 6653300966285419006
+      Menu y Transicion_1_89: 4750491220140142471
+      Menu y Transicion_1_9: 1072196991702133055
+      Menu y Transicion_1_90: 6272150036556824266
+      Menu y Transicion_1_91: 1353314154675853203
+      Menu y Transicion_1_92: 5453902337990399023
+      Menu y Transicion_1_93: -1363471658275357992
+      Menu y Transicion_1_94: -6707561103304943492
+      Menu y Transicion_1_95: -65609636541781106
+      Menu y Transicion_1_96: -3412403492499618881
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

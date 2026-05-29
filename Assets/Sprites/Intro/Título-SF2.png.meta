@@ -1,0 +1,598 @@
+fileFormatVersion: 2
+guid: b5c1370da60f749cd97eb168318ce7fb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7563217203232582781
+    second: "T\xEDtulo-SF2_0"
+  - first:
+      213: 6671292892460525639
+    second: "T\xEDtulo-SF2_1"
+  - first:
+      213: 1759530033195785004
+    second: "T\xEDtulo-SF2_2"
+  - first:
+      213: -7062881388694422439
+    second: "T\xEDtulo-SF2_3"
+  - first:
+      213: -6093897019918565502
+    second: "T\xEDtulo-SF2_4"
+  - first:
+      213: -3142382011434554029
+    second: "T\xEDtulo-SF2_5"
+  - first:
+      213: 4271410261601182108
+    second: "T\xEDtulo-SF2_6"
+  - first:
+      213: 3816411760230784643
+    second: "T\xEDtulo-SF2_7"
+  - first:
+      213: 5271602001279002536
+    second: "T\xEDtulo-SF2_8"
+  - first:
+      213: -7962981669981196975
+    second: "T\xEDtulo-SF2_9"
+  - first:
+      213: -5581485316473716145
+    second: "T\xEDtulo-SF2_10"
+  - first:
+      213: 1532137020378371084
+    second: "T\xEDtulo-SF2_11"
+  - first:
+      213: -1215444582576924932
+    second: "T\xEDtulo-SF2_12"
+  - first:
+      213: -7817411579236277972
+    second: "T\xEDtulo-SF2_13"
+  - first:
+      213: 8368229473191995091
+    second: "T\xEDtulo-SF2_14"
+  - first:
+      213: 2795429680033545477
+    second: "T\xEDtulo-SF2_15"
+  - first:
+      213: 6117645649710060474
+    second: "T\xEDtulo-SF2_16"
+  - first:
+      213: -6056461754479408743
+    second: "T\xEDtulo-SF2_17"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "T\xEDtulo-SF2_0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 11
+        width: 250
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 383d23a760e0a0790800000000000000
+      internalID: -7563217203232582781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "T\xEDtulo-SF2_1"
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 18
+        width: 68
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 748a2b72a81359c50800000000000000
+      internalID: 6671292892460525639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "T\xEDtulo-SF2_2"
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 66
+        width: 49
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2b14482e3b1b6810800000000000000
+      internalID: 1759530033195785004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "T\xEDtulo-SF2_3"
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95cb6283cca9bfd90800000000000000
+      internalID: -7062881388694422439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "T\xEDtulo-SF2_4"
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 0
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28f31fd72f02e6ba0800000000000000
+      internalID: -6093897019918565502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "T\xEDtulo-SF2_5"
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 0
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35daddba5340464d0800000000000000
+      internalID: -3142382011434554029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "T\xEDtulo-SF2_6"
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 0
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9162b48009174b30800000000000000
+      internalID: 4271410261601182108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "T\xEDtulo-SF2_7"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38edd25964e96f430800000000000000
+      internalID: 3816411760230784643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "T\xEDtulo-SF2_8"
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 0
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a7297b071e782940800000000000000
+      internalID: 5271602001279002536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "T\xEDtulo-SF2_9"
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15de2df5c5ecd7190800000000000000
+      internalID: -7962981669981196975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "T\xEDtulo-SF2_10"
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 0
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4286883da49a82b0800000000000000
+      internalID: -5581485316473716145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "T\xEDtulo-SF2_11"
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 0
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c04d0ee908e334510800000000000000
+      internalID: 1532137020378371084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "T\xEDtulo-SF2_12"
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 0
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf65453879fd12fe0800000000000000
+      internalID: -1215444582576924932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "T\xEDtulo-SF2_13"
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 0
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c21a89c4699f28390800000000000000
+      internalID: -7817411579236277972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "T\xEDtulo-SF2_14"
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 0
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d6209c7e5ce12470800000000000000
+      internalID: 8368229473191995091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "T\xEDtulo-SF2_15"
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 0
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50dbbf0bb7c5bc620800000000000000
+      internalID: 2795429680033545477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "T\xEDtulo-SF2_16"
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 0
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab39ea44e4e36e450800000000000000
+      internalID: 6117645649710060474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "T\xEDtulo-SF2_17"
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 0
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99904807f1023fba0800000000000000
+      internalID: -6056461754479408743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "T\xEDtulo-SF2_0": -7563217203232582781
+      "T\xEDtulo-SF2_1": 6671292892460525639
+      "T\xEDtulo-SF2_10": -5581485316473716145
+      "T\xEDtulo-SF2_11": 1532137020378371084
+      "T\xEDtulo-SF2_12": -1215444582576924932
+      "T\xEDtulo-SF2_13": -7817411579236277972
+      "T\xEDtulo-SF2_14": 8368229473191995091
+      "T\xEDtulo-SF2_15": 2795429680033545477
+      "T\xEDtulo-SF2_16": 6117645649710060474
+      "T\xEDtulo-SF2_17": -6056461754479408743
+      "T\xEDtulo-SF2_2": 1759530033195785004
+      "T\xEDtulo-SF2_3": -7062881388694422439
+      "T\xEDtulo-SF2_4": -6093897019918565502
+      "T\xEDtulo-SF2_5": -3142382011434554029
+      "T\xEDtulo-SF2_6": 4271410261601182108
+      "T\xEDtulo-SF2_7": 3816411760230784643
+      "T\xEDtulo-SF2_8": 5271602001279002536
+      "T\xEDtulo-SF2_9": -7962981669981196975
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

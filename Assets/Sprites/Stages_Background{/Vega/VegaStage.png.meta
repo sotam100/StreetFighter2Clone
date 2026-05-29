@@ -1,0 +1,1534 @@
+fileFormatVersion: 2
+guid: b1c6fd912210341968ed6dcfc6324e97
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8138523854081353067
+    second: VegaStage_0
+  - first:
+      213: 1122308107456713711
+    second: VegaStage_1
+  - first:
+      213: -4897870372248487109
+    second: VegaStage_2
+  - first:
+      213: -6816089415751150948
+    second: VegaStage_3
+  - first:
+      213: -7348909488283919693
+    second: VegaStage_4
+  - first:
+      213: -1084359283654527289
+    second: VegaStage_5
+  - first:
+      213: 8336759331580790072
+    second: VegaStage_6
+  - first:
+      213: 3317558333030426111
+    second: VegaStage_7
+  - first:
+      213: 9159719167914332073
+    second: VegaStage_8
+  - first:
+      213: 3983915057326385372
+    second: VegaStage_9
+  - first:
+      213: 7772246191858330190
+    second: VegaStage_10
+  - first:
+      213: 3315756706588846473
+    second: VegaStage_11
+  - first:
+      213: -7953850082990650099
+    second: VegaStage_12
+  - first:
+      213: -6451232947835042402
+    second: VegaStage_13
+  - first:
+      213: -8056237103642555716
+    second: VegaStage_14
+  - first:
+      213: 6762163690105510182
+    second: VegaStage_15
+  - first:
+      213: -8499227339718564174
+    second: VegaStage_16
+  - first:
+      213: -3770088034415646891
+    second: VegaStage_17
+  - first:
+      213: -8093943288623981217
+    second: VegaStage_18
+  - first:
+      213: 5054060649645026132
+    second: VegaStage_19
+  - first:
+      213: -4563956282028604730
+    second: VegaStage_20
+  - first:
+      213: 7604729164983458533
+    second: VegaStage_21
+  - first:
+      213: 8952002695588925909
+    second: VegaStage_22
+  - first:
+      213: 3986861247770295024
+    second: VegaStage_23
+  - first:
+      213: 4787450499690777704
+    second: VegaStage_24
+  - first:
+      213: -1869851676098930933
+    second: VegaStage_25
+  - first:
+      213: 8766406865232816410
+    second: VegaStage_26
+  - first:
+      213: 5967666643782672391
+    second: VegaStage_27
+  - first:
+      213: 7379371898420664
+    second: VegaStage_28
+  - first:
+      213: -1065616288815953026
+    second: VegaStage_29
+  - first:
+      213: -4667737261339000366
+    second: VegaStage_30
+  - first:
+      213: 4511340319641171380
+    second: VegaStage_31
+  - first:
+      213: -7391659429399316017
+    second: VegaStage_32
+  - first:
+      213: 75210305867600998
+    second: VegaStage_33
+  - first:
+      213: 8578251557980848272
+    second: VegaStage_34
+  - first:
+      213: -1119043571670269853
+    second: VegaStage_35
+  - first:
+      213: -3093791883993363566
+    second: VegaStage_36
+  - first:
+      213: -3767424017838048714
+    second: VegaStage_37
+  - first:
+      213: -9064020219212781231
+    second: VegaStage_38
+  - first:
+      213: 4235365001635172027
+    second: VegaStage_39
+  - first:
+      213: 5668708466242595674
+    second: VegaStage_40
+  - first:
+      213: 6883822464639147661
+    second: VegaStage_41
+  - first:
+      213: 3219462462813431461
+    second: VegaStage_42
+  - first:
+      213: -4402665227455585848
+    second: VegaStage_43
+  - first:
+      213: 8478762483159782626
+    second: VegaStage_44
+  - first:
+      213: -3451464162904868788
+    second: VegaStage_45
+  - first:
+      213: 539811919452337676
+    second: VegaStage_46
+  - first:
+      213: -1988987835458816386
+    second: VegaStage_47
+  - first:
+      213: -50256004091320253
+    second: VegaStage_48
+  - first:
+      213: 5505537435759553502
+    second: VegaStage_49
+  - first:
+      213: 2884384739960898970
+    second: VegaStage_50
+  - first:
+      213: 2751383173708492170
+    second: VegaStage_51
+  - first:
+      213: -5022672022263483033
+    second: VegaStage_52
+  - first:
+      213: 8549097753435580916
+    second: VegaStage_53
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VegaStage_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 274
+        width: 61
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59a1079aca72e0f80800000000000000
+      internalID: -8138523854081353067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VegaStage_1
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 291
+        width: 34
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe39f79074d339f00800000000000000
+      internalID: 1122308107456713711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VegaStage_2
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 291
+        width: 34
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3bf732b8d4470cb0800000000000000
+      internalID: -4897870372248487109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VegaStage_3
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 223
+        width: 34
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c925ad02ac26861a0800000000000000
+      internalID: -6816089415751150948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VegaStage_4
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 223
+        width: 34
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bad650b1cd630a90800000000000000
+      internalID: -7348909488283919693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VegaStage_5
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 292
+        width: 593
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c6ffd80af493f0f0800000000000000
+      internalID: -1084359283654527289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VegaStage_6
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 422
+        width: 199
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 835cbc8217e12b370800000000000000
+      internalID: 8336759331580790072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VegaStage_7
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 403
+        width: 199
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff56ae90ab55a0e20800000000000000
+      internalID: 3317558333030426111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VegaStage_8
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 363
+        width: 128
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9afcedd8d0cdd1f70800000000000000
+      internalID: 9159719167914332073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VegaStage_9
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 362
+        width: 129
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd8e44f03a5b94730800000000000000
+      internalID: 3983915057326385372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VegaStage_10
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 358
+        width: 114
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4a299c7bb09cdb60800000000000000
+      internalID: 7772246191858330190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VegaStage_11
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 363
+        width: 199
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 989e8d1382fe30e20800000000000000
+      internalID: 3315756706588846473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VegaStage_12
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 382
+        width: 199
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0d81a6ad7f3e9190800000000000000
+      internalID: -7953850082990650099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VegaStage_13
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 297
+        width: 187
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e950ff460dd9876a0800000000000000
+      internalID: -6451232947835042402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VegaStage_14
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 285
+        width: 128
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cba401bb90f723090800000000000000
+      internalID: -8056237103642555716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VegaStage_15
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 282
+        width: 129
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62998c57c0808dd50800000000000000
+      internalID: 6762163690105510182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VegaStage_16
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 280
+        width: 127
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b669cee3cdac0a80800000000000000
+      internalID: -8499227339718564174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VegaStage_17
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 212
+        width: 66
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55764b058e4fdabc0800000000000000
+      internalID: -3770088034415646891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VegaStage_18
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 274
+        width: 34
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5d196966798caf80800000000000000
+      internalID: -8093943288623981217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VegaStage_19
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 212
+        width: 66
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45b2f5f1261a32640800000000000000
+      internalID: 5054060649645026132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VegaStage_20
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 274
+        width: 34
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c2c54f31f199a0c0800000000000000
+      internalID: -4563956282028604730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VegaStage_21
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 68
+        width: 756
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ea54eb42ec698960800000000000000
+      internalID: 7604729164983458533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VegaStage_22
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 205
+        width: 129
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d1daea9507eb3c70800000000000000
+      internalID: 8952002695588925909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VegaStage_23
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 209
+        width: 66
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fa7e1a7e2d245730800000000000000
+      internalID: 3986861247770295024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VegaStage_24
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 211
+        width: 66
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86cc5dd4dd0707240800000000000000
+      internalID: 4787450499690777704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VegaStage_25
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 209
+        width: 66
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b075477bec3fc06e0800000000000000
+      internalID: -1869851676098930933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VegaStage_26
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 150
+        width: 66
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a196fb6f89888a970800000000000000
+      internalID: 8766406865232816410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VegaStage_27
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 157
+        width: 65
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7002d98c13961d250800000000000000
+      internalID: 5967666643782672391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VegaStage_28
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 104
+        width: 65
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bdbba8ef773a1000800000000000000
+      internalID: 7379371898420664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VegaStage_29
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 144
+        width: 32
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7b414691ab2631f0800000000000000
+      internalID: -1065616288815953026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VegaStage_30
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 145
+        width: 32
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d1c80901bdd83fb0800000000000000
+      internalID: -4667737261339000366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VegaStage_31
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 127
+        width: 128
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b5fb1d5e108b9e30800000000000000
+      internalID: 4511340319641171380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VegaStage_32
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 137
+        width: 66
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc9bcf169ec8b6990800000000000000
+      internalID: -7391659429399316017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VegaStage_33
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 138
+        width: 66
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 664dfacef533b0100800000000000000
+      internalID: 75210305867600998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VegaStage_34
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 124
+        width: 115
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 090c36ba7521c0770800000000000000
+      internalID: 8578251557980848272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VegaStage_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 45
+        width: 65
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 360c86eeccb5870f0800000000000000
+      internalID: -1119043571670269853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VegaStage_36
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 97
+        width: 65
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29bc6915ca4a015d0800000000000000
+      internalID: -3093791883993363566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VegaStage_37
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 55
+        width: 14
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63afc7201db67bbc0800000000000000
+      internalID: -3767424017838048714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VegaStage_38
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 55
+        width: 14
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1592dd442a1263280800000000000000
+      internalID: -9064020219212781231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VegaStage_39
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 65
+        width: 32
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbe0690770a07ca30800000000000000
+      internalID: 4235365001635172027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VegaStage_40
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 67
+        width: 32
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5ba3a1e05c4bae40800000000000000
+      internalID: 5668708466242595674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VegaStage_41
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 46
+        width: 129
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8e9bad3f00488f50800000000000000
+      internalID: 6883822464639147661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VegaStage_42
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 76
+        width: 101
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a6e2bf6d04ddac20800000000000000
+      internalID: 3219462462813431461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VegaStage_43
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 40
+        width: 32
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c1ab8c4d4796e2c0800000000000000
+      internalID: -4402665227455585848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VegaStage_44
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 40
+        width: 32
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e4d5a75e8d9aa570800000000000000
+      internalID: 8478762483159782626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VegaStage_45
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 41
+        width: 32
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c48701761afe910d0800000000000000
+      internalID: -3451464162904868788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VegaStage_46
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 41
+        width: 32
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c067a78a41ccd7700800000000000000
+      internalID: 539811919452337676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VegaStage_47
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 54
+        width: 194
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7677ec0a12b564e0800000000000000
+      internalID: -1988987835458816386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VegaStage_48
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 61
+        width: 194
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3486e483e647d4ff0800000000000000
+      internalID: -50256004091320253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VegaStage_49
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 61
+        width: 194
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edb2014d029976c40800000000000000
+      internalID: 5505537435759553502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VegaStage_50
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 61
+        width: 194
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a954dec83a4670820800000000000000
+      internalID: 2884384739960898970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VegaStage_51
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 61
+        width: 182
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8da1e54b60ee2620800000000000000
+      internalID: 2751383173708492170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VegaStage_52
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 15
+        width: 101
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76531b13862eb4ab0800000000000000
+      internalID: -5022672022263483033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VegaStage_53
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1033
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f92e979c1f74a670800000000000000
+      internalID: 8549097753435580916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VegaStage_0: -8138523854081353067
+      VegaStage_1: 1122308107456713711
+      VegaStage_10: 7772246191858330190
+      VegaStage_11: 3315756706588846473
+      VegaStage_12: -7953850082990650099
+      VegaStage_13: -6451232947835042402
+      VegaStage_14: -8056237103642555716
+      VegaStage_15: 6762163690105510182
+      VegaStage_16: -8499227339718564174
+      VegaStage_17: -3770088034415646891
+      VegaStage_18: -8093943288623981217
+      VegaStage_19: 5054060649645026132
+      VegaStage_2: -4897870372248487109
+      VegaStage_20: -4563956282028604730
+      VegaStage_21: 7604729164983458533
+      VegaStage_22: 8952002695588925909
+      VegaStage_23: 3986861247770295024
+      VegaStage_24: 4787450499690777704
+      VegaStage_25: -1869851676098930933
+      VegaStage_26: 8766406865232816410
+      VegaStage_27: 5967666643782672391
+      VegaStage_28: 7379371898420664
+      VegaStage_29: -1065616288815953026
+      VegaStage_3: -6816089415751150948
+      VegaStage_30: -4667737261339000366
+      VegaStage_31: 4511340319641171380
+      VegaStage_32: -7391659429399316017
+      VegaStage_33: 75210305867600998
+      VegaStage_34: 8578251557980848272
+      VegaStage_35: -1119043571670269853
+      VegaStage_36: -3093791883993363566
+      VegaStage_37: -3767424017838048714
+      VegaStage_38: -9064020219212781231
+      VegaStage_39: 4235365001635172027
+      VegaStage_4: -7348909488283919693
+      VegaStage_40: 5668708466242595674
+      VegaStage_41: 6883822464639147661
+      VegaStage_42: 3219462462813431461
+      VegaStage_43: -4402665227455585848
+      VegaStage_44: 8478762483159782626
+      VegaStage_45: -3451464162904868788
+      VegaStage_46: 539811919452337676
+      VegaStage_47: -1988987835458816386
+      VegaStage_48: -50256004091320253
+      VegaStage_49: 5505537435759553502
+      VegaStage_5: -1084359283654527289
+      VegaStage_50: 2884384739960898970
+      VegaStage_51: 2751383173708492170
+      VegaStage_52: -5022672022263483033
+      VegaStage_53: 8549097753435580916
+      VegaStage_6: 8336759331580790072
+      VegaStage_7: 3317558333030426111
+      VegaStage_8: 9159719167914332073
+      VegaStage_9: 3983915057326385372
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

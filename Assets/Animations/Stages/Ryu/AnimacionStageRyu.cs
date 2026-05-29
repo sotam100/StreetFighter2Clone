@@ -21,6 +21,6 @@ public class AnimacionStageRyu : MonoBehaviour
     }
     void FixedUpdate()
     {
-        rbdStageRyu.velocity = Vector2.left*Speed;
+        rbdStageRyu.linearVelocity = Vector2.left*Speed;
     }
 }

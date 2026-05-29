@@ -1,0 +1,5148 @@
+fileFormatVersion: 2
+guid: 12701c8b45c014b5a92899682d834b6b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3162388872291751395
+    second: Zengief_0
+  - first:
+      213: -5446670289214595939
+    second: Zengief_1
+  - first:
+      213: 3047410565084448438
+    second: Zengief_2
+  - first:
+      213: 7731845538251940660
+    second: Zengief_3
+  - first:
+      213: 3801977117637444802
+    second: Zengief_4
+  - first:
+      213: -6091980496334557215
+    second: Zengief_5
+  - first:
+      213: 1728185054169378673
+    second: Zengief_6
+  - first:
+      213: 4927094872952294160
+    second: Zengief_7
+  - first:
+      213: 4032281104875428952
+    second: Zengief_8
+  - first:
+      213: 9187444195890913752
+    second: Zengief_9
+  - first:
+      213: 8356350004426447233
+    second: Zengief_10
+  - first:
+      213: 3511945701052129530
+    second: Zengief_11
+  - first:
+      213: -1215788934878783123
+    second: Zengief_12
+  - first:
+      213: -8276905842989553711
+    second: Zengief_13
+  - first:
+      213: 7113307051855470301
+    second: Zengief_14
+  - first:
+      213: -3630956855754624459
+    second: Zengief_15
+  - first:
+      213: 1166016351401008264
+    second: Zengief_16
+  - first:
+      213: -2623322783524462549
+    second: Zengief_17
+  - first:
+      213: -4993191529479336478
+    second: Zengief_18
+  - first:
+      213: 8103044379301301052
+    second: Zengief_19
+  - first:
+      213: 5712410048656974490
+    second: Zengief_20
+  - first:
+      213: 3637585574066407203
+    second: Zengief_21
+  - first:
+      213: 2196578556571369254
+    second: Zengief_22
+  - first:
+      213: 883622641983942432
+    second: Zengief_23
+  - first:
+      213: -1441092499476278139
+    second: Zengief_24
+  - first:
+      213: -2672324963959904998
+    second: Zengief_25
+  - first:
+      213: -4726898387720729251
+    second: Zengief_26
+  - first:
+      213: 7095086906795860601
+    second: Zengief_27
+  - first:
+      213: 2799234748901962082
+    second: Zengief_28
+  - first:
+      213: -2126402598522408982
+    second: Zengief_29
+  - first:
+      213: 1027238708521800209
+    second: Zengief_30
+  - first:
+      213: 23750546456359658
+    second: Zengief_31
+  - first:
+      213: -1910210065066361051
+    second: Zengief_32
+  - first:
+      213: -7291351329612382407
+    second: Zengief_33
+  - first:
+      213: 7711053197419220129
+    second: Zengief_34
+  - first:
+      213: -434042550811685407
+    second: Zengief_35
+  - first:
+      213: 4380177278233027901
+    second: Zengief_36
+  - first:
+      213: 4605529334082753427
+    second: Zengief_37
+  - first:
+      213: 6780615361350948837
+    second: Zengief_38
+  - first:
+      213: 1536062970545300236
+    second: Zengief_39
+  - first:
+      213: 7694778407500228353
+    second: Zengief_40
+  - first:
+      213: 4984759446201025524
+    second: Zengief_41
+  - first:
+      213: 7699763094012161916
+    second: Zengief_42
+  - first:
+      213: 5432275192944580892
+    second: Zengief_43
+  - first:
+      213: -3388111027662937003
+    second: Zengief_44
+  - first:
+      213: 3910147087457489128
+    second: Zengief_45
+  - first:
+      213: 3853580398501613322
+    second: Zengief_46
+  - first:
+      213: 3020209193572175438
+    second: Zengief_47
+  - first:
+      213: 390985531546385106
+    second: Zengief_48
+  - first:
+      213: 8678656203715449672
+    second: Zengief_49
+  - first:
+      213: 3794906080982237338
+    second: Zengief_50
+  - first:
+      213: -60726002432248968
+    second: Zengief_51
+  - first:
+      213: -6604017439674565292
+    second: Zengief_52
+  - first:
+      213: -2695185209028551596
+    second: Zengief_53
+  - first:
+      213: 4349760347398967771
+    second: Zengief_54
+  - first:
+      213: -6104037242321316646
+    second: Zengief_55
+  - first:
+      213: 4177216058404608187
+    second: Zengief_56
+  - first:
+      213: 5113914206150437270
+    second: Zengief_57
+  - first:
+      213: 6490561045962237204
+    second: Zengief_58
+  - first:
+      213: -2761037561472667143
+    second: Zengief_59
+  - first:
+      213: -6731489419726173285
+    second: Zengief_60
+  - first:
+      213: -5081194122490150278
+    second: Zengief_61
+  - first:
+      213: 4864689843935798735
+    second: Zengief_62
+  - first:
+      213: 5205237267924080054
+    second: Zengief_63
+  - first:
+      213: 3874270175036215829
+    second: Zengief_64
+  - first:
+      213: -8107988049575202551
+    second: Zengief_65
+  - first:
+      213: -3507882107393735869
+    second: Zengief_66
+  - first:
+      213: 5624948560664723637
+    second: Zengief_67
+  - first:
+      213: 9135442034162929162
+    second: Zengief_68
+  - first:
+      213: 8977911556772487149
+    second: Zengief_69
+  - first:
+      213: -9182393283758662670
+    second: Zengief_70
+  - first:
+      213: -871096295001168048
+    second: Zengief_71
+  - first:
+      213: -306509809561104340
+    second: Zengief_72
+  - first:
+      213: 4857293498963980011
+    second: Zengief_73
+  - first:
+      213: -2109890962859956048
+    second: Zengief_74
+  - first:
+      213: -6079514713778628093
+    second: Zengief_75
+  - first:
+      213: -7255402100019610552
+    second: Zengief_76
+  - first:
+      213: -2304411186350340116
+    second: Zengief_77
+  - first:
+      213: -2984835617431149339
+    second: Zengief_78
+  - first:
+      213: -2484388018926069891
+    second: Zengief_79
+  - first:
+      213: 6101119339359320812
+    second: Zengief_80
+  - first:
+      213: 2493632508659277623
+    second: Zengief_81
+  - first:
+      213: 4335758775167351145
+    second: Zengief_82
+  - first:
+      213: -4950725924712588720
+    second: Zengief_83
+  - first:
+      213: 9025228615091197432
+    second: Zengief_84
+  - first:
+      213: -6385391244442306475
+    second: Zengief_85
+  - first:
+      213: -7794400795876494297
+    second: Zengief_86
+  - first:
+      213: -2880492308314489137
+    second: Zengief_87
+  - first:
+      213: -7621319030958507290
+    second: Zengief_88
+  - first:
+      213: -451158986620563891
+    second: Zengief_89
+  - first:
+      213: -6810711802016119356
+    second: Zengief_90
+  - first:
+      213: 6059529486246575437
+    second: Zengief_91
+  - first:
+      213: 6021950681834600703
+    second: Zengief_92
+  - first:
+      213: 3022045078614946654
+    second: Zengief_93
+  - first:
+      213: 5037152701022546444
+    second: Zengief_94
+  - first:
+      213: 2387281586610857609
+    second: Zengief_95
+  - first:
+      213: 2871420421092294322
+    second: Zengief_96
+  - first:
+      213: 5141345144341134682
+    second: Zengief_97
+  - first:
+      213: 4560807228626607546
+    second: Zengief_98
+  - first:
+      213: 5417770102434320510
+    second: Zengief_99
+  - first:
+      213: -7786349606463185721
+    second: Zengief_100
+  - first:
+      213: 2875706916606007936
+    second: Zengief_101
+  - first:
+      213: -3262857904343804844
+    second: Zengief_102
+  - first:
+      213: -6412873366795929216
+    second: Zengief_103
+  - first:
+      213: -6205195589158366983
+    second: Zengief_104
+  - first:
+      213: 58516115417197596
+    second: Zengief_105
+  - first:
+      213: 7647526795168104725
+    second: Zengief_106
+  - first:
+      213: -4284556121480827441
+    second: Zengief_107
+  - first:
+      213: -1756424414100783974
+    second: Zengief_108
+  - first:
+      213: -8524494520461511529
+    second: Zengief_109
+  - first:
+      213: -7782957655761297435
+    second: Zengief_110
+  - first:
+      213: -3393073234568698785
+    second: Zengief_111
+  - first:
+      213: -8544691787214984753
+    second: Zengief_112
+  - first:
+      213: -5637776556114795125
+    second: Zengief_113
+  - first:
+      213: 2730756158025319659
+    second: Zengief_114
+  - first:
+      213: -6949510044135559260
+    second: Zengief_115
+  - first:
+      213: 4180057301234386047
+    second: Zengief_116
+  - first:
+      213: 5523509982370242218
+    second: Zengief_117
+  - first:
+      213: -9159136835518647427
+    second: Zengief_118
+  - first:
+      213: 3943981187376768050
+    second: Zengief_119
+  - first:
+      213: -6557963059034327507
+    second: Zengief_120
+  - first:
+      213: 4839933659217942237
+    second: Zengief_121
+  - first:
+      213: 2534522120475378213
+    second: Zengief_122
+  - first:
+      213: -4256810271174553271
+    second: Zengief_123
+  - first:
+      213: -5544321389379538901
+    second: Zengief_124
+  - first:
+      213: 3159482264153496718
+    second: Zengief_125
+  - first:
+      213: 5130094153769114438
+    second: Zengief_126
+  - first:
+      213: 483637899290158313
+    second: Zengief_127
+  - first:
+      213: 709944826654288590
+    second: Zengief_128
+  - first:
+      213: 3210088622571687910
+    second: Zengief_129
+  - first:
+      213: -9008086974770978353
+    second: Zengief_130
+  - first:
+      213: -9142318599277632146
+    second: Zengief_131
+  - first:
+      213: 8900770187102864078
+    second: Zengief_132
+  - first:
+      213: -1970870235917221462
+    second: Zengief_133
+  - first:
+      213: 3050737138634702649
+    second: Zengief_134
+  - first:
+      213: -749136014980159488
+    second: Zengief_135
+  - first:
+      213: 3301527614976548063
+    second: Zengief_136
+  - first:
+      213: -4917082432619516470
+    second: Zengief_137
+  - first:
+      213: -3528989278530157892
+    second: Zengief_138
+  - first:
+      213: -248223410673204312
+    second: Zengief_139
+  - first:
+      213: 6662166379410417240
+    second: Zengief_140
+  - first:
+      213: -2205320676128732220
+    second: Zengief_141
+  - first:
+      213: -6192203298235030168
+    second: Zengief_142
+  - first:
+      213: 5070446764542040405
+    second: Zengief_143
+  - first:
+      213: 8413964346345150353
+    second: Zengief_144
+  - first:
+      213: -3886788324638905207
+    second: Zengief_145
+  - first:
+      213: 2277344695794066464
+    second: Zengief_146
+  - first:
+      213: 2567745925622000932
+    second: Zengief_147
+  - first:
+      213: -2584577684292139967
+    second: Zengief_148
+  - first:
+      213: 565289955561836344
+    second: Zengief_149
+  - first:
+      213: -1250281743868071817
+    second: Zengief_150
+  - first:
+      213: 4152651015476236386
+    second: Zengief_151
+  - first:
+      213: 3529073094334480991
+    second: Zengief_152
+  - first:
+      213: 892874322946084421
+    second: Zengief_153
+  - first:
+      213: 5174240476846579087
+    second: Zengief_154
+  - first:
+      213: 6532035059834809272
+    second: Zengief_155
+  - first:
+      213: 4671433363078288974
+    second: Zengief_156
+  - first:
+      213: -3293087497013903689
+    second: Zengief_157
+  - first:
+      213: 5443474196415693199
+    second: Zengief_158
+  - first:
+      213: 3877688047249916164
+    second: Zengief_159
+  - first:
+      213: -9095114980999734752
+    second: Zengief_160
+  - first:
+      213: -2480271125022514728
+    second: Zengief_161
+  - first:
+      213: 1766202632628179096
+    second: Zengief_162
+  - first:
+      213: -7537212064821432446
+    second: Zengief_163
+  - first:
+      213: 8368382013341427677
+    second: Zengief_164
+  - first:
+      213: 5111008180213210654
+    second: Zengief_165
+  - first:
+      213: 5735597592814741959
+    second: Zengief_166
+  - first:
+      213: 1638056453883176780
+    second: Zengief_167
+  - first:
+      213: -477301015536868495
+    second: Zengief_168
+  - first:
+      213: 197830696075212192
+    second: Zengief_169
+  - first:
+      213: -8475645136135174338
+    second: Zengief_170
+  - first:
+      213: -9047544009945738595
+    second: Zengief_171
+  - first:
+      213: 1833210358066759119
+    second: Zengief_172
+  - first:
+      213: 8505241384499467478
+    second: Zengief_173
+  - first:
+      213: 1054905704990881988
+    second: Zengief_174
+  - first:
+      213: -941305449371588620
+    second: Zengief_175
+  - first:
+      213: -9024449376688831762
+    second: Zengief_176
+  - first:
+      213: 4065522664923145009
+    second: Zengief_177
+  - first:
+      213: 7670029771603767089
+    second: Zengief_178
+  - first:
+      213: 6742991771204311315
+    second: Zengief_179
+  - first:
+      213: 7202570186800755628
+    second: Zengief_180
+  - first:
+      213: 6305959061576124709
+    second: Zengief_181
+  - first:
+      213: -3188874445016295483
+    second: Zengief_182
+  - first:
+      213: 1150558194559752456
+    second: Zengief_183
+  - first:
+      213: -2828168813123869309
+    second: Zengief_184
+  - first:
+      213: -3778301978223281622
+    second: Zengief_185
+  - first:
+      213: 2415042843848645464
+    second: Zengief_186
+  - first:
+      213: -1681134440082298849
+    second: Zengief_187
+  - first:
+      213: -4423449435713187435
+    second: Zengief_188
+  - first:
+      213: -6299969764841705835
+    second: Zengief_189
+  - first:
+      213: 361466089805357468
+    second: Zengief_190
+  - first:
+      213: -921467596876676988
+    second: Zengief_191
+  - first:
+      213: -3206993583711652572
+    second: Zengief_192
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Zengief_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1443
+        width: 59
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e5199e9cef03eb20800000000000000
+      internalID: 3162388872291751395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_1
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 1443
+        width: 62
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9c90baca3a8964b0800000000000000
+      internalID: -5446670289214595939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_2
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1443
+        width: 68
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b681a853c39a4a20800000000000000
+      internalID: 3047410565084448438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_3
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 1443
+        width: 62
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43322bd4d880d4b60800000000000000
+      internalID: 7731845538251940660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_4
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 1443
+        width: 67
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c481f47b0653c430800000000000000
+      internalID: 3801977117637444802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_5
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 1443
+        width: 69
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1efee59e300f47ba0800000000000000
+      internalID: -6091980496334557215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_6
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 1443
+        width: 66
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17fa7e3862fbbf710800000000000000
+      internalID: 1728185054169378673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_7
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 1443
+        width: 61
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01b48fc9eae806440800000000000000
+      internalID: 4927094872952294160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_8
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 1443
+        width: 59
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85c9e9a0d4a85f730800000000000000
+      internalID: 4032281104875428952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_9
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 1441
+        width: 65
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d16dc9a1db508f70800000000000000
+      internalID: 9187444195890913752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_10
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 1457
+        width: 75
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1891ca02e08b7f370800000000000000
+      internalID: 8356350004426447233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_11
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 1441
+        width: 65
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af02cad0200fcb030800000000000000
+      internalID: 3511945701052129530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_12
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 1443
+        width: 56
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6913beb766a02fe0800000000000000
+      internalID: -1215788934878783123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_13
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 1443
+        width: 56
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d7a04d1df5822d80800000000000000
+      internalID: -8276905842989553711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_14
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 1443
+        width: 56
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dde5024631b87b260800000000000000
+      internalID: 7113307051855470301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_15
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1317
+        width: 61
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 532f9f13aff3c9dc0800000000000000
+      internalID: -3630956855754624459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_16
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1317
+        width: 80
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88cdd8b91b58e2010800000000000000
+      internalID: 1166016351401008264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_17
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 1317
+        width: 61
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b20e5dcc3d5189bd0800000000000000
+      internalID: -2623322783524462549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_18
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 1317
+        width: 58
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ed05ed42ce94bab0800000000000000
+      internalID: -4993191529479336478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_19
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 1317
+        width: 61
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3bca736eebc37070800000000000000
+      internalID: 8103044379301301052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_20
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 1317
+        width: 80
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9222917cae864f40800000000000000
+      internalID: 5712410048656974490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_21
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 1317
+        width: 76
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 327405e8ecc4b7230800000000000000
+      internalID: 3637585574066407203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_22
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 1317
+        width: 80
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62f3da92f80db7e10800000000000000
+      internalID: 2196578556571369254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_23
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 1317
+        width: 61
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02fe1fa7c12434c00800000000000000
+      internalID: 883622641983942432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_24
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 1317
+        width: 58
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5849c38c106300ce0800000000000000
+      internalID: -1441092499476278139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_25
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 1317
+        width: 56
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a15e2c69a9ef9ead0800000000000000
+      internalID: -2672324963959904998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_26
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 1317
+        width: 68
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5d0a86e5fea66eb0800000000000000
+      internalID: -4726898387720729251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_27
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 1317
+        width: 79
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 972a71a43ffc67260800000000000000
+      internalID: 7095086906795860601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_28
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 1317
+        width: 56
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2613b335c21e8d620800000000000000
+      internalID: 2799234748901962082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_29
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1191
+        width: 61
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aefaa915a108d72e0800000000000000
+      internalID: -2126402598522408982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_30
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1191
+        width: 90
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11219f0b92c714e00800000000000000
+      internalID: 1027238708521800209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_31
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1191
+        width: 61
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae2b0c40ff0645000800000000000000
+      internalID: 23750546456359658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_32
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 1191
+        width: 75
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52ff75901129d75e0800000000000000
+      internalID: -1910210065066361051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_33
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 1191
+        width: 98
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93fb1e1d89aefca90800000000000000
+      internalID: -7291351329612382407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_34
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 1191
+        width: 75
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ac0054370a230b60800000000000000
+      internalID: 7711053197419220129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_35
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 1191
+        width: 61
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ed07758998f9f9f0800000000000000
+      internalID: -434042550811685407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_36
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 1191
+        width: 58
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d352152070489cc30800000000000000
+      internalID: 4380177278233027901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_37
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 1191
+        width: 88
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 393d4a837802aef30800000000000000
+      internalID: 4605529334082753427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_38
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 1191
+        width: 58
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e751e3feb5991e50800000000000000
+      internalID: 6780615361350948837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_39
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 1191
+        width: 60
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c03ebff1221315510800000000000000
+      internalID: 1536062970545300236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_40
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 1191
+        width: 64
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 107a564613859ca60800000000000000
+      internalID: 7694778407500228353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_41
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 1205
+        width: 68
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f3c5915e4c6d2540800000000000000
+      internalID: 4984759446201025524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_42
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 1191
+        width: 72
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7fe1492dbd0bda60800000000000000
+      internalID: 7699763094012161916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_43
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 1224
+        width: 71
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c19d0ada181536b40800000000000000
+      internalID: 5432275192944580892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_44
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 1191
+        width: 59
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5542198a8f20bf0d0800000000000000
+      internalID: -3388111027662937003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_45
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 1191
+        width: 74
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e09e672f02a34630800000000000000
+      internalID: 3910147087457489128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_46
+      rect:
+        serializedVersion: 2
+        x: 1331
+        y: 1221
+        width: 75
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0fc81e84faaa7530800000000000000
+      internalID: 3853580398501613322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_47
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 1191
+        width: 74
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4e0d328240f9e920800000000000000
+      internalID: 3020209193572175438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_48
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 1191
+        width: 56
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dab328f44f0d6500800000000000000
+      internalID: 390985531546385106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_49
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 1191
+        width: 56
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8431336f5d7c07870800000000000000
+      internalID: 8678656203715449672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_50
+      rect:
+        serializedVersion: 2
+        x: 1331
+        y: 1191
+        width: 56
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a908ae079f63aa430800000000000000
+      internalID: 3794906080982237338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_51
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1065
+        width: 75
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8737564c502482ff0800000000000000
+      internalID: -60726002432248968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_52
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 1065
+        width: 56
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45d76b1d021d954a0800000000000000
+      internalID: -6604017439674565292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_53
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 1065
+        width: 81
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45c57f30557c89ad0800000000000000
+      internalID: -2695185209028551596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_54
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 1065
+        width: 56
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd19bcc6df37d5c30800000000000000
+      internalID: 4349760347398967771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_55
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 1065
+        width: 66
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad4deabf77a1a4ba0800000000000000
+      internalID: -6104037242321316646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_56
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 1065
+        width: 89
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb8934f8fd378f930800000000000000
+      internalID: 4177216058404608187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_57
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 1065
+        width: 66
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 699ab6530e548f640800000000000000
+      internalID: 5113914206150437270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_58
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 1080
+        width: 62
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 415219102ea131a50800000000000000
+      internalID: 6490561045962237204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_59
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 1080
+        width: 84
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f139e867f2dea9d0800000000000000
+      internalID: -2761037561472667143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_60
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 1063
+        width: 52
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9bcbe7a902f492a0800000000000000
+      internalID: -6731489419726173285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_61
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1065
+        width: 68
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a720c2eedd8fb79b0800000000000000
+      internalID: -5081194122490150278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_62
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 1090
+        width: 106
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc56e3a83a9d28340800000000000000
+      internalID: 4864689843935798735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_63
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 1065
+        width: 68
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b55d3677b7bc3840800000000000000
+      internalID: 5205237267924080054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_64
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 1065
+        width: 47
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5129cea823c24c530800000000000000
+      internalID: 3874270175036215829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_65
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 1065
+        width: 97
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90135fda3d3aa7f80800000000000000
+      internalID: -8107988049575202551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_66
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 1073
+        width: 63
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34309d21fcf715fc0800000000000000
+      internalID: -3507882107393735869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_67
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 1086
+        width: 106
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b00446e9e4df0e40800000000000000
+      internalID: 5624948560664723637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_68
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 1073
+        width: 63
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0e0470e02c97ce70800000000000000
+      internalID: 9135442034162929162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_69
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 937
+        width: 59
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: def5c4e6ef2f79c70800000000000000
+      internalID: 8977911556772487149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_70
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 937
+        width: 62
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fbd1a575f5919080800000000000000
+      internalID: -9182393283758662670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_71
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 937
+        width: 78
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 057eb43f88e39e3f0800000000000000
+      internalID: -871096295001168048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_72
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 937
+        width: 56
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2010f0c3fe0fbbf0800000000000000
+      internalID: -306509809561104340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_73
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 937
+        width: 85
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beeef87c3b2986340800000000000000
+      internalID: 4857293498963980011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_74
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 937
+        width: 62
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b8ece3195928b2e0800000000000000
+      internalID: -2109890962859956048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_75
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 937
+        width: 78
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30ad676149931aba0800000000000000
+      internalID: -6079514713778628093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_76
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 937
+        width: 56
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84c35b51b32af4b90800000000000000
+      internalID: -7255402100019610552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_77
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 937
+        width: 85
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce7c62d3c361500e0800000000000000
+      internalID: -2304411186350340116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_78
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 937
+        width: 62
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e4251ef1dbb396d0800000000000000
+      internalID: -2984835617431149339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_79
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 937
+        width: 78
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d77dca7724ea58dd0800000000000000
+      internalID: -2484388018926069891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_80
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 937
+        width: 56
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cea37cac6b78ba450800000000000000
+      internalID: 6101119339359320812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_81
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 949
+        width: 63
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73f90070e892b9220800000000000000
+      internalID: 2493632508659277623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_82
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 956
+        width: 106
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 969f1a952a5bb2c30800000000000000
+      internalID: 4335758775167351145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_83
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 943
+        width: 62
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05a5035600d7b4bb0800000000000000
+      internalID: -4950725924712588720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_84
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 949
+        width: 75
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f593339b9d004d70800000000000000
+      internalID: 9025228615091197432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_85
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 815
+        width: 81
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55870239e788267a0800000000000000
+      internalID: -6385391244442306475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_86
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 815
+        width: 78
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72472ccc5c9b4d390800000000000000
+      internalID: -7794400795876494297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_87
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 815
+        width: 76
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fce7ba0d18f6608d0800000000000000
+      internalID: -2880492308314489137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_88
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 815
+        width: 81
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ea3bc788b2ab3690800000000000000
+      internalID: -7621319030958507290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_89
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 815
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4e8141ca492db9f0800000000000000
+      internalID: -451158986620563891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_90
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 815
+        width: 56
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c5c44563bd7b71a0800000000000000
+      internalID: -6810711802016119356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_91
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 815
+        width: 91
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4d7bb586f5c71450800000000000000
+      internalID: 6059529486246575437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_92
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 849
+        width: 97
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff83cad4d34429350800000000000000
+      internalID: 6021950681834600703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_93
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 815
+        width: 56
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e53bf0eccf570f920800000000000000
+      internalID: 3022045078614946654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_94
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 815
+        width: 61
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0a29df81bf87e540800000000000000
+      internalID: 5037152701022546444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_95
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 815
+        width: 73
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98665c464f3512120800000000000000
+      internalID: 2387281586610857609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_96
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 815
+        width: 69
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2be3208d8a559d720800000000000000
+      internalID: 2871420421092294322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_97
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 815
+        width: 71
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5df1243b2ab95740800000000000000
+      internalID: 5141345144341134682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_98
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 815
+        width: 74
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abd925f920e3b4f30800000000000000
+      internalID: 4560807228626607546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_99
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 693
+        width: 81
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e70545e1439cf2b40800000000000000
+      internalID: 5417770102434320510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_100
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 693
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cc52c9694451f390800000000000000
+      internalID: -7786349606463185721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_101
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 693
+        width: 44
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08a5f6a543098e720800000000000000
+      internalID: 2875706916606007936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_102
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 711
+        width: 60
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 454130bf50008b2d0800000000000000
+      internalID: -3262857904343804844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_103
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 693
+        width: 65
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 089b09656a5e007a0800000000000000
+      internalID: -6412873366795929216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_104
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 693
+        width: 70
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f0156afc77b2e9a0800000000000000
+      internalID: -6205195589158366983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_105
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 693
+        width: 62
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1ce311d814efc000800000000000000
+      internalID: 58516115417197596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_106
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 693
+        width: 81
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 511c6441a19712a60800000000000000
+      internalID: 7647526795168104725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_107
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 693
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcde8e678e23a84c0800000000000000
+      internalID: -4284556121480827441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_108
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 693
+        width: 44
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9cf2b22d4def97e0800000000000000
+      internalID: -1756424414100783974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_109
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 693
+        width: 40
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 794b02af569e2b980800000000000000
+      internalID: -8524494520461511529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_110
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 693
+        width: 44
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5efd07a7f316df390800000000000000
+      internalID: -7782957655761297435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_111
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 693
+        width: 42
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f54a5a4ded169e0d0800000000000000
+      internalID: -3393073234568698785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_112
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 711
+        width: 60
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc96adb57182b6980800000000000000
+      internalID: -8544691787214984753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_113
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 693
+        width: 65
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b85a0c9a71892c1b0800000000000000
+      internalID: -5637776556114795125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_114
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 557
+        width: 70
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be44f4fe14895e520800000000000000
+      internalID: 2730756158025319659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_115
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 557
+        width: 62
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4af6a485f616e8f90800000000000000
+      internalID: -6949510044135559260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_116
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 557
+        width: 81
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f748ad4f7fb820a30800000000000000
+      internalID: 4180057301234386047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_117
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 557
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aae908c601377ac40800000000000000
+      internalID: 5523509982370242218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_118
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 557
+        width: 56
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7337b5439534e080800000000000000
+      internalID: -9159136835518647427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_119
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 557
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2346a6a6ef5dbb630800000000000000
+      internalID: 3943981187376768050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_120
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 560
+        width: 72
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d26ff18e75f6df4a0800000000000000
+      internalID: -6557963059034327507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_121
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 569
+        width: 97
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd6542e1506ea2340800000000000000
+      internalID: 4839933659217942237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_122
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 561
+        width: 91
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5220e4aa07e6c2320800000000000000
+      internalID: 2534522120475378213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_123
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 558
+        width: 97
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9411866ac95cce4c0800000000000000
+      internalID: -4256810271174553271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_124
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 557
+        width: 63
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b20be69421d9e03b0800000000000000
+      internalID: -5544321389379538901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_125
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 555
+        width: 65
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8c140d216cb8db20800000000000000
+      internalID: 3159482264153496718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_126
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 557
+        width: 57
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64b57b3d371c13740800000000000000
+      internalID: 5130094153769114438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_127
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 557
+        width: 60
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e42b136b1a36b600800000000000000
+      internalID: 483637899290158313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_128
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 557
+        width: 72
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecaead2fe0b3ad900800000000000000
+      internalID: 709944826654288590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_129
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 557
+        width: 75
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ef88ed28968c8c20800000000000000
+      internalID: 3210088622571687910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_130
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 557
+        width: 57
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc1e3f29f98dcf280800000000000000
+      internalID: -9008086974770978353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_131
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 421
+        width: 62
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e652c9a0ca5ff1180800000000000000
+      internalID: -9142318599277632146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_132
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 421
+        width: 81
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec247ada353e58b70800000000000000
+      internalID: 8900770187102864078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_133
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 421
+        width: 58
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa183c966ff06a4e0800000000000000
+      internalID: -1970870235917221462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_134
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 421
+        width: 77
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93fb96b9345665a20800000000000000
+      internalID: 3050737138634702649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_135
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 421
+        width: 56
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 008e7a273c88a95f0800000000000000
+      internalID: -749136014980159488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_136
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 421
+        width: 74
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdcd1d2afd161dd20800000000000000
+      internalID: 3301527614976548063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_137
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 421
+        width: 82
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acd6660549303cbb0800000000000000
+      internalID: -4917082432619516470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_138
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 421
+        width: 90
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb24c05d2f2860fc0800000000000000
+      internalID: -3528989278530157892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_139
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 421
+        width: 56
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a343e58f122e8cf0800000000000000
+      internalID: -248223410673204312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_140
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 429
+        width: 97
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 856ee4f3605c47c50800000000000000
+      internalID: 6662166379410417240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_141
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 421
+        width: 77
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cbc58387802561e0800000000000000
+      internalID: -2205320676128732220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_142
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 446
+        width: 74
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 865e2bf68efd01aa0800000000000000
+      internalID: -6192203298235030168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_143
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 456
+        width: 75
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5599e0dc778dd5640800000000000000
+      internalID: 5070446764542040405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_144
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 421
+        width: 56
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19754b07ef764c470800000000000000
+      internalID: 8413964346345150353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_145
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 432
+        width: 47
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98c23c0ac9a5f0ac0800000000000000
+      internalID: -3886788324638905207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_146
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 421
+        width: 97
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 024ece75fe0ca9f10800000000000000
+      internalID: 2277344695794066464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_147
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 422
+        width: 65
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42de72a905772a320800000000000000
+      internalID: 2567745925622000932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_148
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 421
+        width: 56
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1448d513a4cb12cd0800000000000000
+      internalID: -2584577684292139967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_149
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 421
+        width: 56
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83f0c54383058d700800000000000000
+      internalID: 565289955561836344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_150
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 421
+        width: 56
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7707693d06b16aee0800000000000000
+      internalID: -1250281743868071817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_151
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 421
+        width: 56
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26050adc81e21a930800000000000000
+      internalID: 4152651015476236386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_152
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 289
+        width: 66
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f52023e0849c9f030800000000000000
+      internalID: 3529073094334480991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_153
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 289
+        width: 58
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54ec4405770246c00800000000000000
+      internalID: 892874322946084421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_154
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 289
+        width: 69
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8d53e4ac489ec740800000000000000
+      internalID: 5174240476846579087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_155
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 289
+        width: 56
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bbe9d9574376aa50800000000000000
+      internalID: 6532035059834809272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_156
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 289
+        width: 67
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e469036b4e344d040800000000000000
+      internalID: 4671433363078288974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_157
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 289
+        width: 72
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7beb4367e5a9c42d0800000000000000
+      internalID: -3293087497013903689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_158
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 289
+        width: 75
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f81cc5dd0fa1b8b40800000000000000
+      internalID: 5443474196415693199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_159
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 289
+        width: 72
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4010c1eebb050d530800000000000000
+      internalID: 3877688047249916164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_160
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 289
+        width: 55
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02a5d2edc19a7c180800000000000000
+      internalID: -9095114980999734752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_161
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 305
+        width: 78
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d1ef568d8e449dd0800000000000000
+      internalID: -2480271125022514728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_162
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 306
+        width: 85
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8909927cfefc28810800000000000000
+      internalID: 1766202632628179096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_163
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 289
+        width: 85
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28fa7879f81766790800000000000000
+      internalID: -7537212064821432446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_164
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 289
+        width: 71
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd7ebf18a17722470800000000000000
+      internalID: 8368382013341427677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_165
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 289
+        width: 56
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1e59b15cd2fde640800000000000000
+      internalID: 5111008180213210654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_166
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 289
+        width: 61
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c9ee464f9fe89f40800000000000000
+      internalID: 5735597592814741959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_167
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 289
+        width: 63
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c472ebf7aab8bb610800000000000000
+      internalID: 1638056453883176780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_168
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 290
+        width: 62
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 173edf551494069f0800000000000000
+      internalID: -477301015536868495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_169
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 290
+        width: 62
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a53b3d48f5deb200800000000000000
+      internalID: 197830696075212192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_170
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 290
+        width: 62
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e37456297a5706a80800000000000000
+      internalID: -8475645136135174338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_171
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 141
+        width: 72
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d92987da8aaa07280800000000000000
+      internalID: -9047544009945738595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_172
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 141
+        width: 88
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc5c22f9b1fd07910800000000000000
+      internalID: 1833210358066759119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_173
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 141
+        width: 72
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d4da0cf9ffa80670800000000000000
+      internalID: 8505241384499467478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_174
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 141
+        width: 85
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c8b3894627c3ae00800000000000000
+      internalID: 1054905704990881988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_175
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 141
+        width: 84
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f721195eafcfe2f0800000000000000
+      internalID: -941305449371588620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_176
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 141
+        width: 64
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee287f00b17b2c280800000000000000
+      internalID: -9024449376688831762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_177
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 141
+        width: 60
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1332b0dd253ab6830800000000000000
+      internalID: 4065522664923145009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_178
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 141
+        width: 64
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13fec11907b617a60800000000000000
+      internalID: 7670029771603767089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_179
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 141
+        width: 60
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 319d30e3a4be39d50800000000000000
+      internalID: 6742991771204311315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_180
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 141
+        width: 64
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca3f31e8c6ba4f360800000000000000
+      internalID: 7202570186800755628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_181
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 141
+        width: 60
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52986692b54438750800000000000000
+      internalID: 6305959061576124709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_182
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 141
+        width: 64
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c79b7f6697deb3d0800000000000000
+      internalID: -3188874445016295483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_183
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 141
+        width: 59
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8091620059a97ff00800000000000000
+      internalID: 1150558194559752456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_184
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 141
+        width: 64
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 385e9e0e27350c8d0800000000000000
+      internalID: -2828168813123869309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_185
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 41
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2a78dd7e56c09bc0800000000000000
+      internalID: -3778301978223281622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_186
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 6
+        width: 59
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85b92f8cba4f38120800000000000000
+      internalID: 2415042843848645464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_187
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 6
+        width: 59
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f18283f32296ba8e0800000000000000
+      internalID: -1681134440082298849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_188
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 6
+        width: 59
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 591d966bc20cc92c0800000000000000
+      internalID: -4423449435713187435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_189
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 6
+        width: 59
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59ea8e6a0e20298a0800000000000000
+      internalID: -6299969764841705835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_190
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 6
+        width: 59
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c91a2395e7f240500800000000000000
+      internalID: 361466089805357468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_191
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 6
+        width: 59
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48002205a1a4633f0800000000000000
+      internalID: -921467596876676988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zengief_192
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 6
+        width: 59
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 425f8e5b3587e73d0800000000000000
+      internalID: -3206993583711652572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Zengief_0: 3162388872291751395
+      Zengief_1: -5446670289214595939
+      Zengief_10: 8356350004426447233
+      Zengief_100: -7786349606463185721
+      Zengief_101: 2875706916606007936
+      Zengief_102: -3262857904343804844
+      Zengief_103: -6412873366795929216
+      Zengief_104: -6205195589158366983
+      Zengief_105: 58516115417197596
+      Zengief_106: 7647526795168104725
+      Zengief_107: -4284556121480827441
+      Zengief_108: -1756424414100783974
+      Zengief_109: -8524494520461511529
+      Zengief_11: 3511945701052129530
+      Zengief_110: -7782957655761297435
+      Zengief_111: -3393073234568698785
+      Zengief_112: -8544691787214984753
+      Zengief_113: -5637776556114795125
+      Zengief_114: 2730756158025319659
+      Zengief_115: -6949510044135559260
+      Zengief_116: 4180057301234386047
+      Zengief_117: 5523509982370242218
+      Zengief_118: -9159136835518647427
+      Zengief_119: 3943981187376768050
+      Zengief_12: -1215788934878783123
+      Zengief_120: -6557963059034327507
+      Zengief_121: 4839933659217942237
+      Zengief_122: 2534522120475378213
+      Zengief_123: -4256810271174553271
+      Zengief_124: -5544321389379538901
+      Zengief_125: 3159482264153496718
+      Zengief_126: 5130094153769114438
+      Zengief_127: 483637899290158313
+      Zengief_128: 709944826654288590
+      Zengief_129: 3210088622571687910
+      Zengief_13: -8276905842989553711
+      Zengief_130: -9008086974770978353
+      Zengief_131: -9142318599277632146
+      Zengief_132: 8900770187102864078
+      Zengief_133: -1970870235917221462
+      Zengief_134: 3050737138634702649
+      Zengief_135: -749136014980159488
+      Zengief_136: 3301527614976548063
+      Zengief_137: -4917082432619516470
+      Zengief_138: -3528989278530157892
+      Zengief_139: -248223410673204312
+      Zengief_14: 7113307051855470301
+      Zengief_140: 6662166379410417240
+      Zengief_141: -2205320676128732220
+      Zengief_142: -6192203298235030168
+      Zengief_143: 5070446764542040405
+      Zengief_144: 8413964346345150353
+      Zengief_145: -3886788324638905207
+      Zengief_146: 2277344695794066464
+      Zengief_147: 2567745925622000932
+      Zengief_148: -2584577684292139967
+      Zengief_149: 565289955561836344
+      Zengief_15: -3630956855754624459
+      Zengief_150: -1250281743868071817
+      Zengief_151: 4152651015476236386
+      Zengief_152: 3529073094334480991
+      Zengief_153: 892874322946084421
+      Zengief_154: 5174240476846579087
+      Zengief_155: 6532035059834809272
+      Zengief_156: 4671433363078288974
+      Zengief_157: -3293087497013903689
+      Zengief_158: 5443474196415693199
+      Zengief_159: 3877688047249916164
+      Zengief_16: 1166016351401008264
+      Zengief_160: -9095114980999734752
+      Zengief_161: -2480271125022514728
+      Zengief_162: 1766202632628179096
+      Zengief_163: -7537212064821432446
+      Zengief_164: 8368382013341427677
+      Zengief_165: 5111008180213210654
+      Zengief_166: 5735597592814741959
+      Zengief_167: 1638056453883176780
+      Zengief_168: -477301015536868495
+      Zengief_169: 197830696075212192
+      Zengief_17: -2623322783524462549
+      Zengief_170: -8475645136135174338
+      Zengief_171: -9047544009945738595
+      Zengief_172: 1833210358066759119
+      Zengief_173: 8505241384499467478
+      Zengief_174: 1054905704990881988
+      Zengief_175: -941305449371588620
+      Zengief_176: -9024449376688831762
+      Zengief_177: 4065522664923145009
+      Zengief_178: 7670029771603767089
+      Zengief_179: 6742991771204311315
+      Zengief_18: -4993191529479336478
+      Zengief_180: 7202570186800755628
+      Zengief_181: 6305959061576124709
+      Zengief_182: -3188874445016295483
+      Zengief_183: 1150558194559752456
+      Zengief_184: -2828168813123869309
+      Zengief_185: -3778301978223281622
+      Zengief_186: 2415042843848645464
+      Zengief_187: -1681134440082298849
+      Zengief_188: -4423449435713187435
+      Zengief_189: -6299969764841705835
+      Zengief_19: 8103044379301301052
+      Zengief_190: 361466089805357468
+      Zengief_191: -921467596876676988
+      Zengief_192: -3206993583711652572
+      Zengief_2: 3047410565084448438
+      Zengief_20: 5712410048656974490
+      Zengief_21: 3637585574066407203
+      Zengief_22: 2196578556571369254
+      Zengief_23: 883622641983942432
+      Zengief_24: -1441092499476278139
+      Zengief_25: -2672324963959904998
+      Zengief_26: -4726898387720729251
+      Zengief_27: 7095086906795860601
+      Zengief_28: 2799234748901962082
+      Zengief_29: -2126402598522408982
+      Zengief_3: 7731845538251940660
+      Zengief_30: 1027238708521800209
+      Zengief_31: 23750546456359658
+      Zengief_32: -1910210065066361051
+      Zengief_33: -7291351329612382407
+      Zengief_34: 7711053197419220129
+      Zengief_35: -434042550811685407
+      Zengief_36: 4380177278233027901
+      Zengief_37: 4605529334082753427
+      Zengief_38: 6780615361350948837
+      Zengief_39: 1536062970545300236
+      Zengief_4: 3801977117637444802
+      Zengief_40: 7694778407500228353
+      Zengief_41: 4984759446201025524
+      Zengief_42: 7699763094012161916
+      Zengief_43: 5432275192944580892
+      Zengief_44: -3388111027662937003
+      Zengief_45: 3910147087457489128
+      Zengief_46: 3853580398501613322
+      Zengief_47: 3020209193572175438
+      Zengief_48: 390985531546385106
+      Zengief_49: 8678656203715449672
+      Zengief_5: -6091980496334557215
+      Zengief_50: 3794906080982237338
+      Zengief_51: -60726002432248968
+      Zengief_52: -6604017439674565292
+      Zengief_53: -2695185209028551596
+      Zengief_54: 4349760347398967771
+      Zengief_55: -6104037242321316646
+      Zengief_56: 4177216058404608187
+      Zengief_57: 5113914206150437270
+      Zengief_58: 6490561045962237204
+      Zengief_59: -2761037561472667143
+      Zengief_6: 1728185054169378673
+      Zengief_60: -6731489419726173285
+      Zengief_61: -5081194122490150278
+      Zengief_62: 4864689843935798735
+      Zengief_63: 5205237267924080054
+      Zengief_64: 3874270175036215829
+      Zengief_65: -8107988049575202551
+      Zengief_66: -3507882107393735869
+      Zengief_67: 5624948560664723637
+      Zengief_68: 9135442034162929162
+      Zengief_69: 8977911556772487149
+      Zengief_7: 4927094872952294160
+      Zengief_70: -9182393283758662670
+      Zengief_71: -871096295001168048
+      Zengief_72: -306509809561104340
+      Zengief_73: 4857293498963980011
+      Zengief_74: -2109890962859956048
+      Zengief_75: -6079514713778628093
+      Zengief_76: -7255402100019610552
+      Zengief_77: -2304411186350340116
+      Zengief_78: -2984835617431149339
+      Zengief_79: -2484388018926069891
+      Zengief_8: 4032281104875428952
+      Zengief_80: 6101119339359320812
+      Zengief_81: 2493632508659277623
+      Zengief_82: 4335758775167351145
+      Zengief_83: -4950725924712588720
+      Zengief_84: 9025228615091197432
+      Zengief_85: -6385391244442306475
+      Zengief_86: -7794400795876494297
+      Zengief_87: -2880492308314489137
+      Zengief_88: -7621319030958507290
+      Zengief_89: -451158986620563891
+      Zengief_9: 9187444195890913752
+      Zengief_90: -6810711802016119356
+      Zengief_91: 6059529486246575437
+      Zengief_92: 6021950681834600703
+      Zengief_93: 3022045078614946654
+      Zengief_94: 5037152701022546444
+      Zengief_95: 2387281586610857609
+      Zengief_96: 2871420421092294322
+      Zengief_97: 5141345144341134682
+      Zengief_98: 4560807228626607546
+      Zengief_99: 5417770102434320510
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

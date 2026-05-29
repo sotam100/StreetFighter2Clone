@@ -21,7 +21,7 @@ public class Ciclista : MonoBehaviour
     }
     void FixedUpdate()
     {
-        rbdStageRyu.velocity = Vector2.right*Speed;
+        rbdStageRyu.linearVelocity = Vector2.right*Speed;
     } 
 
 }

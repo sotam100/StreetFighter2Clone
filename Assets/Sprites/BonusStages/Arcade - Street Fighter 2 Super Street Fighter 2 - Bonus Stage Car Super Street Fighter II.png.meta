@@ -1,0 +1,1558 @@
+fileFormatVersion: 2
+guid: c099c240c25254f8aaa6e6ab4aa82d41
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6885589169843786546
+    second: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Car Super
+      Street Fighter II_0
+  - first:
+      213: 8816469029508921576
+    second: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Car Super
+      Street Fighter II_1
+  - first:
+      213: -8765215848838779267
+    second: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Car Super
+      Street Fighter II_2
+  - first:
+      213: 4418343562992543383
+    second: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Car Super
+      Street Fighter II_3
+  - first:
+      213: 3630042934764906319
+    second: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Car Super
+      Street Fighter II_4
+  - first:
+      213: 34124718067619040
+    second: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Car Super
+      Street Fighter II_5
+  - first:
+      213: 9106876003161435821
+    second: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Car Super
+      Street Fighter II_6
+  - first:
+      213: -1192780933757338885
+    second: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Car Super
+      Street Fighter II_7
+  - first:
+      213: 1403304705087660160
+    second: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Car Super
+      Street Fighter II_8
+  - first:
+      213: -339827250782055779
+    second: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Car Super
+      Street Fighter II_9
+  - first:
+      213: -8139650220867167488
+    second: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Car Super
+      Street Fighter II_10
+  - first:
+      213: -6540110875121406910
+    second: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Car Super
+      Street Fighter II_11
+  - first:
+      213: 4708462815929221826
+    second: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Car Super
+      Street Fighter II_12
+  - first:
+      213: 3797535796905815442
+    second: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Car Super
+      Street Fighter II_13
+  - first:
+      213: -5716066431026623315
+    second: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Car Super
+      Street Fighter II_14
+  - first:
+      213: -4717138109337293921
+    second: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Car Super
+      Street Fighter II_15
+  - first:
+      213: 7374500983868635046
+    second: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Car Super
+      Street Fighter II_16
+  - first:
+      213: 7369318131939741776
+    second: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Car Super
+      Street Fighter II_17
+  - first:
+      213: 6329873020271424070
+    second: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Car Super
+      Street Fighter II_18
+  - first:
+      213: 3520282962488692610
+    second: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Car Super
+      Street Fighter II_19
+  - first:
+      213: 5904371240508148508
+    second: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Car Super
+      Street Fighter II_20
+  - first:
+      213: -1028940009032287368
+    second: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Car Super
+      Street Fighter II_21
+  - first:
+      213: -6747354015169636365
+    second: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Car Super
+      Street Fighter II_22
+  - first:
+      213: 1837355933615709904
+    second: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Car Super
+      Street Fighter II_23
+  - first:
+      213: 2360026252975569869
+    second: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Car Super
+      Street Fighter II_24
+  - first:
+      213: -3923751645024896127
+    second: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Car Super
+      Street Fighter II_25
+  - first:
+      213: -69320590099229479
+    second: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Car Super
+      Street Fighter II_26
+  - first:
+      213: 6146324617792150645
+    second: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Car Super
+      Street Fighter II_27
+  - first:
+      213: 4332157457444816972
+    second: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Car Super
+      Street Fighter II_28
+  - first:
+      213: 193274882169205464
+    second: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Car Super
+      Street Fighter II_29
+  - first:
+      213: 4442581082824765294
+    second: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Car Super
+      Street Fighter II_30
+  - first:
+      213: -1186465606492095543
+    second: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Car Super
+      Street Fighter II_31
+  - first:
+      213: -4747358725027163644
+    second: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Car Super
+      Street Fighter II_32
+  - first:
+      213: -8184915691503049326
+    second: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Car Super
+      Street Fighter II_33
+  - first:
+      213: 1585909780202553561
+    second: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Car Super
+      Street Fighter II_34
+  - first:
+      213: -5830604571063460929
+    second: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Car Super
+      Street Fighter II_35
+  - first:
+      213: 1083065395532482315
+    second: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Car Super
+      Street Fighter II_36
+  - first:
+      213: 4302161908487383355
+    second: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Car Super
+      Street Fighter II_37
+  - first:
+      213: -7477616345281903472
+    second: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Car Super
+      Street Fighter II_38
+  - first:
+      213: -4488252665303099677
+    second: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Car Super
+      Street Fighter II_39
+  - first:
+      213: 6051655020036135368
+    second: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Car Super
+      Street Fighter II_40
+  - first:
+      213: 4027539130072524732
+    second: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Car Super
+      Street Fighter II_41
+  - first:
+      213: 2247566314175038118
+    second: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Car Super
+      Street Fighter II_42
+  - first:
+      213: 4991622409434505899
+    second: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Car Super
+      Street Fighter II_43
+  - first:
+      213: 876901667748761296
+    second: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Car Super
+      Street Fighter II_44
+  - first:
+      213: -4393474251640933564
+    second: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Car Super
+      Street Fighter II_45
+  - first:
+      213: -1647278949333830100
+    second: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Car Super
+      Street Fighter II_46
+  - first:
+      213: 2381664444799879124
+    second: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Car Super
+      Street Fighter II_47
+  - first:
+      213: 6035333651585717448
+    second: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Car Super
+      Street Fighter II_48
+  - first:
+      213: -4175211156198227293
+    second: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Car Super
+      Street Fighter II_49
+  - first:
+      213: 9163819537792113525
+    second: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Car Super
+      Street Fighter II_50
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Car Super
+        Street Fighter II_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 508
+        width: 188
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 233d0d95ed68e8f50800000000000000
+      internalID: 6885589169843786546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Car Super
+        Street Fighter II_1
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 508
+        width: 186
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e8bc15eed36a5a70800000000000000
+      internalID: 8816469029508921576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Car Super
+        Street Fighter II_2
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 413
+        width: 189
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7e275620a2bb5680800000000000000
+      internalID: -8765215848838779267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Car Super
+        Street Fighter II_3
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 413
+        width: 82
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 796edc7af0c115d30800000000000000
+      internalID: 4418343562992543383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Car Super
+        Street Fighter II_4
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 413
+        width: 82
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f47241ef0d0806230800000000000000
+      internalID: 3630042934764906319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Car Super
+        Street Fighter II_5
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 413
+        width: 17
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e41b72104c397000800000000000000
+      internalID: 34124718067619040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Car Super
+        Street Fighter II_6
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 413
+        width: 94
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dae67fd797f126e70800000000000000
+      internalID: 9106876003161435821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Car Super
+        Street Fighter II_7
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 324
+        width: 189
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfaf8847f04627fe0800000000000000
+      internalID: -1192780933757338885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Car Super
+        Street Fighter II_8
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 324
+        width: 187
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 080626ab13a897310800000000000000
+      internalID: 1403304705087660160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Car Super
+        Street Fighter II_9
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 324
+        width: 187
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9253287ae0b84bf0800000000000000
+      internalID: -339827250782055779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Car Super
+        Street Fighter II_10
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 233
+        width: 187
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00b5845ff372a0f80800000000000000
+      internalID: -8139650220867167488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Car Super
+        Street Fighter II_11
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 233
+        width: 187
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24c28b06fcbdc35a0800000000000000
+      internalID: -6540110875121406910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Car Super
+        Street Fighter II_12
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 233
+        width: 187
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c2c89d0cf1d75140800000000000000
+      internalID: 4708462815929221826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Car Super
+        Street Fighter II_13
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 164
+        width: 184
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29da664efae83b430800000000000000
+      internalID: 3797535796905815442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Car Super
+        Street Fighter II_14
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 164
+        width: 146
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dac8f12bdd37ca0b0800000000000000
+      internalID: -5716066431026623315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Car Super
+        Street Fighter II_15
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 118
+        width: 191
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9b2e7cc1eb598eb0800000000000000
+      internalID: -4717138109337293921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Car Super
+        Street Fighter II_16
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 122
+        width: 88
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a73243b29d775660800000000000000
+      internalID: 7374500983868635046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Car Super
+        Street Fighter II_17
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 126
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0501d13fbc3154660800000000000000
+      internalID: 7369318131939741776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Car Super
+        Street Fighter II_18
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 126
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6427b9e89f938d750800000000000000
+      internalID: 6329873020271424070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Car Super
+        Street Fighter II_19
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 113
+        width: 88
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28f8ffff3be8ad030800000000000000
+      internalID: 3520282962488692610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Car Super
+        Street Fighter II_20
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 121
+        width: 38
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1b458c4c5a80f150800000000000000
+      internalID: 5904371240508148508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Car Super
+        Street Fighter II_21
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 122
+        width: 45
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87b717a638878b1f0800000000000000
+      internalID: -1028940009032287368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Car Super
+        Street Fighter II_22
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 111
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f71200b5459c52a0800000000000000
+      internalID: -6747354015169636365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Car Super
+        Street Fighter II_23
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 75
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dede15ac799f7910800000000000000
+      internalID: 1837355933615709904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Car Super
+        Street Fighter II_24
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 75
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcb74358f5f70c020800000000000000
+      internalID: 2360026252975569869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Car Super
+        Street Fighter II_25
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 75
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18bbf63faa80c89c0800000000000000
+      internalID: -3923751645024896127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Car Super
+        Street Fighter II_26
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 76
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d4d3836a49b90ff0800000000000000
+      internalID: -69320590099229479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Car Super
+        Street Fighter II_27
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 70
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57c5dbddca12c4550800000000000000
+      internalID: 6146324617792150645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Car Super
+        Street Fighter II_28
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 76
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c48ce0a314aee1c30800000000000000
+      internalID: 4332157457444816972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Car Super
+        Street Fighter II_29
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 68
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d273b73b76aea200800000000000000
+      internalID: 193274882169205464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Car Super
+        Street Fighter II_30
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 74
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6fe3aff4f737ad30800000000000000
+      internalID: 4442581082824765294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Car Super
+        Street Fighter II_31
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 73
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cbf1da21d3d88fe0800000000000000
+      internalID: -1186465606492095543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Car Super
+        Street Fighter II_32
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 74
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4029765646efd1eb0800000000000000
+      internalID: -4747358725027163644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Car Super
+        Street Fighter II_33
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 74
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 295a07b4b86596e80800000000000000
+      internalID: -8184915691503049326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Car Super
+        Street Fighter II_34
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 73
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d08ac6ea88420610800000000000000
+      internalID: 1585909780202553561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Car Super
+        Street Fighter II_35
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 73
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbb5ef3d808851fa0800000000000000
+      internalID: -5830604571063460929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Car Super
+        Street Fighter II_36
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 70
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b074b392d32d70f00800000000000000
+      internalID: 1083065395532482315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Car Super
+        Street Fighter II_37
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 71
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b396b91467954bb30800000000000000
+      internalID: 4302161908487383355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Car Super
+        Street Fighter II_38
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 71
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09441d45d8b2a3890800000000000000
+      internalID: -7477616345281903472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Car Super
+        Street Fighter II_39
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 70
+        width: 13
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e6986e0bf586b1c0800000000000000
+      internalID: -4488252665303099677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Car Super
+        Street Fighter II_40
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 24
+        width: 50
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c9967c7d2ccbf350800000000000000
+      internalID: 6051655020036135368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Car Super
+        Street Fighter II_41
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 31
+        width: 49
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb765feff71b4e730800000000000000
+      internalID: 4027539130072524732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Car Super
+        Street Fighter II_42
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 17
+        width: 50
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a2898597a5f03f10800000000000000
+      internalID: 2247566314175038118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Car Super
+        Street Fighter II_43
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 18
+        width: 50
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba22937722ec54540800000000000000
+      internalID: 4991622409434505899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Car Super
+        Street Fighter II_44
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 12
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0decc19bb616b2c00800000000000000
+      internalID: 876901667748761296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Car Super
+        Street Fighter II_45
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 12
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 443fd1d127e3703c0800000000000000
+      internalID: -4393474251640933564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Car Super
+        Street Fighter II_46
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 13
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c267af2f580b329e0800000000000000
+      internalID: -1647278949333830100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Car Super
+        Street Fighter II_47
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 12
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d78976a13f5d0120800000000000000
+      internalID: 2381664444799879124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Car Super
+        Street Fighter II_48
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 12
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c45ab3caffc1c350800000000000000
+      internalID: 6035333651585717448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Car Super
+        Street Fighter II_49
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 13
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a28e8c139bae06c0800000000000000
+      internalID: -4175211156198227293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Car Super
+        Street Fighter II_50
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 16
+        width: 38
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57b12ef415d6c2f70800000000000000
+      internalID: 9163819537792113525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Car Super Street Fighter II_0: 6885589169843786546
+      Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Car Super Street Fighter II_1: 8816469029508921576
+      Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Car Super Street Fighter II_10: -8139650220867167488
+      Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Car Super Street Fighter II_11: -6540110875121406910
+      Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Car Super Street Fighter II_12: 4708462815929221826
+      Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Car Super Street Fighter II_13: 3797535796905815442
+      Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Car Super Street Fighter II_14: -5716066431026623315
+      Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Car Super Street Fighter II_15: -4717138109337293921
+      Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Car Super Street Fighter II_16: 7374500983868635046
+      Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Car Super Street Fighter II_17: 7369318131939741776
+      Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Car Super Street Fighter II_18: 6329873020271424070
+      Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Car Super Street Fighter II_19: 3520282962488692610
+      Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Car Super Street Fighter II_2: -8765215848838779267
+      Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Car Super Street Fighter II_20: 5904371240508148508
+      Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Car Super Street Fighter II_21: -1028940009032287368
+      Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Car Super Street Fighter II_22: -6747354015169636365
+      Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Car Super Street Fighter II_23: 1837355933615709904
+      Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Car Super Street Fighter II_24: 2360026252975569869
+      Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Car Super Street Fighter II_25: -3923751645024896127
+      Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Car Super Street Fighter II_26: -69320590099229479
+      Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Car Super Street Fighter II_27: 6146324617792150645
+      Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Car Super Street Fighter II_28: 4332157457444816972
+      Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Car Super Street Fighter II_29: 193274882169205464
+      Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Car Super Street Fighter II_3: 4418343562992543383
+      Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Car Super Street Fighter II_30: 4442581082824765294
+      Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Car Super Street Fighter II_31: -1186465606492095543
+      Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Car Super Street Fighter II_32: -4747358725027163644
+      Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Car Super Street Fighter II_33: -8184915691503049326
+      Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Car Super Street Fighter II_34: 1585909780202553561
+      Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Car Super Street Fighter II_35: -5830604571063460929
+      Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Car Super Street Fighter II_36: 1083065395532482315
+      Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Car Super Street Fighter II_37: 4302161908487383355
+      Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Car Super Street Fighter II_38: -7477616345281903472
+      Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Car Super Street Fighter II_39: -4488252665303099677
+      Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Car Super Street Fighter II_4: 3630042934764906319
+      Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Car Super Street Fighter II_40: 6051655020036135368
+      Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Car Super Street Fighter II_41: 4027539130072524732
+      Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Car Super Street Fighter II_42: 2247566314175038118
+      Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Car Super Street Fighter II_43: 4991622409434505899
+      Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Car Super Street Fighter II_44: 876901667748761296
+      Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Car Super Street Fighter II_45: -4393474251640933564
+      Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Car Super Street Fighter II_46: -1647278949333830100
+      Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Car Super Street Fighter II_47: 2381664444799879124
+      Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Car Super Street Fighter II_48: 6035333651585717448
+      Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Car Super Street Fighter II_49: -4175211156198227293
+      Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Car Super Street Fighter II_5: 34124718067619040
+      Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Car Super Street Fighter II_50: 9163819537792113525
+      Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Car Super Street Fighter II_6: 9106876003161435821
+      Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Car Super Street Fighter II_7: -1192780933757338885
+      Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Car Super Street Fighter II_8: 1403304705087660160
+      Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Car Super Street Fighter II_9: -339827250782055779
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

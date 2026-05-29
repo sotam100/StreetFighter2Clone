@@ -1,0 +1,2782 @@
+fileFormatVersion: 2
+guid: 41f180158fe26410988e55a579ea28e2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2111218773993031560
+    second: Stages_Ken_0
+  - first:
+      213: -6928644450583628448
+    second: Stages_Ken_1
+  - first:
+      213: -5210218450803662736
+    second: Stages_Ken_2
+  - first:
+      213: -9207767796877761311
+    second: Stages_Ken_3
+  - first:
+      213: -5553878634332900365
+    second: Stages_Ken_4
+  - first:
+      213: -3107345903332458735
+    second: Stages_Ken_5
+  - first:
+      213: -5168121559635342750
+    second: Stages_Ken_6
+  - first:
+      213: -67325371299672367
+    second: Stages_Ken_7
+  - first:
+      213: 8995103538926337161
+    second: Stages_Ken_8
+  - first:
+      213: 1532337029474852696
+    second: Stages_Ken_9
+  - first:
+      213: 4862711315787642168
+    second: Stages_Ken_10
+  - first:
+      213: -1078966434703281782
+    second: Stages_Ken_11
+  - first:
+      213: 8935288149272442096
+    second: Stages_Ken_12
+  - first:
+      213: 2338062275587293070
+    second: Stages_Ken_13
+  - first:
+      213: 2948357695303872706
+    second: Stages_Ken_14
+  - first:
+      213: 7196009957904557860
+    second: Stages_Ken_15
+  - first:
+      213: 3634661251215223442
+    second: Stages_Ken_16
+  - first:
+      213: 4224350039531020592
+    second: Stages_Ken_17
+  - first:
+      213: -5543853749238968389
+    second: Stages_Ken_18
+  - first:
+      213: -7278055984888230070
+    second: Stages_Ken_19
+  - first:
+      213: 2872413153595188533
+    second: Stages_Ken_20
+  - first:
+      213: 3094571064671036715
+    second: Stages_Ken_21
+  - first:
+      213: 702411609197102419
+    second: Stages_Ken_22
+  - first:
+      213: 614282240618990229
+    second: Stages_Ken_23
+  - first:
+      213: -7786937029650536416
+    second: Stages_Ken_24
+  - first:
+      213: 7843090455002145244
+    second: Stages_Ken_25
+  - first:
+      213: -7302229759688282314
+    second: Stages_Ken_26
+  - first:
+      213: -6809536552352350741
+    second: Stages_Ken_27
+  - first:
+      213: -5393815916616495787
+    second: Stages_Ken_28
+  - first:
+      213: 7783995941837920411
+    second: Stages_Ken_29
+  - first:
+      213: -5035053152059735504
+    second: Stages_Ken_30
+  - first:
+      213: -6593209760120112193
+    second: Stages_Ken_31
+  - first:
+      213: 4212615066895856857
+    second: Stages_Ken_32
+  - first:
+      213: 8300984944684041585
+    second: Stages_Ken_33
+  - first:
+      213: 7312363353939430770
+    second: Stages_Ken_34
+  - first:
+      213: -8151936872028670886
+    second: Stages_Ken_35
+  - first:
+      213: 5315146925925554366
+    second: Stages_Ken_36
+  - first:
+      213: 4920123730376006283
+    second: Stages_Ken_37
+  - first:
+      213: -9173153151073187752
+    second: Stages_Ken_38
+  - first:
+      213: -6477884187517569389
+    second: Stages_Ken_39
+  - first:
+      213: -3561293243569505563
+    second: Stages_Ken_40
+  - first:
+      213: -9156395257295207388
+    second: Stages_Ken_41
+  - first:
+      213: -7842701030193633802
+    second: Stages_Ken_42
+  - first:
+      213: 736532740641679493
+    second: Stages_Ken_43
+  - first:
+      213: 2103600872044917876
+    second: Stages_Ken_44
+  - first:
+      213: 442961366749169686
+    second: Stages_Ken_45
+  - first:
+      213: 2544094120039795595
+    second: Stages_Ken_46
+  - first:
+      213: 489833554551046768
+    second: Stages_Ken_47
+  - first:
+      213: -6298965479540060171
+    second: Stages_Ken_48
+  - first:
+      213: -3463910298062508694
+    second: Stages_Ken_49
+  - first:
+      213: 4853474964394658255
+    second: Stages_Ken_50
+  - first:
+      213: -2575839330852839216
+    second: Stages_Ken_51
+  - first:
+      213: 3279540355621225833
+    second: Stages_Ken_52
+  - first:
+      213: -5025664842275725626
+    second: Stages_Ken_53
+  - first:
+      213: -4038573154131505179
+    second: Stages_Ken_54
+  - first:
+      213: -7881559513183305549
+    second: Stages_Ken_55
+  - first:
+      213: -3327635229642824232
+    second: Stages_Ken_56
+  - first:
+      213: 4498559722930038560
+    second: Stages_Ken_57
+  - first:
+      213: 8938631984428186622
+    second: Stages_Ken_58
+  - first:
+      213: 3379951782988697147
+    second: Stages_Ken_59
+  - first:
+      213: 4990216450921112461
+    second: Stages_Ken_60
+  - first:
+      213: 1186603181876570960
+    second: Stages_Ken_61
+  - first:
+      213: 8874465615304785957
+    second: Stages_Ken_62
+  - first:
+      213: -5495120025004579669
+    second: Stages_Ken_63
+  - first:
+      213: -2772865560167821373
+    second: Stages_Ken_64
+  - first:
+      213: 194724945518690696
+    second: Stages_Ken_65
+  - first:
+      213: -8726590803102495537
+    second: Stages_Ken_66
+  - first:
+      213: 8164600718333218185
+    second: Stages_Ken_67
+  - first:
+      213: -1120978537350889715
+    second: Stages_Ken_68
+  - first:
+      213: 9212719388650758936
+    second: Stages_Ken_69
+  - first:
+      213: 6085003639785768094
+    second: Stages_Ken_70
+  - first:
+      213: -2867591504297072343
+    second: Stages_Ken_71
+  - first:
+      213: -32330026427137184
+    second: Stages_Ken_72
+  - first:
+      213: -3869949607360265632
+    second: Stages_Ken_73
+  - first:
+      213: -6504989669546597116
+    second: Stages_Ken_74
+  - first:
+      213: -4155322068883119117
+    second: Stages_Ken_75
+  - first:
+      213: 4456850051421820372
+    second: Stages_Ken_76
+  - first:
+      213: -5296934632440152606
+    second: Stages_Ken_77
+  - first:
+      213: -7741785517268923467
+    second: Stages_Ken_78
+  - first:
+      213: -3330534221662682273
+    second: Stages_Ken_79
+  - first:
+      213: 6087559949526980647
+    second: Stages_Ken_80
+  - first:
+      213: -5600714756904949770
+    second: Stages_Ken_81
+  - first:
+      213: 229747012859069914
+    second: Stages_Ken_82
+  - first:
+      213: -6923117606768927683
+    second: Stages_Ken_83
+  - first:
+      213: 3976306439000995317
+    second: Stages_Ken_84
+  - first:
+      213: -1708564172694017882
+    second: Stages_Ken_85
+  - first:
+      213: 8401294225452150842
+    second: Stages_Ken_86
+  - first:
+      213: 2104561736445065589
+    second: Stages_Ken_87
+  - first:
+      213: 258102775234298198
+    second: Stages_Ken_88
+  - first:
+      213: 2828389442714495169
+    second: Stages_Ken_89
+  - first:
+      213: 8082368017967754178
+    second: Stages_Ken_90
+  - first:
+      213: -7327346011690680146
+    second: Stages_Ken_91
+  - first:
+      213: -6983033660810977484
+    second: Stages_Ken_92
+  - first:
+      213: 8362217475685275276
+    second: Stages_Ken_93
+  - first:
+      213: 976373976835318709
+    second: Stages_Ken_94
+  - first:
+      213: 8342868745926047211
+    second: Stages_Ken_95
+  - first:
+      213: 7167173133072499775
+    second: Stages_Ken_96
+  - first:
+      213: -1493725638157163247
+    second: Stages_Ken_97
+  - first:
+      213: 1554964136636926528
+    second: Stages_Ken_98
+  - first:
+      213: -2220811013704013151
+    second: Stages_Ken_99
+  - first:
+      213: -5747168461320898946
+    second: Stages_Ken_100
+  - first:
+      213: 227193093502889581
+    second: Stages_Ken_101
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Stages_Ken_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 379
+        width: 523
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8787205f5b173b2e0800000000000000
+      internalID: -2111218773993031560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stages_Ken_1
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 503
+        width: 42
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0653bfbe49288df90800000000000000
+      internalID: -6928644450583628448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stages_Ken_2
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 503
+        width: 18
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07069a58ce591b7b0800000000000000
+      internalID: -5210218450803662736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stages_Ken_3
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 503
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e4e1dc39ff673080800000000000000
+      internalID: -9207767796877761311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stages_Ken_4
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 503
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f3b4facec8ace2b0800000000000000
+      internalID: -5553878634332900365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stages_Ken_5
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 503
+        width: 50
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11f7a954d5d70e4d0800000000000000
+      internalID: -3107345903332458735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stages_Ken_6
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 519
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26ac5e9c2d42748b0800000000000000
+      internalID: -5168121559635342750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stages_Ken_7
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 519
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1decf477eefc01ff0800000000000000
+      internalID: -67325371299672367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stages_Ken_8
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 439
+        width: 42
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98c3093b20705dc70800000000000000
+      internalID: 8995103538926337161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stages_Ken_9
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 439
+        width: 18
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85f960ed864f34510800000000000000
+      internalID: 1532337029474852696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stages_Ken_10
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 439
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8357bce8d22db7340800000000000000
+      internalID: 4862711315787642168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stages_Ken_11
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 439
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a81f0f68ebdb601f0800000000000000
+      internalID: -1078966434703281782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stages_Ken_12
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 439
+        width: 50
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f434270b35800c70800000000000000
+      internalID: 8935288149272442096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stages_Ken_13
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 471
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8f3f178047727020800000000000000
+      internalID: 2338062275587293070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stages_Ken_14
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 471
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c0706be3bbaae820800000000000000
+      internalID: 2948357695303872706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stages_Ken_15
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 375
+        width: 42
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 427231d3eec5dd360800000000000000
+      internalID: 7196009957904557860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stages_Ken_16
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 375
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29a6f859629e07230800000000000000
+      internalID: 3634661251215223442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stages_Ken_17
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 375
+        width: 50
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0316729baf7ef9a30800000000000000
+      internalID: 4224350039531020592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stages_Ken_18
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 423
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbfc4ed33664013b0800000000000000
+      internalID: -5543853749238968389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stages_Ken_19
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 423
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4fc45d74a62ffa90800000000000000
+      internalID: -7278055984888230070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stages_Ken_20
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 375
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53563346b8cdcd720800000000000000
+      internalID: 2872413153595188533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stages_Ken_21
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 375
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b256be1dcff12fa20800000000000000
+      internalID: 3094571064671036715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stages_Ken_22
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 314
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 355cd4413a77fb900800000000000000
+      internalID: 702411609197102419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stages_Ken_23
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 191
+        width: 770
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59a0de7717e568800800000000000000
+      internalID: 614282240618990229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stages_Ken_24
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 327
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 028285b470e3fe390800000000000000
+      internalID: -7786937029650536416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stages_Ken_25
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 302
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd1e8afd63148dc60800000000000000
+      internalID: 7843090455002145244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stages_Ken_26
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 302
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63f6e71f8b449aa90800000000000000
+      internalID: -7302229759688282314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stages_Ken_27
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 304
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bedfff7859aaf71a0800000000000000
+      internalID: -6809536552352350741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stages_Ken_28
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 304
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55dc93260015525b0800000000000000
+      internalID: -5393815916616495787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stages_Ken_29
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 304
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b98d456511f460c60800000000000000
+      internalID: 7783995941837920411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stages_Ken_30
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 302
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 032c446c5d5ef1ab0800000000000000
+      internalID: -5035053152059735504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stages_Ken_31
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 279
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbbf66ec7a63084a0800000000000000
+      internalID: -6593209760120112193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stages_Ken_32
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 293
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d439cd7517367a30800000000000000
+      internalID: 4212615066895856857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stages_Ken_33
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 293
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17502c1a3d5033370800000000000000
+      internalID: 8300984944684041585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stages_Ken_34
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 293
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27dc4245abbba7560800000000000000
+      internalID: 7312363353939430770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stages_Ken_35
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 293
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a54725f0b908ede80800000000000000
+      internalID: -8151936872028670886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stages_Ken_36
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 226
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb85dc0e7f133c940800000000000000
+      internalID: 5315146925925554366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stages_Ken_37
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 236
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8a1800077ac74440800000000000000
+      internalID: 4920123730376006283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stages_Ken_38
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 226
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85807008fc962b080800000000000000
+      internalID: -9173153151073187752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stages_Ken_39
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 226
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39635ea17aee916a0800000000000000
+      internalID: -6477884187517569389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stages_Ken_40
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 226
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ea7a0cd9aeb39ec0800000000000000
+      internalID: -3561293243569505563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stages_Ken_41
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 231
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42409d1b603fde080800000000000000
+      internalID: -9156395257295207388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stages_Ken_42
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 226
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f5e7b727f0292390800000000000000
+      internalID: -7842701030193633802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stages_Ken_43
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 226
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 588646310a0b83a00800000000000000
+      internalID: 736532740641679493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stages_Ken_44
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 226
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 474707709dd713d10800000000000000
+      internalID: 2103600872044917876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stages_Ken_45
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 213
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6184e422407b52600800000000000000
+      internalID: 442961366749169686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stages_Ken_46
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 213
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8bc12c7f107e4320800000000000000
+      internalID: 2544094120039795595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stages_Ken_47
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 215
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 072051ac50d3cc600800000000000000
+      internalID: 489833554551046768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stages_Ken_48
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 215
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ff019b05449598a0800000000000000
+      internalID: -6298965479540060171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stages_Ken_49
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 215
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6daa2ebfe7bdefc0800000000000000
+      internalID: -3463910298062508694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stages_Ken_50
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 213
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc9cefae3c10b5340800000000000000
+      internalID: 4853474964394658255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stages_Ken_51
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 204
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d06906a6c7c04cd0800000000000000
+      internalID: -2575839330852839216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stages_Ken_52
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 204
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9658c53e394438d20800000000000000
+      internalID: 3279540355621225833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stages_Ken_53
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 204
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ce5cfbf370414ab0800000000000000
+      internalID: -5025664842275725626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stages_Ken_54
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 204
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ef00941d1b14f7c0800000000000000
+      internalID: -4038573154131505179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stages_Ken_55
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 204
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b0cb9c81631f9290800000000000000
+      internalID: -7881559513183305549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stages_Ken_56
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 204
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d56013a36dd1d1d0800000000000000
+      internalID: -3327635229642824232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stages_Ken_57
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 111
+        width: 898
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 027ef1ecb381e6e30800000000000000
+      internalID: 4498559722930038560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stages_Ken_58
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 7
+        width: 193
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efb79c15e666c0c70800000000000000
+      internalID: 8938631984428186622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stages_Ken_59
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 7
+        width: 153
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3e4df62d3008ee20800000000000000
+      internalID: 3379951782988697147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stages_Ken_60
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 47
+        width: 63
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d83a67d3c6fc04540800000000000000
+      internalID: 4990216450921112461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stages_Ken_61
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 47
+        width: 63
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05be9199e49a77010800000000000000
+      internalID: 1186603181876570960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stages_Ken_62
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 86
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52009ab457f682b70800000000000000
+      internalID: 8874465615304785957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stages_Ken_63
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 79
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba4677f93796db3b0800000000000000
+      internalID: -5495120025004579669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stages_Ken_64
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 75
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cf484cd67dc489d0800000000000000
+      internalID: -2772865560167821373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stages_Ken_65
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 47
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8818c866e4dc3b200800000000000000
+      internalID: 194724945518690696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stages_Ken_66
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 58
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcc82e866ebe4e680800000000000000
+      internalID: -8726590803102495537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stages_Ken_67
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 31
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98d862d681d7e4170800000000000000
+      internalID: 8164600718333218185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stages_Ken_68
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 31
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0ffc50a5fb7170f0800000000000000
+      internalID: -1120978537350889715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stages_Ken_69
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 31
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 813e1ef09772adf70800000000000000
+      internalID: 9212719388650758936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stages_Ken_70
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 31
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e94c3661296427450800000000000000
+      internalID: 6085003639785768094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stages_Ken_71
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 31
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 929e17158b44438d0800000000000000
+      internalID: -2867591504297072343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stages_Ken_72
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 31
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0634b3323042d8ff0800000000000000
+      internalID: -32330026427137184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stages_Ken_73
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 31
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06201a2065d2b4ac0800000000000000
+      internalID: -3869949607360265632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stages_Ken_74
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 32
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 405e6174c52a9b5a0800000000000000
+      internalID: -6504989669546597116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stages_Ken_75
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 29
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f361ec18945556c0800000000000000
+      internalID: -4155322068883119117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stages_Ken_76
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 29
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d5dd242289e9dd30800000000000000
+      internalID: 4456850051421820372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stages_Ken_77
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 29
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2edb0f224028d76b0800000000000000
+      internalID: -5296934632440152606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stages_Ken_78
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 29
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bb0cebf617af8490800000000000000
+      internalID: -7741785517268923467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stages_Ken_79
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 29
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f53838575c097c1d0800000000000000
+      internalID: -3330534221662682273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stages_Ken_80
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 27
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7285374558b5b7450800000000000000
+      internalID: 6087559949526980647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stages_Ken_81
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 29
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f7646a3a934642b0800000000000000
+      internalID: -5600714756904949770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stages_Ken_82
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 29
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad50ca1e0b9303300800000000000000
+      internalID: 229747012859069914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stages_Ken_83
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 29
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3c194687352cef90800000000000000
+      internalID: -6923117606768927683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stages_Ken_84
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 29
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f5b0ce83adae2730800000000000000
+      internalID: 3976306439000995317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stages_Ken_85
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 29
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a82d92ffe5f948e0800000000000000
+      internalID: -1708564172694017882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stages_Ken_86
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 29
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a30bd990694679470800000000000000
+      internalID: 8401294225452150842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stages_Ken_87
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 29
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 579ffa4bfb7e43d10800000000000000
+      internalID: 2104561736445065589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stages_Ken_88
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 29
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65102694b17f49300800000000000000
+      internalID: 258102775234298198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stages_Ken_89
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 27
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c866737635704720800000000000000
+      internalID: 2828389442714495169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stages_Ken_90
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 29
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cb22fed3e65a2070800000000000000
+      internalID: 8082368017967754178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stages_Ken_91
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 29
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea04dc2df99005a90800000000000000
+      internalID: -7327346011690680146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stages_Ken_92
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 32
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43f14c812e7471f90800000000000000
+      internalID: -6983033660810977484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stages_Ken_93
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 19
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c86d8cc3d709c0470800000000000000
+      internalID: 8362217475685275276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stages_Ken_94
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 19
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b3643975f6cc8d00800000000000000
+      internalID: 976373976835318709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stages_Ken_95
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 19
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be571a80ce2d7c370800000000000000
+      internalID: 8342868745926047211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stages_Ken_96
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 19
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f348280cdf9e67360800000000000000
+      internalID: 7167173133072499775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stages_Ken_97
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 19
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 115afb93278354be0800000000000000
+      internalID: -1493725638157163247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stages_Ken_98
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 19
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04a47bac4a7549510800000000000000
+      internalID: 1554964136636926528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stages_Ken_99
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 19
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aaa5ee36281e21e0800000000000000
+      internalID: -2220811013704013151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stages_Ken_100
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 19
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e76b3a6fbb4fd30b0800000000000000
+      internalID: -5747168461320898946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stages_Ken_101
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 19
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6e69a13ae6272300800000000000000
+      internalID: 227193093502889581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Stages_Ken_0: -2111218773993031560
+      Stages_Ken_1: -6928644450583628448
+      Stages_Ken_10: 4862711315787642168
+      Stages_Ken_100: -5747168461320898946
+      Stages_Ken_101: 227193093502889581
+      Stages_Ken_11: -1078966434703281782
+      Stages_Ken_12: 8935288149272442096
+      Stages_Ken_13: 2338062275587293070
+      Stages_Ken_14: 2948357695303872706
+      Stages_Ken_15: 7196009957904557860
+      Stages_Ken_16: 3634661251215223442
+      Stages_Ken_17: 4224350039531020592
+      Stages_Ken_18: -5543853749238968389
+      Stages_Ken_19: -7278055984888230070
+      Stages_Ken_2: -5210218450803662736
+      Stages_Ken_20: 2872413153595188533
+      Stages_Ken_21: 3094571064671036715
+      Stages_Ken_22: 702411609197102419
+      Stages_Ken_23: 614282240618990229
+      Stages_Ken_24: -7786937029650536416
+      Stages_Ken_25: 7843090455002145244
+      Stages_Ken_26: -7302229759688282314
+      Stages_Ken_27: -6809536552352350741
+      Stages_Ken_28: -5393815916616495787
+      Stages_Ken_29: 7783995941837920411
+      Stages_Ken_3: -9207767796877761311
+      Stages_Ken_30: -5035053152059735504
+      Stages_Ken_31: -6593209760120112193
+      Stages_Ken_32: 4212615066895856857
+      Stages_Ken_33: 8300984944684041585
+      Stages_Ken_34: 7312363353939430770
+      Stages_Ken_35: -8151936872028670886
+      Stages_Ken_36: 5315146925925554366
+      Stages_Ken_37: 4920123730376006283
+      Stages_Ken_38: -9173153151073187752
+      Stages_Ken_39: -6477884187517569389
+      Stages_Ken_4: -5553878634332900365
+      Stages_Ken_40: -3561293243569505563
+      Stages_Ken_41: -9156395257295207388
+      Stages_Ken_42: -7842701030193633802
+      Stages_Ken_43: 736532740641679493
+      Stages_Ken_44: 2103600872044917876
+      Stages_Ken_45: 442961366749169686
+      Stages_Ken_46: 2544094120039795595
+      Stages_Ken_47: 489833554551046768
+      Stages_Ken_48: -6298965479540060171
+      Stages_Ken_49: -3463910298062508694
+      Stages_Ken_5: -3107345903332458735
+      Stages_Ken_50: 4853474964394658255
+      Stages_Ken_51: -2575839330852839216
+      Stages_Ken_52: 3279540355621225833
+      Stages_Ken_53: -5025664842275725626
+      Stages_Ken_54: -4038573154131505179
+      Stages_Ken_55: -7881559513183305549
+      Stages_Ken_56: -3327635229642824232
+      Stages_Ken_57: 4498559722930038560
+      Stages_Ken_58: 8938631984428186622
+      Stages_Ken_59: 3379951782988697147
+      Stages_Ken_6: -5168121559635342750
+      Stages_Ken_60: 4990216450921112461
+      Stages_Ken_61: 1186603181876570960
+      Stages_Ken_62: 8874465615304785957
+      Stages_Ken_63: -5495120025004579669
+      Stages_Ken_64: -2772865560167821373
+      Stages_Ken_65: 194724945518690696
+      Stages_Ken_66: -8726590803102495537
+      Stages_Ken_67: 8164600718333218185
+      Stages_Ken_68: -1120978537350889715
+      Stages_Ken_69: 9212719388650758936
+      Stages_Ken_7: -67325371299672367
+      Stages_Ken_70: 6085003639785768094
+      Stages_Ken_71: -2867591504297072343
+      Stages_Ken_72: -32330026427137184
+      Stages_Ken_73: -3869949607360265632
+      Stages_Ken_74: -6504989669546597116
+      Stages_Ken_75: -4155322068883119117
+      Stages_Ken_76: 4456850051421820372
+      Stages_Ken_77: -5296934632440152606
+      Stages_Ken_78: -7741785517268923467
+      Stages_Ken_79: -3330534221662682273
+      Stages_Ken_8: 8995103538926337161
+      Stages_Ken_80: 6087559949526980647
+      Stages_Ken_81: -5600714756904949770
+      Stages_Ken_82: 229747012859069914
+      Stages_Ken_83: -6923117606768927683
+      Stages_Ken_84: 3976306439000995317
+      Stages_Ken_85: -1708564172694017882
+      Stages_Ken_86: 8401294225452150842
+      Stages_Ken_87: 2104561736445065589
+      Stages_Ken_88: 258102775234298198
+      Stages_Ken_89: 2828389442714495169
+      Stages_Ken_9: 1532337029474852696
+      Stages_Ken_90: 8082368017967754178
+      Stages_Ken_91: -7327346011690680146
+      Stages_Ken_92: -6983033660810977484
+      Stages_Ken_93: 8362217475685275276
+      Stages_Ken_94: 976373976835318709
+      Stages_Ken_95: 8342868745926047211
+      Stages_Ken_96: 7167173133072499775
+      Stages_Ken_97: -1493725638157163247
+      Stages_Ken_98: 1554964136636926528
+      Stages_Ken_99: -2220811013704013151
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

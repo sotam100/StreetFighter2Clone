@@ -1,0 +1,884 @@
+fileFormatVersion: 2
+guid: 47591784d78d04627b62bbfaf7001d6f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1072616795147854899
+    second: StageGuile_0
+  - first:
+      213: 2657444459132767161
+    second: StageGuile_1
+  - first:
+      213: 1930358942752279796
+    second: StageGuile_2
+  - first:
+      213: 425628239069328493
+    second: StageGuile_3
+  - first:
+      213: 3468659349140161310
+    second: StageGuile_4
+  - first:
+      213: -4908975975402357878
+    second: StageGuile_5
+  - first:
+      213: -7763964008915955909
+    second: StageGuile_6
+  - first:
+      213: 2471019484124889735
+    second: StageGuile_7
+  - first:
+      213: 625399190498609052
+    second: StageGuile_8
+  - first:
+      213: -7386726488632610246
+    second: StageGuile_9
+  - first:
+      213: -2075496754017839223
+    second: StageGuile_10
+  - first:
+      213: 6964586668019510492
+    second: StageGuile_11
+  - first:
+      213: -1520742196482382988
+    second: StageGuile_12
+  - first:
+      213: -8519953914730942159
+    second: StageGuile_13
+  - first:
+      213: -6144556789523732067
+    second: StageGuile_14
+  - first:
+      213: 7815297059511532607
+    second: StageGuile_15
+  - first:
+      213: -8872535742683553856
+    second: StageGuile_16
+  - first:
+      213: -6384254998173941714
+    second: StageGuile_17
+  - first:
+      213: 6460829120483917361
+    second: StageGuile_18
+  - first:
+      213: -6476159276673463289
+    second: StageGuile_19
+  - first:
+      213: -7515449824205243180
+    second: StageGuile_20
+  - first:
+      213: 2153404161274592447
+    second: StageGuile_21
+  - first:
+      213: -8886438081057298731
+    second: StageGuile_22
+  - first:
+      213: -6089643581512427348
+    second: StageGuile_23
+  - first:
+      213: 7780731498750663084
+    second: StageGuile_24
+  - first:
+      213: 4847523770542256564
+    second: StageGuile_25
+  - first:
+      213: -6417228769685571591
+    second: StageGuile_26
+  - first:
+      213: -3133248685222088742
+    second: StageGuile_27
+  - first:
+      213: 2341773126364540306
+    second: StageGuile_28
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: StageGuile_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 364
+        width: 512
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcb181135bc4d11f0800000000000000
+      internalID: -1072616795147854899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageGuile_1
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 298
+        width: 418
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bb40f4e7a321e420800000000000000
+      internalID: 2657444459132767161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageGuile_2
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 198
+        width: 47
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fc8fbf1b330aca10800000000000000
+      internalID: 1930358942752279796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageGuile_3
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 198
+        width: 47
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d643a1cd0a228e500800000000000000
+      internalID: 425628239069328493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageGuile_4
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 198
+        width: 52
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e134650ec47232030800000000000000
+      internalID: 3468659349140161310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageGuile_5
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 200
+        width: 48
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8b3737fb50dfdbb0800000000000000
+      internalID: -4908975975402357878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageGuile_6
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 198
+        width: 52
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3f85af7edbd04490800000000000000
+      internalID: -7763964008915955909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageGuile_7
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 200
+        width: 47
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7824558f023da4220800000000000000
+      internalID: 2471019484124889735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageGuile_8
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 198
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c978c70104ddda800800000000000000
+      internalID: 625399190498609052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageGuile_9
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 198
+        width: 48
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a32b51825631d7990800000000000000
+      internalID: -7386726488632610246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageGuile_10
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 198
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9875a4cd2ba5233e0800000000000000
+      internalID: -2075496754017839223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageGuile_11
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 198
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdc69b2bcae27a060800000000000000
+      internalID: 6964586668019510492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageGuile_12
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 198
+        width: 45
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47368bf870d35eae0800000000000000
+      internalID: -1520742196482382988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageGuile_13
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 198
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13173c12e0b03c980800000000000000
+      internalID: -8519953914730942159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageGuile_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 512
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d99293ab7262abaa0800000000000000
+      internalID: -6144556789523732067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageGuile_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 101
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3cf656b443857c60800000000000000
+      internalID: 7815297059511532607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageGuile_16
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 0
+        width: 22
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cfd36030cb6ed480800000000000000
+      internalID: -8872535742683553856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageGuile_17
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 0
+        width: 78
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e20845687e19667a0800000000000000
+      internalID: -6384254998173941714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageGuile_18
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 0
+        width: 68
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13e71f8aad979a950800000000000000
+      internalID: 6460829120483917361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageGuile_19
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 68
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70c0705337f0026a0800000000000000
+      internalID: -6476159276673463289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageGuile_20
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 83
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dc79f41432c3b790800000000000000
+      internalID: -7515449824205243180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageGuile_21
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 83
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbcbe9aecad62ed10800000000000000
+      internalID: 2153404161274592447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageGuile_22
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 86
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d6631cc5a70da480800000000000000
+      internalID: -8886438081057298731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageGuile_23
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 83
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca8d63b4d6d3d7ba0800000000000000
+      internalID: -6089643581512427348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageGuile_24
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 31
+        width: 58
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca9d9b3f216bafb60800000000000000
+      internalID: 7780731498750663084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageGuile_25
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 91
+        width: 42
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b1fe6f9f2dd54340800000000000000
+      internalID: 4847523770542256564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageGuile_26
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 91
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f779741f6c61f6a0800000000000000
+      internalID: -6417228769685571591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageGuile_27
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 91
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adfa064ebe67484d0800000000000000
+      internalID: -3133248685222088742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageGuile_28
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 91
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29da38d4046af7020800000000000000
+      internalID: 2341773126364540306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      StageGuile_0: -1072616795147854899
+      StageGuile_1: 2657444459132767161
+      StageGuile_10: -2075496754017839223
+      StageGuile_11: 6964586668019510492
+      StageGuile_12: -1520742196482382988
+      StageGuile_13: -8519953914730942159
+      StageGuile_14: -6144556789523732067
+      StageGuile_15: 7815297059511532607
+      StageGuile_16: -8872535742683553856
+      StageGuile_17: -6384254998173941714
+      StageGuile_18: 6460829120483917361
+      StageGuile_19: -6476159276673463289
+      StageGuile_2: 1930358942752279796
+      StageGuile_20: -7515449824205243180
+      StageGuile_21: 2153404161274592447
+      StageGuile_22: -8886438081057298731
+      StageGuile_23: -6089643581512427348
+      StageGuile_24: 7780731498750663084
+      StageGuile_25: 4847523770542256564
+      StageGuile_26: -6417228769685571591
+      StageGuile_27: -3133248685222088742
+      StageGuile_28: 2341773126364540306
+      StageGuile_3: 425628239069328493
+      StageGuile_4: 3468659349140161310
+      StageGuile_5: -4908975975402357878
+      StageGuile_6: -7763964008915955909
+      StageGuile_7: 2471019484124889735
+      StageGuile_8: 625399190498609052
+      StageGuile_9: -7386726488632610246
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

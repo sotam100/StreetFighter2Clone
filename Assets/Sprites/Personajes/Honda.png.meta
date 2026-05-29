@@ -1,0 +1,3978 @@
+fileFormatVersion: 2
+guid: 1b5a0123f1be242a381e96f749f6a24f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7228886436886377297
+    second: Honda_0
+  - first:
+      213: -6960235947870948200
+    second: Honda_1
+  - first:
+      213: 3625820166230308943
+    second: Honda_2
+  - first:
+      213: 2342184583400071053
+    second: Honda_3
+  - first:
+      213: 7725854947287969706
+    second: Honda_4
+  - first:
+      213: 6771169707407526222
+    second: Honda_5
+  - first:
+      213: -5847735266195209125
+    second: Honda_6
+  - first:
+      213: 5292377617980506166
+    second: Honda_7
+  - first:
+      213: 5875450253812652147
+    second: Honda_8
+  - first:
+      213: -6352597822079030360
+    second: Honda_9
+  - first:
+      213: 461929830044943089
+    second: Honda_10
+  - first:
+      213: 2791730776056883986
+    second: Honda_11
+  - first:
+      213: 2194945684292919156
+    second: Honda_12
+  - first:
+      213: 342460807152327106
+    second: Honda_13
+  - first:
+      213: -8724194414325807477
+    second: Honda_14
+  - first:
+      213: -875246065879315755
+    second: Honda_15
+  - first:
+      213: 4276225163576082052
+    second: Honda_16
+  - first:
+      213: 1627864329387747763
+    second: Honda_17
+  - first:
+      213: -7073242119128826254
+    second: Honda_18
+  - first:
+      213: -6785343918388157523
+    second: Honda_19
+  - first:
+      213: 2372410822073415634
+    second: Honda_20
+  - first:
+      213: -1489491444357005766
+    second: Honda_21
+  - first:
+      213: -2939479664085164352
+    second: Honda_22
+  - first:
+      213: -5147519233107168424
+    second: Honda_23
+  - first:
+      213: -408794165211520634
+    second: Honda_24
+  - first:
+      213: 3435070570788166851
+    second: Honda_25
+  - first:
+      213: 2086765638649816074
+    second: Honda_26
+  - first:
+      213: -201420271566668343
+    second: Honda_27
+  - first:
+      213: 7995868340894043350
+    second: Honda_28
+  - first:
+      213: -2483646587338309399
+    second: Honda_29
+  - first:
+      213: 598666145101528098
+    second: Honda_30
+  - first:
+      213: -351405662088008548
+    second: Honda_31
+  - first:
+      213: 2728864520440034174
+    second: Honda_32
+  - first:
+      213: -2676507352556469047
+    second: Honda_33
+  - first:
+      213: 6278546921834651442
+    second: Honda_34
+  - first:
+      213: 6530791950626213228
+    second: Honda_35
+  - first:
+      213: -4578948577030744472
+    second: Honda_36
+  - first:
+      213: 7830523698701421296
+    second: Honda_37
+  - first:
+      213: -8546092746918885807
+    second: Honda_38
+  - first:
+      213: -4850687563007344558
+    second: Honda_39
+  - first:
+      213: -2523919583117418331
+    second: Honda_40
+  - first:
+      213: -4552845750238387528
+    second: Honda_41
+  - first:
+      213: 17398178403011747
+    second: Honda_42
+  - first:
+      213: 7651812802950395720
+    second: Honda_43
+  - first:
+      213: 6761129037155899636
+    second: Honda_44
+  - first:
+      213: 4892641115957695698
+    second: Honda_45
+  - first:
+      213: 442482026281130960
+    second: Honda_46
+  - first:
+      213: -4140845464038802747
+    second: Honda_47
+  - first:
+      213: 1734652733742351581
+    second: Honda_48
+  - first:
+      213: -6320106993650076145
+    second: Honda_49
+  - first:
+      213: 6642398025605932620
+    second: Honda_50
+  - first:
+      213: -8328790273573575480
+    second: Honda_51
+  - first:
+      213: 7938377208230180949
+    second: Honda_52
+  - first:
+      213: 5211777287238374099
+    second: Honda_53
+  - first:
+      213: 5034923234904437103
+    second: Honda_54
+  - first:
+      213: 3270945373803905698
+    second: Honda_55
+  - first:
+      213: 6021576095908116763
+    second: Honda_56
+  - first:
+      213: -477545274558040056
+    second: Honda_57
+  - first:
+      213: -8272676437210033278
+    second: Honda_58
+  - first:
+      213: -5154401130446556791
+    second: Honda_59
+  - first:
+      213: 2318803822898447816
+    second: Honda_60
+  - first:
+      213: -447291223418056287
+    second: Honda_61
+  - first:
+      213: -3299785433024901353
+    second: Honda_62
+  - first:
+      213: -4020613515600984283
+    second: Honda_63
+  - first:
+      213: 2858710638145673653
+    second: Honda_64
+  - first:
+      213: 1939661395073444167
+    second: Honda_65
+  - first:
+      213: -2774503121599222095
+    second: Honda_66
+  - first:
+      213: 1619956287582342176
+    second: Honda_67
+  - first:
+      213: -3116741630215283006
+    second: Honda_68
+  - first:
+      213: -8059485871055344079
+    second: Honda_69
+  - first:
+      213: 6277825036563223160
+    second: Honda_70
+  - first:
+      213: 7914656133444003967
+    second: Honda_71
+  - first:
+      213: -6279971133752422080
+    second: Honda_72
+  - first:
+      213: 7282716974454286293
+    second: Honda_73
+  - first:
+      213: 8150053138530836915
+    second: Honda_74
+  - first:
+      213: -2124903669434750320
+    second: Honda_75
+  - first:
+      213: -353814243246417585
+    second: Honda_76
+  - first:
+      213: -5584529427634921301
+    second: Honda_77
+  - first:
+      213: -8348091843575840925
+    second: Honda_78
+  - first:
+      213: 4522101408739214433
+    second: Honda_79
+  - first:
+      213: -8336818475992700170
+    second: Honda_80
+  - first:
+      213: -7953410268369634766
+    second: Honda_81
+  - first:
+      213: -5960223534302079210
+    second: Honda_82
+  - first:
+      213: 515013882297483885
+    second: Honda_83
+  - first:
+      213: 8705121586542778763
+    second: Honda_84
+  - first:
+      213: 3404475696748422800
+    second: Honda_85
+  - first:
+      213: -5101009980018805283
+    second: Honda_86
+  - first:
+      213: 869795762731090882
+    second: Honda_87
+  - first:
+      213: -2853518435954364236
+    second: Honda_88
+  - first:
+      213: -3477617838952151032
+    second: Honda_89
+  - first:
+      213: 4331637638262493153
+    second: Honda_90
+  - first:
+      213: -7864128240795647973
+    second: Honda_91
+  - first:
+      213: 5652292646745330859
+    second: Honda_92
+  - first:
+      213: -8856773161112040349
+    second: Honda_93
+  - first:
+      213: -30254533799802622
+    second: Honda_94
+  - first:
+      213: 8908896183613466501
+    second: Honda_95
+  - first:
+      213: 2354341153615139921
+    second: Honda_96
+  - first:
+      213: -7607539426189565198
+    second: Honda_97
+  - first:
+      213: -5410499237822245105
+    second: Honda_98
+  - first:
+      213: -7291065216523983959
+    second: Honda_99
+  - first:
+      213: -3080904228754013513
+    second: Honda_100
+  - first:
+      213: 6242865697426709038
+    second: Honda_101
+  - first:
+      213: -1088725431249696939
+    second: Honda_102
+  - first:
+      213: 7424917613711790385
+    second: Honda_103
+  - first:
+      213: -929467195044633624
+    second: Honda_104
+  - first:
+      213: -1570068847018849178
+    second: Honda_105
+  - first:
+      213: 7485555783289783044
+    second: Honda_106
+  - first:
+      213: 3408630797985726077
+    second: Honda_107
+  - first:
+      213: -6280099334161955383
+    second: Honda_108
+  - first:
+      213: -3624331020253158495
+    second: Honda_109
+  - first:
+      213: -5913590979964141687
+    second: Honda_110
+  - first:
+      213: -6618865497530284338
+    second: Honda_111
+  - first:
+      213: -1295182708802077863
+    second: Honda_112
+  - first:
+      213: 105309862256048287
+    second: Honda_113
+  - first:
+      213: 4835703939311396070
+    second: Honda_114
+  - first:
+      213: -3596557190651037061
+    second: Honda_115
+  - first:
+      213: 4192210300966549739
+    second: Honda_116
+  - first:
+      213: -4031397265142614805
+    second: Honda_117
+  - first:
+      213: 2536933891403957993
+    second: Honda_118
+  - first:
+      213: 351273010326424321
+    second: Honda_119
+  - first:
+      213: 5981589939886397064
+    second: Honda_120
+  - first:
+      213: -8351853413623357689
+    second: Honda_121
+  - first:
+      213: -3733443005736283070
+    second: Honda_122
+  - first:
+      213: 119578913614221298
+    second: Honda_123
+  - first:
+      213: 77106466461235292
+    second: Honda_124
+  - first:
+      213: 2502875979231463026
+    second: Honda_125
+  - first:
+      213: -5294612465889939632
+    second: Honda_126
+  - first:
+      213: -2505966522183050641
+    second: Honda_127
+  - first:
+      213: -7639971068910930914
+    second: Honda_128
+  - first:
+      213: 6777206268464023172
+    second: Honda_129
+  - first:
+      213: -333585729827807490
+    second: Honda_130
+  - first:
+      213: 11732504319318148
+    second: Honda_131
+  - first:
+      213: -6809604163385959994
+    second: Honda_132
+  - first:
+      213: 5026636501718519008
+    second: Honda_133
+  - first:
+      213: -728710141416886516
+    second: Honda_134
+  - first:
+      213: 93242863524103509
+    second: Honda_135
+  - first:
+      213: -7695888375457664420
+    second: Honda_136
+  - first:
+      213: -1034151640089189999
+    second: Honda_137
+  - first:
+      213: -4705246754173579190
+    second: Honda_138
+  - first:
+      213: -49266961327982144
+    second: Honda_139
+  - first:
+      213: -1978142574001847795
+    second: Honda_140
+  - first:
+      213: -1876080158793825825
+    second: Honda_141
+  - first:
+      213: -8458262980766617023
+    second: Honda_142
+  - first:
+      213: 1194778645871117881
+    second: Honda_143
+  - first:
+      213: 3314833691736023566
+    second: Honda_144
+  - first:
+      213: -349917094389600524
+    second: Honda_145
+  - first:
+      213: -1315767423847428397
+    second: Honda_146
+  - first:
+      213: 1459822322557521295
+    second: Honda_147
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Honda_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1119
+        width: 63
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15370400ae9225460800000000000000
+      internalID: 7228886436886377297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Honda_1
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1119
+        width: 64
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8947f364846486f90800000000000000
+      internalID: -6960235947870948200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Honda_2
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1119
+        width: 69
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f48fa931b30815230800000000000000
+      internalID: 3625820166230308943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Honda_3
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 1119
+        width: 64
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8f15fb187c118020800000000000000
+      internalID: 2342184583400071053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Honda_4
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 1119
+        width: 75
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaf2b472420c73b60800000000000000
+      internalID: 7725854947287969706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Honda_5
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 1119
+        width: 64
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4949e349f608fd50800000000000000
+      internalID: 6771169707407526222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Honda_6
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 1119
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5409ed02cba8dea0800000000000000
+      internalID: -5847735266195209125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Honda_7
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 1119
+        width: 65
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 630c4f0476d427940800000000000000
+      internalID: 5292377617980506166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Honda_8
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 1119
+        width: 64
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3785bf950eac98150800000000000000
+      internalID: 5875450253812652147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Honda_9
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 1121
+        width: 56
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ab2f0630f907d7a0800000000000000
+      internalID: -6352597822079030360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Honda_10
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 1141
+        width: 57
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f24cf6abba196600800000000000000
+      internalID: 461929830044943089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Honda_11
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 1121
+        width: 56
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21b656f79583eb620800000000000000
+      internalID: 2791730776056883986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Honda_12
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 1119
+        width: 64
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47f5e857873067e10800000000000000
+      internalID: 2194945684292919156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Honda_13
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1120
+        width: 73
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c9dec72a4aa0c400800000000000000
+      internalID: 342460807152327106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Honda_14
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 1151
+        width: 64
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b86c9a6276f6de680800000000000000
+      internalID: -8724194414325807477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Honda_15
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 1149
+        width: 50
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5da843027508ad3f0800000000000000
+      internalID: -875246065879315755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Honda_16
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 1148
+        width: 68
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48ef98e3124385b30800000000000000
+      internalID: 4276225163576082052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Honda_17
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 1142
+        width: 69
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b9afa79bf5579610800000000000000
+      internalID: 1627864329387747763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Honda_18
+      rect:
+        serializedVersion: 2
+        x: 1237
+        y: 1120
+        width: 76
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27ebefea4cbc6dd90800000000000000
+      internalID: -7073242119128826254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Honda_19
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 1119
+        width: 64
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da3ed9118ad95d1a0800000000000000
+      internalID: -6785343918388157523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Honda_20
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 1119
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d77af6b21f7ce020800000000000000
+      internalID: 2372410822073415634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Honda_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1000
+        width: 74
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3efd1b4c63445be0800000000000000
+      internalID: -1489491444357005766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Honda_22
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1000
+        width: 87
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ce18bdc1ded437d0800000000000000
+      internalID: -2939479664085164352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Honda_23
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 1000
+        width: 74
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 853f72cb7865098b0800000000000000
+      internalID: -5147519233107168424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Honda_24
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 1000
+        width: 64
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 681a0546fdba35af0800000000000000
+      internalID: -408794165211520634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Honda_25
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 1000
+        width: 72
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cc1a3efb72dbaf20800000000000000
+      internalID: 3435070570788166851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Honda_26
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 1000
+        width: 99
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a04a63dca4ea5fc10800000000000000
+      internalID: 2086765638649816074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Honda_27
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 1000
+        width: 67
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cdb4b68459643df0800000000000000
+      internalID: -201420271566668343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Honda_28
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 1000
+        width: 99
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dc08c164e707fe60800000000000000
+      internalID: 7995868340894043350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Honda_29
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 1000
+        width: 72
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e0c6167690588dd0800000000000000
+      internalID: -2483646587338309399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Honda_30
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 1000
+        width: 64
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22c34d5efa3ee4800800000000000000
+      internalID: 598666145101528098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Honda_31
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 1000
+        width: 70
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9cee23896e8f1bf0800000000000000
+      internalID: -351405662088008548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Honda_32
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 1000
+        width: 115
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e73befcb2dfded520800000000000000
+      internalID: 2728864520440034174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Honda_33
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 1000
+        width: 70
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c4862c5eb22bdad0800000000000000
+      internalID: -2676507352556469047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Honda_34
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 1000
+        width: 68
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23f93950921e12750800000000000000
+      internalID: 6278546921834651442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Honda_35
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 999
+        width: 64
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6d4e0f6da802aa50800000000000000
+      internalID: 6530791950626213228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Honda_36
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 877
+        width: 69
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8665d4d878e4470c0800000000000000
+      internalID: -4578948577030744472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Honda_37
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 877
+        width: 92
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fa406ae0db9bac60800000000000000
+      internalID: 7830523698701421296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Honda_38
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 877
+        width: 69
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1568b520ded266980800000000000000
+      internalID: -8546092746918885807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Honda_39
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 877
+        width: 70
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 250ca8a8c55eeacb0800000000000000
+      internalID: -4850687563007344558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Honda_40
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 877
+        width: 77
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a062aee28c39fcd0800000000000000
+      internalID: -2523919583117418331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Honda_41
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 877
+        width: 70
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b2e4e389ea01d0c0800000000000000
+      internalID: -4552845750238387528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Honda_42
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 877
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ac43731d8fcd3000800000000000000
+      internalID: 17398178403011747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Honda_43
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 877
+        width: 88
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 847f4a70433b03a60800000000000000
+      internalID: 7651812802950395720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Honda_44
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 877
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f8914c890b54dd50800000000000000
+      internalID: 6761129037155899636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Honda_45
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 877
+        width: 72
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d411223c2726e340800000000000000
+      internalID: 4892641115957695698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Honda_46
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 877
+        width: 100
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0db5bfbfe03042600800000000000000
+      internalID: 442482026281130960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Honda_47
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 877
+        width: 83
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cafd265df2c886c0800000000000000
+      internalID: -4140845464038802747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Honda_48
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 877
+        width: 81
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd48f538879b21810800000000000000
+      internalID: 1734652733742351581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Honda_49
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 877
+        width: 83
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f067605bc287a48a0800000000000000
+      internalID: -6320106993650076145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Honda_50
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 877
+        width: 100
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c466ff4bfc98e2c50800000000000000
+      internalID: 6642398025605932620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Honda_51
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 877
+        width: 72
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c42beebf513a6c80800000000000000
+      internalID: -8328790273573575480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Honda_52
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 780
+        width: 68
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 558fd95f208ca2e60800000000000000
+      internalID: 7938377208230180949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Honda_53
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 780
+        width: 72
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d2da4e54d3f35840800000000000000
+      internalID: 5211777287238374099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Honda_54
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 780
+        width: 85
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f61f6d78104afd540800000000000000
+      internalID: 5034923234904437103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Honda_55
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 780
+        width: 72
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a20a4dbc7bb46d20800000000000000
+      internalID: 3270945373803905698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Honda_56
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 780
+        width: 68
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1936983e8fe09350800000000000000
+      internalID: 6021576095908116763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Honda_57
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 780
+        width: 68
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8083dc95a1b6f59f0800000000000000
+      internalID: -477545274558040056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Honda_58
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 780
+        width: 85
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2831a526c9c813d80800000000000000
+      internalID: -8272676437210033278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Honda_59
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 779
+        width: 64
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9817cd52b73e778b0800000000000000
+      internalID: -5154401130446556791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Honda_60
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 780
+        width: 102
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c50ea79acb0e2020800000000000000
+      internalID: 2318803822898447816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Honda_61
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 779
+        width: 64
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a1540d8007eac9f0800000000000000
+      internalID: -447291223418056287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Honda_62
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 788
+        width: 61
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71fca85b1aec432d0800000000000000
+      internalID: -3299785433024901353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Honda_63
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 780
+        width: 85
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52708774f49e338c0800000000000000
+      internalID: -4020613515600984283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Honda_64
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 788
+        width: 61
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b99d46ed2e2ca720800000000000000
+      internalID: 2858710638145673653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Honda_65
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 792
+        width: 59
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74924e513cf0bea10800000000000000
+      internalID: 1939661395073444167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Honda_66
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 646
+        width: 70
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1beadd06c1cfe79d0800000000000000
+      internalID: -2774503121599222095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Honda_67
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 644
+        width: 68
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02c810129ad3b7610800000000000000
+      internalID: 1619956287582342176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Honda_68
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 644
+        width: 88
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ce9852200c1fb4d0800000000000000
+      internalID: -3116741630215283006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Honda_69
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 644
+        width: 62
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13e677f1d44f62090800000000000000
+      internalID: -8059485871055344079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Honda_70
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 644
+        width: 88
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87297620c905f1750800000000000000
+      internalID: 6277825036563223160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Honda_71
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 644
+        width: 68
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f78eb49d1d186dd60800000000000000
+      internalID: 7914656133444003967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Honda_72
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 646
+        width: 70
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 041dafcc68f09d8a0800000000000000
+      internalID: -6279971133752422080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Honda_73
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 645
+        width: 53
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d72e06b088611560800000000000000
+      internalID: 7282716974454286293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Honda_74
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 644
+        width: 84
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b120be062eca1170800000000000000
+      internalID: 8150053138530836915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Honda_75
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 644
+        width: 74
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09aea61fe53d282e0800000000000000
+      internalID: -2124903669434750320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Honda_76
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 644
+        width: 84
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f49d2d202dff61bf0800000000000000
+      internalID: -353814243246417585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Honda_77
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 645
+        width: 53
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba0ea1cd214cf72b0800000000000000
+      internalID: -5584529427634921301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Honda_78
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 525
+        width: 69
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36f7357c2be952c80800000000000000
+      internalID: -8348091843575840925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Honda_79
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 568
+        width: 38
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 164c13aa54bb1ce30800000000000000
+      internalID: 4522101408739214433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Honda_80
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 525
+        width: 82
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6faaa8534cbad4c80800000000000000
+      internalID: -8336818475992700170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Honda_81
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 525
+        width: 97
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23a32e8ff7fcf9190800000000000000
+      internalID: -7953410268369634766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Honda_82
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 525
+        width: 87
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61750003648094da0800000000000000
+      internalID: -5960223534302079210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Honda_83
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 525
+        width: 105
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d628cb4b562b52700800000000000000
+      internalID: 515013882297483885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Honda_84
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 525
+        width: 75
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b89977416fdcec870800000000000000
+      internalID: 8705121586542778763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Honda_85
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 525
+        width: 68
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 096e327cb902f3f20800000000000000
+      internalID: 3404475696748422800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Honda_86
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 564
+        width: 82
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd5b14113729539b0800000000000000
+      internalID: -5101009980018805283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Honda_87
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 549
+        width: 93
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c30ab843a2221c00800000000000000
+      internalID: 869795762731090882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Honda_88
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 543
+        width: 64
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b079e0e9144668d0800000000000000
+      internalID: -2853518435954364236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Honda_89
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 541
+        width: 50
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80802bc20050dbfc0800000000000000
+      internalID: -3477617838952151032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Honda_90
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 540
+        width: 68
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ef09546b711d1c30800000000000000
+      internalID: 4331637638262493153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Honda_91
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 539
+        width: 59
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b10024be7010dd290800000000000000
+      internalID: -7864128240795647973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Honda_92
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 525
+        width: 62
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba4decf073af07e40800000000000000
+      internalID: 5652292646745330859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Honda_93
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 385
+        width: 68
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36c04b33cbb661580800000000000000
+      internalID: -8856773161112040349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Honda_94
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 385
+        width: 69
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 209840c69a3849ff0800000000000000
+      internalID: -30254533799802622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Honda_95
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 424
+        width: 82
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5872d1da0e1c2ab70800000000000000
+      internalID: 8908896183613466501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Honda_96
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 429
+        width: 64
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 154505d2ecc4ca020800000000000000
+      internalID: 2354341153615139921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Honda_97
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 424
+        width: 50
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f22137c2379c6690800000000000000
+      internalID: -7607539426189565198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Honda_98
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 409
+        width: 65
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f075518fb9b0ae4b0800000000000000
+      internalID: -5410499237822245105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Honda_99
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 385
+        width: 68
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a3a1e6b0dee0da90800000000000000
+      internalID: -7291065216523983959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Honda_100
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 385
+        width: 62
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b24e126ded6e35d0800000000000000
+      internalID: -3080904228754013513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Honda_101
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 385
+        width: 69
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2a1793964d13a650800000000000000
+      internalID: 6242865697426709038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Honda_102
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 385
+        width: 79
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5578d641df114e0f0800000000000000
+      internalID: -1088725431249696939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Honda_103
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 385
+        width: 90
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13115d31b3b9a0760800000000000000
+      internalID: 7424917613711790385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Honda_104
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 385
+        width: 69
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e36cf8b28ed913f0800000000000000
+      internalID: -929467195044633624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Honda_105
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 385
+        width: 63
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66cc884c3bef53ae0800000000000000
+      internalID: -1570068847018849178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Honda_106
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 385
+        width: 77
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 403cb51235902e760800000000000000
+      internalID: 7485555783289783044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Honda_107
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 385
+        width: 81
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7e356ca6a3ed4f20800000000000000
+      internalID: 3408630797985726077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Honda_108
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 385
+        width: 62
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c50c11ddea98d8a0800000000000000
+      internalID: -6280099334161955383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Honda_109
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 385
+        width: 51
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a3a16db32ac3bdc0800000000000000
+      internalID: -3624331020253158495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Honda_110
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 385
+        width: 51
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98f7844d554beeda0800000000000000
+      internalID: -5913590979964141687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Honda_111
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 385
+        width: 51
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec64e93f5e01524a0800000000000000
+      internalID: -6618865497530284338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Honda_112
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 257
+        width: 68
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95bbf924036960ee0800000000000000
+      internalID: -1295182708802077863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Honda_113
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 257
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f98fd1303c2267100800000000000000
+      internalID: 105309862256048287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Honda_114
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 257
+        width: 67
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e4ec95bc1fdb1340800000000000000
+      internalID: 4835703939311396070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Honda_115
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 257
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7a3edc5a46761ec0800000000000000
+      internalID: -3596557190651037061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Honda_116
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 257
+        width: 71
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be838d4be09bd2a30800000000000000
+      internalID: 4192210300966549739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Honda_117
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 256
+        width: 69
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be471beeb899d08c0800000000000000
+      internalID: -4031397265142614805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Honda_118
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 266
+        width: 70
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e648c7deeff43320800000000000000
+      internalID: 2536933891403957993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Honda_119
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 271
+        width: 62
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10b40b711f8ffd400800000000000000
+      internalID: 351273010326424321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Honda_120
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 273
+        width: 67
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8869af6cb50e20350800000000000000
+      internalID: 5981589939886397064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Honda_121
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 252
+        width: 89
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70f98d00291481c80800000000000000
+      internalID: -8351853413623357689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Honda_122
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 257
+        width: 75
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2441ceded55203cc0800000000000000
+      internalID: -3733443005736283070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Honda_123
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 297
+        width: 50
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ff4a9c6364d8a100800000000000000
+      internalID: 119578913614221298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Honda_124
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 302
+        width: 64
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c58be473cefe11100800000000000000
+      internalID: 77106466461235292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Honda_125
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 257
+        width: 64
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27603fa31700cb220800000000000000
+      internalID: 2502875979231463026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Honda_126
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 257
+        width: 64
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05f664ba302c586b0800000000000000
+      internalID: -5294612465889939632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Honda_127
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 257
+        width: 67
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6a124aa9b4093dd0800000000000000
+      internalID: -2505966522183050641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Honda_128
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 257
+        width: 66
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e147d478ace59f590800000000000000
+      internalID: -7639971068910930914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Honda_129
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 257
+        width: 67
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4864959a1397d0e50800000000000000
+      internalID: 6777206268464023172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Honda_130
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 257
+        width: 62
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efe597fcb8dde5bf0800000000000000
+      internalID: -333585729827807490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Honda_131
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 257
+        width: 64
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 488574886aea92000800000000000000
+      internalID: 11732504319318148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Honda_132
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 257
+        width: 64
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c9db5c971d6f71a0800000000000000
+      internalID: -6809604163385959994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Honda_133
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 120
+        width: 62
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ecc1fb144332c540800000000000000
+      internalID: 5026636501718519008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Honda_134
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 122
+        width: 67
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0f2f9cbcf913e5f0800000000000000
+      internalID: -728710141416886516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Honda_135
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 112
+        width: 89
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 555c13ee3e34b4100800000000000000
+      internalID: 93242863524103509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Honda_136
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 122
+        width: 67
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c52b9cd0c46b23590800000000000000
+      internalID: -7695888375457664420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Honda_137
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 112
+        width: 89
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 191a8900094f5a1f0800000000000000
+      internalID: -1034151640089189999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Honda_138
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 117
+        width: 64
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a409ceca10b93beb0800000000000000
+      internalID: -4705246754173579190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Honda_139
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 117
+        width: 74
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c9f1eea5f7f05ff0800000000000000
+      internalID: -49266961327982144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Honda_140
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 117
+        width: 87
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d020b814fc93c84e0800000000000000
+      internalID: -1978142574001847795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Honda_141
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 117
+        width: 87
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd18fe41903d6f5e0800000000000000
+      internalID: -1876080158793825825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Honda_142
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 117
+        width: 87
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 142b19ef1a63e9a80800000000000000
+      internalID: -8458262980766617023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Honda_143
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 117
+        width: 87
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 936ce5429d4b49010800000000000000
+      internalID: 1194778645871117881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Honda_144
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 117
+        width: 87
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e022c6d0ea7a00e20800000000000000
+      internalID: 3314833691736023566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Honda_145
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 117
+        width: 87
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fe2210b148d42bf0800000000000000
+      internalID: -349917094389600524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Honda_146
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 117
+        width: 69
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3de0b8ecf747dbde0800000000000000
+      internalID: -1315767423847428397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Honda_147
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 117
+        width: 64
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8d0a3bfaa4524410800000000000000
+      internalID: 1459822322557521295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Honda_0: 7228886436886377297
+      Honda_1: -6960235947870948200
+      Honda_10: 461929830044943089
+      Honda_100: -3080904228754013513
+      Honda_101: 6242865697426709038
+      Honda_102: -1088725431249696939
+      Honda_103: 7424917613711790385
+      Honda_104: -929467195044633624
+      Honda_105: -1570068847018849178
+      Honda_106: 7485555783289783044
+      Honda_107: 3408630797985726077
+      Honda_108: -6280099334161955383
+      Honda_109: -3624331020253158495
+      Honda_11: 2791730776056883986
+      Honda_110: -5913590979964141687
+      Honda_111: -6618865497530284338
+      Honda_112: -1295182708802077863
+      Honda_113: 105309862256048287
+      Honda_114: 4835703939311396070
+      Honda_115: -3596557190651037061
+      Honda_116: 4192210300966549739
+      Honda_117: -4031397265142614805
+      Honda_118: 2536933891403957993
+      Honda_119: 351273010326424321
+      Honda_12: 2194945684292919156
+      Honda_120: 5981589939886397064
+      Honda_121: -8351853413623357689
+      Honda_122: -3733443005736283070
+      Honda_123: 119578913614221298
+      Honda_124: 77106466461235292
+      Honda_125: 2502875979231463026
+      Honda_126: -5294612465889939632
+      Honda_127: -2505966522183050641
+      Honda_128: -7639971068910930914
+      Honda_129: 6777206268464023172
+      Honda_13: 342460807152327106
+      Honda_130: -333585729827807490
+      Honda_131: 11732504319318148
+      Honda_132: -6809604163385959994
+      Honda_133: 5026636501718519008
+      Honda_134: -728710141416886516
+      Honda_135: 93242863524103509
+      Honda_136: -7695888375457664420
+      Honda_137: -1034151640089189999
+      Honda_138: -4705246754173579190
+      Honda_139: -49266961327982144
+      Honda_14: -8724194414325807477
+      Honda_140: -1978142574001847795
+      Honda_141: -1876080158793825825
+      Honda_142: -8458262980766617023
+      Honda_143: 1194778645871117881
+      Honda_144: 3314833691736023566
+      Honda_145: -349917094389600524
+      Honda_146: -1315767423847428397
+      Honda_147: 1459822322557521295
+      Honda_15: -875246065879315755
+      Honda_16: 4276225163576082052
+      Honda_17: 1627864329387747763
+      Honda_18: -7073242119128826254
+      Honda_19: -6785343918388157523
+      Honda_2: 3625820166230308943
+      Honda_20: 2372410822073415634
+      Honda_21: -1489491444357005766
+      Honda_22: -2939479664085164352
+      Honda_23: -5147519233107168424
+      Honda_24: -408794165211520634
+      Honda_25: 3435070570788166851
+      Honda_26: 2086765638649816074
+      Honda_27: -201420271566668343
+      Honda_28: 7995868340894043350
+      Honda_29: -2483646587338309399
+      Honda_3: 2342184583400071053
+      Honda_30: 598666145101528098
+      Honda_31: -351405662088008548
+      Honda_32: 2728864520440034174
+      Honda_33: -2676507352556469047
+      Honda_34: 6278546921834651442
+      Honda_35: 6530791950626213228
+      Honda_36: -4578948577030744472
+      Honda_37: 7830523698701421296
+      Honda_38: -8546092746918885807
+      Honda_39: -4850687563007344558
+      Honda_4: 7725854947287969706
+      Honda_40: -2523919583117418331
+      Honda_41: -4552845750238387528
+      Honda_42: 17398178403011747
+      Honda_43: 7651812802950395720
+      Honda_44: 6761129037155899636
+      Honda_45: 4892641115957695698
+      Honda_46: 442482026281130960
+      Honda_47: -4140845464038802747
+      Honda_48: 1734652733742351581
+      Honda_49: -6320106993650076145
+      Honda_5: 6771169707407526222
+      Honda_50: 6642398025605932620
+      Honda_51: -8328790273573575480
+      Honda_52: 7938377208230180949
+      Honda_53: 5211777287238374099
+      Honda_54: 5034923234904437103
+      Honda_55: 3270945373803905698
+      Honda_56: 6021576095908116763
+      Honda_57: -477545274558040056
+      Honda_58: -8272676437210033278
+      Honda_59: -5154401130446556791
+      Honda_6: -5847735266195209125
+      Honda_60: 2318803822898447816
+      Honda_61: -447291223418056287
+      Honda_62: -3299785433024901353
+      Honda_63: -4020613515600984283
+      Honda_64: 2858710638145673653
+      Honda_65: 1939661395073444167
+      Honda_66: -2774503121599222095
+      Honda_67: 1619956287582342176
+      Honda_68: -3116741630215283006
+      Honda_69: -8059485871055344079
+      Honda_7: 5292377617980506166
+      Honda_70: 6277825036563223160
+      Honda_71: 7914656133444003967
+      Honda_72: -6279971133752422080
+      Honda_73: 7282716974454286293
+      Honda_74: 8150053138530836915
+      Honda_75: -2124903669434750320
+      Honda_76: -353814243246417585
+      Honda_77: -5584529427634921301
+      Honda_78: -8348091843575840925
+      Honda_79: 4522101408739214433
+      Honda_8: 5875450253812652147
+      Honda_80: -8336818475992700170
+      Honda_81: -7953410268369634766
+      Honda_82: -5960223534302079210
+      Honda_83: 515013882297483885
+      Honda_84: 8705121586542778763
+      Honda_85: 3404475696748422800
+      Honda_86: -5101009980018805283
+      Honda_87: 869795762731090882
+      Honda_88: -2853518435954364236
+      Honda_89: -3477617838952151032
+      Honda_9: -6352597822079030360
+      Honda_90: 4331637638262493153
+      Honda_91: -7864128240795647973
+      Honda_92: 5652292646745330859
+      Honda_93: -8856773161112040349
+      Honda_94: -30254533799802622
+      Honda_95: 8908896183613466501
+      Honda_96: 2354341153615139921
+      Honda_97: -7607539426189565198
+      Honda_98: -5410499237822245105
+      Honda_99: -7291065216523983959
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

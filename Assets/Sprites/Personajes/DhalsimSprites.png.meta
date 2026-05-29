@@ -1,0 +1,4732 @@
+fileFormatVersion: 2
+guid: 177e6cd15045949178672697eb88f945
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4502612270560931127
+    second: DhalsimSprites_0
+  - first:
+      213: 8850419190141106122
+    second: DhalsimSprites_1
+  - first:
+      213: -3093385461816882254
+    second: DhalsimSprites_2
+  - first:
+      213: 6128773946623215804
+    second: DhalsimSprites_3
+  - first:
+      213: 5474844115867181675
+    second: DhalsimSprites_4
+  - first:
+      213: -8326146001658734580
+    second: DhalsimSprites_5
+  - first:
+      213: -2461149355805095918
+    second: DhalsimSprites_6
+  - first:
+      213: -3473563028938950896
+    second: DhalsimSprites_7
+  - first:
+      213: 7716781046899402942
+    second: DhalsimSprites_8
+  - first:
+      213: -1569763931890958533
+    second: DhalsimSprites_9
+  - first:
+      213: 4396515274137666617
+    second: DhalsimSprites_10
+  - first:
+      213: 9159690356912877792
+    second: DhalsimSprites_11
+  - first:
+      213: -1379037646551801461
+    second: DhalsimSprites_12
+  - first:
+      213: -1160612659289165530
+    second: DhalsimSprites_13
+  - first:
+      213: -5028363137189785113
+    second: DhalsimSprites_14
+  - first:
+      213: -9172552107446749702
+    second: DhalsimSprites_15
+  - first:
+      213: 3221128126232723680
+    second: DhalsimSprites_16
+  - first:
+      213: -4063058895170359840
+    second: DhalsimSprites_17
+  - first:
+      213: -1027909083433812832
+    second: DhalsimSprites_18
+  - first:
+      213: -8126126054042913681
+    second: DhalsimSprites_19
+  - first:
+      213: -5853939362893341115
+    second: DhalsimSprites_20
+  - first:
+      213: 8129605887672401604
+    second: DhalsimSprites_21
+  - first:
+      213: -6906317052653128617
+    second: DhalsimSprites_22
+  - first:
+      213: -327401484967506839
+    second: DhalsimSprites_23
+  - first:
+      213: 8590044257537091620
+    second: DhalsimSprites_24
+  - first:
+      213: -7380567446585279759
+    second: DhalsimSprites_25
+  - first:
+      213: -5789028408410963712
+    second: DhalsimSprites_26
+  - first:
+      213: -2804374297861358617
+    second: DhalsimSprites_27
+  - first:
+      213: -6498806937864053725
+    second: DhalsimSprites_28
+  - first:
+      213: -8315214048037115054
+    second: DhalsimSprites_29
+  - first:
+      213: -634120262195631103
+    second: DhalsimSprites_30
+  - first:
+      213: -8525037752250342386
+    second: DhalsimSprites_31
+  - first:
+      213: 1773404187317849753
+    second: DhalsimSprites_32
+  - first:
+      213: 3855602574722328940
+    second: DhalsimSprites_33
+  - first:
+      213: -6883639852027529274
+    second: DhalsimSprites_34
+  - first:
+      213: -2876614224196769530
+    second: DhalsimSprites_35
+  - first:
+      213: 8066154446935745007
+    second: DhalsimSprites_36
+  - first:
+      213: -8536196170598416709
+    second: DhalsimSprites_37
+  - first:
+      213: -5249869363160058021
+    second: DhalsimSprites_38
+  - first:
+      213: 1625136799904455278
+    second: DhalsimSprites_39
+  - first:
+      213: 3990648788524533143
+    second: DhalsimSprites_40
+  - first:
+      213: 8895330922491439164
+    second: DhalsimSprites_41
+  - first:
+      213: -1226676271189314619
+    second: DhalsimSprites_42
+  - first:
+      213: -3582464869899944123
+    second: DhalsimSprites_43
+  - first:
+      213: 3334523317803168658
+    second: DhalsimSprites_44
+  - first:
+      213: 6470815440928318541
+    second: DhalsimSprites_45
+  - first:
+      213: -46481975363507923
+    second: DhalsimSprites_46
+  - first:
+      213: 701794593496871641
+    second: DhalsimSprites_47
+  - first:
+      213: 93268373810934127
+    second: DhalsimSprites_48
+  - first:
+      213: 4771187750145112108
+    second: DhalsimSprites_49
+  - first:
+      213: -917670474817758448
+    second: DhalsimSprites_50
+  - first:
+      213: -203098522694311839
+    second: DhalsimSprites_51
+  - first:
+      213: -4933491885083363431
+    second: DhalsimSprites_52
+  - first:
+      213: -7456673631670539044
+    second: DhalsimSprites_53
+  - first:
+      213: 4077715604098312018
+    second: DhalsimSprites_54
+  - first:
+      213: 3169872263165920913
+    second: DhalsimSprites_55
+  - first:
+      213: -1204513734671007365
+    second: DhalsimSprites_56
+  - first:
+      213: 1266805663280536166
+    second: DhalsimSprites_57
+  - first:
+      213: 8078422274752906428
+    second: DhalsimSprites_58
+  - first:
+      213: 1979770846498839450
+    second: DhalsimSprites_59
+  - first:
+      213: -4596579344849572122
+    second: DhalsimSprites_60
+  - first:
+      213: 1927872611530958716
+    second: DhalsimSprites_61
+  - first:
+      213: 8107724431641595100
+    second: DhalsimSprites_62
+  - first:
+      213: -5984959287767066023
+    second: DhalsimSprites_63
+  - first:
+      213: 6486001966115355158
+    second: DhalsimSprites_64
+  - first:
+      213: 5959075087912063206
+    second: DhalsimSprites_65
+  - first:
+      213: -7499957723657983109
+    second: DhalsimSprites_66
+  - first:
+      213: -7506586235551980300
+    second: DhalsimSprites_67
+  - first:
+      213: 3918490367225764560
+    second: DhalsimSprites_68
+  - first:
+      213: -5227259418564964261
+    second: DhalsimSprites_69
+  - first:
+      213: 4178546658243068295
+    second: DhalsimSprites_70
+  - first:
+      213: -5844671152199330481
+    second: DhalsimSprites_71
+  - first:
+      213: 8421114410538133417
+    second: DhalsimSprites_72
+  - first:
+      213: 2370032012394914053
+    second: DhalsimSprites_73
+  - first:
+      213: -7256468594219927433
+    second: DhalsimSprites_74
+  - first:
+      213: -9176979589001820772
+    second: DhalsimSprites_75
+  - first:
+      213: -7482318604618112756
+    second: DhalsimSprites_76
+  - first:
+      213: 9119060969551733280
+    second: DhalsimSprites_77
+  - first:
+      213: -2788263846027009046
+    second: DhalsimSprites_78
+  - first:
+      213: -3038668498839299155
+    second: DhalsimSprites_79
+  - first:
+      213: -4324246690179540674
+    second: DhalsimSprites_80
+  - first:
+      213: -3684987319056503236
+    second: DhalsimSprites_81
+  - first:
+      213: -246654851211491571
+    second: DhalsimSprites_82
+  - first:
+      213: -3105590109774555641
+    second: DhalsimSprites_83
+  - first:
+      213: -6147139161453879662
+    second: DhalsimSprites_84
+  - first:
+      213: -5209327442058279511
+    second: DhalsimSprites_85
+  - first:
+      213: 7255204164494437877
+    second: DhalsimSprites_86
+  - first:
+      213: 4658820290122419381
+    second: DhalsimSprites_87
+  - first:
+      213: -1773879866582939048
+    second: DhalsimSprites_88
+  - first:
+      213: -1326310383027328744
+    second: DhalsimSprites_89
+  - first:
+      213: -5013330847938681276
+    second: DhalsimSprites_90
+  - first:
+      213: -4520205082599900950
+    second: DhalsimSprites_91
+  - first:
+      213: 1385659343373063338
+    second: DhalsimSprites_92
+  - first:
+      213: 170246739988459431
+    second: DhalsimSprites_93
+  - first:
+      213: 2666021716779419223
+    second: DhalsimSprites_94
+  - first:
+      213: 4115606623746551481
+    second: DhalsimSprites_95
+  - first:
+      213: 5074196708391961560
+    second: DhalsimSprites_96
+  - first:
+      213: 4040880548788541538
+    second: DhalsimSprites_97
+  - first:
+      213: 5214996521205518352
+    second: DhalsimSprites_98
+  - first:
+      213: 4163284063338133052
+    second: DhalsimSprites_99
+  - first:
+      213: 6625640926195265269
+    second: DhalsimSprites_100
+  - first:
+      213: 8679052048317850074
+    second: DhalsimSprites_101
+  - first:
+      213: -266418114282920377
+    second: DhalsimSprites_102
+  - first:
+      213: -4614301837900032611
+    second: DhalsimSprites_103
+  - first:
+      213: -8401068730895131600
+    second: DhalsimSprites_104
+  - first:
+      213: 6914999273827510096
+    second: DhalsimSprites_105
+  - first:
+      213: -2322517205354276516
+    second: DhalsimSprites_106
+  - first:
+      213: -22271197774918383
+    second: DhalsimSprites_107
+  - first:
+      213: 8638887063251955192
+    second: DhalsimSprites_108
+  - first:
+      213: 566873067199963137
+    second: DhalsimSprites_109
+  - first:
+      213: -997521006245284572
+    second: DhalsimSprites_110
+  - first:
+      213: -455391617113892282
+    second: DhalsimSprites_111
+  - first:
+      213: -1884941262494424316
+    second: DhalsimSprites_112
+  - first:
+      213: 3090642294779908738
+    second: DhalsimSprites_113
+  - first:
+      213: 9157062801796550242
+    second: DhalsimSprites_114
+  - first:
+      213: 7506197842968225158
+    second: DhalsimSprites_115
+  - first:
+      213: -8169016223864554568
+    second: DhalsimSprites_116
+  - first:
+      213: -8196375143967825800
+    second: DhalsimSprites_117
+  - first:
+      213: -3605639705184691405
+    second: DhalsimSprites_118
+  - first:
+      213: 331640230793947299
+    second: DhalsimSprites_119
+  - first:
+      213: -5134464962488912897
+    second: DhalsimSprites_120
+  - first:
+      213: -3485965839228039063
+    second: DhalsimSprites_121
+  - first:
+      213: -1215302171787179494
+    second: DhalsimSprites_122
+  - first:
+      213: 3977823151333585499
+    second: DhalsimSprites_123
+  - first:
+      213: -1146058936739685538
+    second: DhalsimSprites_124
+  - first:
+      213: 8286606037290608440
+    second: DhalsimSprites_125
+  - first:
+      213: -2893996953134997577
+    second: DhalsimSprites_126
+  - first:
+      213: 6025766421441836109
+    second: DhalsimSprites_127
+  - first:
+      213: -5367887469102337745
+    second: DhalsimSprites_128
+  - first:
+      213: 8571623482714841223
+    second: DhalsimSprites_129
+  - first:
+      213: 7497022827350943926
+    second: DhalsimSprites_130
+  - first:
+      213: -3088282394579427398
+    second: DhalsimSprites_131
+  - first:
+      213: -2584493933098300659
+    second: DhalsimSprites_132
+  - first:
+      213: 4611687694551188219
+    second: DhalsimSprites_133
+  - first:
+      213: 1256610110923381283
+    second: DhalsimSprites_134
+  - first:
+      213: 558665859761310057
+    second: DhalsimSprites_135
+  - first:
+      213: -4737711789383639280
+    second: DhalsimSprites_136
+  - first:
+      213: 5565227230649588682
+    second: DhalsimSprites_137
+  - first:
+      213: 6235731455478795499
+    second: DhalsimSprites_138
+  - first:
+      213: 5400521430672788048
+    second: DhalsimSprites_139
+  - first:
+      213: -5139118045475336673
+    second: DhalsimSprites_140
+  - first:
+      213: 651235592114659646
+    second: DhalsimSprites_141
+  - first:
+      213: 5948043973890542407
+    second: DhalsimSprites_142
+  - first:
+      213: -1832486552228899070
+    second: DhalsimSprites_143
+  - first:
+      213: -3354419955443302379
+    second: DhalsimSprites_144
+  - first:
+      213: 5629497853672842888
+    second: DhalsimSprites_145
+  - first:
+      213: 5360989525810914574
+    second: DhalsimSprites_146
+  - first:
+      213: 8245610746967982248
+    second: DhalsimSprites_147
+  - first:
+      213: -3455516784659996108
+    second: DhalsimSprites_148
+  - first:
+      213: 8325692865038264287
+    second: DhalsimSprites_149
+  - first:
+      213: 4921740081902495518
+    second: DhalsimSprites_150
+  - first:
+      213: 2969045059649557263
+    second: DhalsimSprites_151
+  - first:
+      213: -3855846400672455183
+    second: DhalsimSprites_152
+  - first:
+      213: -3208912380983027023
+    second: DhalsimSprites_153
+  - first:
+      213: -7144662808035762005
+    second: DhalsimSprites_154
+  - first:
+      213: -7982849038385731740
+    second: DhalsimSprites_155
+  - first:
+      213: 1985820728271825913
+    second: DhalsimSprites_156
+  - first:
+      213: 5907292555553128224
+    second: DhalsimSprites_157
+  - first:
+      213: -1871735748848976945
+    second: DhalsimSprites_158
+  - first:
+      213: -2356784268428726877
+    second: DhalsimSprites_159
+  - first:
+      213: -3132761367642526810
+    second: DhalsimSprites_160
+  - first:
+      213: 6149076022601324936
+    second: DhalsimSprites_161
+  - first:
+      213: 6356552939066797667
+    second: DhalsimSprites_162
+  - first:
+      213: 4225028525935130135
+    second: DhalsimSprites_163
+  - first:
+      213: 3274311391993744924
+    second: DhalsimSprites_164
+  - first:
+      213: 5326749112269427247
+    second: DhalsimSprites_165
+  - first:
+      213: -7900614978092345540
+    second: DhalsimSprites_166
+  - first:
+      213: -6958540534196949982
+    second: DhalsimSprites_167
+  - first:
+      213: -647013981070158932
+    second: DhalsimSprites_168
+  - first:
+      213: -512948856942617452
+    second: DhalsimSprites_169
+  - first:
+      213: 6910427088487660715
+    second: DhalsimSprites_170
+  - first:
+      213: -2998175077246116729
+    second: DhalsimSprites_171
+  - first:
+      213: 8742550604274707823
+    second: DhalsimSprites_172
+  - first:
+      213: 1821507876885818923
+    second: DhalsimSprites_173
+  - first:
+      213: 9030945988499799053
+    second: DhalsimSprites_174
+  - first:
+      213: -8705279627384521422
+    second: DhalsimSprites_175
+  - first:
+      213: 7554252540847886618
+    second: DhalsimSprites_176
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DhalsimSprites_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 838
+        width: 54
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c296ebeef18381c0800000000000000
+      internalID: -4502612270560931127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_1
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 838
+        width: 51
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac739a5ac5103da70800000000000000
+      internalID: 8850419190141106122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_2
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 838
+        width: 57
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bb0c0bdf461215d0800000000000000
+      internalID: -3093385461816882254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_3
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 838
+        width: 54
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb8452dce67cd0550800000000000000
+      internalID: 6128773946623215804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_4
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 838
+        width: 51
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b62a6e667bd8afb40800000000000000
+      internalID: 5474844115867181675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_5
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 838
+        width: 56
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0897174356937c80800000000000000
+      internalID: -8326146001658734580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_6
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 838
+        width: 54
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2184e0c53bd38ddd0800000000000000
+      internalID: -2461149355805095918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_7
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 838
+        width: 51
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 017f92334dc6bcfc0800000000000000
+      internalID: -3473563028938950896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_8
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 838
+        width: 56
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb8e7e51a73871b60800000000000000
+      internalID: 7716781046899402942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_9
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 838
+        width: 53
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3f3b6a5504173ae0800000000000000
+      internalID: -1569763931890958533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_10
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 838
+        width: 52
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9340e8c195f830d30800000000000000
+      internalID: 4396515274137666617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_11
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 838
+        width: 54
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e0fc5879d1cd1f70800000000000000
+      internalID: 9159690356912877792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_12
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 838
+        width: 55
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b81a361219cacdce0800000000000000
+      internalID: -1379037646551801461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_13
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 838
+        width: 51
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6217f318feca4efe0800000000000000
+      internalID: -1160612659289165530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_14
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 838
+        width: 55
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e1522e3e5aa73ab0800000000000000
+      internalID: -5028363137189785113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_15
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 838
+        width: 54
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af530efd47c84b080800000000000000
+      internalID: -9172552107446749702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_16
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 838
+        width: 52
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e00f1ce6feb3bc20800000000000000
+      internalID: 3221128126232723680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_17
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 838
+        width: 47
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ed21eb367d1d97c0800000000000000
+      internalID: -4063058895170359840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_18
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 838
+        width: 36
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0acb78c72222cb1f0800000000000000
+      internalID: -1027909083433812832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_19
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 863
+        width: 37
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f64b9bc68633a3f80800000000000000
+      internalID: -8126126054042913681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_20
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 838
+        width: 36
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54ed01a3a21a2cea0800000000000000
+      internalID: -5853939362893341115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_21
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 838
+        width: 47
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ce33aa7b7922d070800000000000000
+      internalID: 8129605887672401604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_22
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 838
+        width: 47
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 754336a5b35d720a0800000000000000
+      internalID: -6906317052653128617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_23
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 838
+        width: 51
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96c83958516d47bf0800000000000000
+      internalID: -327401484967506839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_24
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 838
+        width: 47
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 428e16f7db7f53770800000000000000
+      internalID: 8590044257537091620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_25
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 700
+        width: 63
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1faf871e205f29990800000000000000
+      internalID: -7380567446585279759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_26
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 700
+        width: 93
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 001050a855d39afa0800000000000000
+      internalID: -5789028408410963712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_27
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 700
+        width: 63
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ebfcbe2f6cd419d0800000000000000
+      internalID: -2804374297861358617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_28
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 700
+        width: 64
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32cd4cca5899fc5a0800000000000000
+      internalID: -6498806937864053725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_29
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 700
+        width: 99
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25be86311ec6a9c80800000000000000
+      internalID: -8315214048037115054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_30
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 700
+        width: 146
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10ca3f23bf62337f0800000000000000
+      internalID: -634120262195631103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_31
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 700
+        width: 64
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e04e258f45bf0b980800000000000000
+      internalID: -8525037752250342386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_32
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 700
+        width: 103
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99e454466b56c9810800000000000000
+      internalID: 1773404187317849753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_33
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 700
+        width: 155
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c69e7652d1ad18530800000000000000
+      internalID: 3855602574722328940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_34
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 700
+        width: 51
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c73d2296066870a0800000000000000
+      internalID: -6883639852027529274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_35
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 700
+        width: 74
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6096ae2aa963418d0800000000000000
+      internalID: -2876614224196769530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_36
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 700
+        width: 51
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe1ea01bbbcb0ff60800000000000000
+      internalID: 8066154446935745007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_37
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 700
+        width: 61
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbe7e6e3fc6598980800000000000000
+      internalID: -8536196170598416709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_38
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 700
+        width: 62
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5773a311a7b427b0800000000000000
+      internalID: -5249869363160058021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_39
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 700
+        width: 61
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6a58b52f45ad8610800000000000000
+      internalID: 1625136799904455278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_40
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 700
+        width: 51
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79509570ee1a16730800000000000000
+      internalID: 3990648788524533143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_41
+      rect:
+        serializedVersion: 2
+        x: 1321
+        y: 700
+        width: 51
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3866a23850927b70800000000000000
+      internalID: 8895330922491439164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_42
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 700
+        width: 65
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c33c593e68f9fee0800000000000000
+      internalID: -1226676271189314619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_43
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 700
+        width: 67
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54f3c497e27884ec0800000000000000
+      internalID: -3582464869899944123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_44
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 700
+        width: 65
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2933aec5a4b964e20800000000000000
+      internalID: 3334523317803168658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_45
+      rect:
+        serializedVersion: 2
+        x: 1581
+        y: 700
+        width: 51
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4425a31c54fcc950800000000000000
+      internalID: 6470815440928318541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_46
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 581
+        width: 54
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d29eff1c3ecda5ff0800000000000000
+      internalID: -46481975363507923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_47
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 581
+        width: 91
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d2bbaae6764db900800000000000000
+      internalID: 701794593496871641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_48
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 581
+        width: 119
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6177c1871b5b4100800000000000000
+      internalID: 93268373810934127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_49
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 581
+        width: 54
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c28381cdaf9a63240800000000000000
+      internalID: 4771187750145112108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_50
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 581
+        width: 94
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01b9f9fa097c343f0800000000000000
+      internalID: -917670474817758448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_51
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 581
+        width: 130
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 160266c38f27e2df0800000000000000
+      internalID: -203098522694311839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_52
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 581
+        width: 60
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 997755fe447b88bb0800000000000000
+      internalID: -4933491885083363431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_53
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 581
+        width: 64
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdc6142d6d2948890800000000000000
+      internalID: -7456673631670539044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_54
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 581
+        width: 93
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 257e85dbcb4f69830800000000000000
+      internalID: 4077715604098312018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_55
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 581
+        width: 138
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1964e555706adfb20800000000000000
+      internalID: 3169872263165920913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_56
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 581
+        width: 93
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b710bddd325b84fe0800000000000000
+      internalID: -1204513734671007365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_57
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 581
+        width: 74
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66a1a47f909949110800000000000000
+      internalID: 1266805663280536166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_58
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 581
+        width: 54
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb40040f1425c1070800000000000000
+      internalID: 8078422274752906428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_59
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 581
+        width: 91
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9bdc3a781f897b10800000000000000
+      internalID: 1979770846498839450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_60
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 581
+        width: 93
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eee758807ba530c0800000000000000
+      internalID: -4596579344849572122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_61
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 581
+        width: 54
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c77e1860ded21ca10800000000000000
+      internalID: 1927872611530958716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_62
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 581
+        width: 51
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdcc0ccf96c648070800000000000000
+      internalID: 8107724431641595100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_63
+      rect:
+        serializedVersion: 2
+        x: 1468
+        y: 581
+        width: 57
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95a1879cc3721fca0800000000000000
+      internalID: -5984959287767066023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_64
+      rect:
+        serializedVersion: 2
+        x: 1546
+        y: 595
+        width: 48
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61a7ac28c68e20a50800000000000000
+      internalID: 6486001966115355158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_65
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 581
+        width: 57
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e0d0ec4833e2b250800000000000000
+      internalID: 5959075087912063206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_66
+      rect:
+        serializedVersion: 2
+        x: 1657
+        y: 581
+        width: 51
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7b2be2df2ccae790800000000000000
+      internalID: -7499957723657983109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_67
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 581
+        width: 51
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f46612279f33d790800000000000000
+      internalID: -7506586235551980300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_68
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 482
+        width: 53
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0da184a5a36416630800000000000000
+      internalID: 3918490367225764560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_69
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 482
+        width: 89
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b50de97014b0577b0800000000000000
+      internalID: -5227259418564964261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_70
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 482
+        width: 136
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78149f9fb0e2df930800000000000000
+      internalID: 4178546658243068295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_71
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 482
+        width: 89
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f459f20bd8e83eea0800000000000000
+      internalID: -5844671152199330481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_72
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 482
+        width: 53
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a76c0d70fecdd470800000000000000
+      internalID: 8421114410538133417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_73
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 482
+        width: 49
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5016a1dee8b04e020800000000000000
+      internalID: 2370032012394914053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_74
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 482
+        width: 88
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7783ebd8248db4b90800000000000000
+      internalID: -7256468594219927433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_75
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 482
+        width: 49
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c95498e7fa1d4a080800000000000000
+      internalID: -9176979589001820772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_76
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 489
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c01e0734fd6792890800000000000000
+      internalID: -7482318604618112756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_77
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 480
+        width: 104
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 022a24f03a96d8e70800000000000000
+      internalID: 9119060969551733280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_78
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 489
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae3ee7d0ec81e49d0800000000000000
+      internalID: -2788263846027009046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_79
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 491
+        width: 80
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dab9380991b74d5d0800000000000000
+      internalID: -3038668498839299155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_80
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 481
+        width: 119
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3990becb803df3c0800000000000000
+      internalID: -4324246690179540674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_81
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 491
+        width: 80
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3e61d5ae8b4cdcc0800000000000000
+      internalID: -3684987319056503236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_82
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 492
+        width: 91
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d07896b38b4b39cf0800000000000000
+      internalID: -246654851211491571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_83
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 485
+        width: 91
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 706dbe0df3ab6e4d0800000000000000
+      internalID: -3105590109774555641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_84
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 492
+        width: 91
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29e16a86089f0baa0800000000000000
+      internalID: -6147139161453879662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_85
+      rect:
+        serializedVersion: 2
+        x: 1469
+        y: 485
+        width: 89
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a50c69aa40c4b7b0800000000000000
+      internalID: -5209327442058279511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_86
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 375
+        width: 72
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fd20a57fb9afa460800000000000000
+      internalID: 7255204164494437877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_87
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 372
+        width: 62
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bc0121de5477a040800000000000000
+      internalID: 4658820290122419381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_88
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 375
+        width: 75
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85a4b16e8a9e167e0800000000000000
+      internalID: -1773879866582939048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_89
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 385
+        width: 75
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8196eb5dbbff79de0800000000000000
+      internalID: -1326310383027328744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_90
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 372
+        width: 51
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4466b13d7221d6ab0800000000000000
+      internalID: -5013330847938681276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_91
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 372
+        width: 63
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae8b7bb2d610541c0800000000000000
+      internalID: -4520205082599900950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_92
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 372
+        width: 64
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa4d37dc4d9da3310800000000000000
+      internalID: 1385659343373063338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_93
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 372
+        width: 70
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7af2e2d0286dc5200800000000000000
+      internalID: 170246739988459431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_94
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 372
+        width: 64
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7564d1050ac9ff420800000000000000
+      internalID: 2666021716779419223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_95
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 411
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9be68ab3b629d1930800000000000000
+      internalID: 4115606623746551481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_96
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 411
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d3c824a50b2b6640800000000000000
+      internalID: 5074196708391961560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_97
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 413
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 268935a1377141830800000000000000
+      internalID: 4040880548788541538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_98
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 372
+        width: 51
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0105a5fa4b36f5840800000000000000
+      internalID: 5214996521205518352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_99
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 372
+        width: 63
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c36705e2cc4f6c930800000000000000
+      internalID: 4163284063338133052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_100
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 372
+        width: 83
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fea827715103fb50800000000000000
+      internalID: 6625640926195265269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_101
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 372
+        width: 89
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad1ac17badf227870800000000000000
+      internalID: 8679052048317850074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_102
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 372
+        width: 107
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 746ef68f22e7d4cf0800000000000000
+      internalID: -266418114282920377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_103
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 372
+        width: 70
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9559811de4b6ffb0800000000000000
+      internalID: -4614301837900032611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_104
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 410
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03c9a510088696b80800000000000000
+      internalID: -8401068730895131600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_105
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 372
+        width: 70
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 057a29ac33307ff50800000000000000
+      internalID: 6914999273827510096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_106
+      rect:
+        serializedVersion: 2
+        x: 1337
+        y: 416
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c59102e28e2c4cfd0800000000000000
+      internalID: -2322517205354276516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_107
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 372
+        width: 70
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11d47efa670e0bff0800000000000000
+      internalID: -22271197774918383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_108
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 419
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fda9d3630e73e770800000000000000
+      internalID: 8638887063251955192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_109
+      rect:
+        serializedVersion: 2
+        x: 1454
+        y: 372
+        width: 81
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 100a03b1d00fdd700800000000000000
+      internalID: 566873067199963137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_110
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 380
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42572ce0ee71822f0800000000000000
+      internalID: -997521006245284572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_111
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 377
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64a5c3cacbf1ea9f0800000000000000
+      internalID: -455391617113892282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_112
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 375
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4032b8a98e757d5e0800000000000000
+      internalID: -1884941262494424316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_113
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 374
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 282972ccaca24ea20800000000000000
+      internalID: 3090642294779908738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_114
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 247
+        width: 47
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26ec60f1a1c641f70800000000000000
+      internalID: 9157062801796550242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_115
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 247
+        width: 51
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 685aceb2b2f5b2860800000000000000
+      internalID: 7506197842968225158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_116
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 288
+        width: 37
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bb76249603d1ae80800000000000000
+      internalID: -8169016223864554568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_117
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 287
+        width: 46
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 870e4f99b30a04e80800000000000000
+      internalID: -8196375143967825800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_118
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 287
+        width: 46
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33b1c68aac136fdc0800000000000000
+      internalID: -3605639705184691405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_119
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 288
+        width: 37
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a8a3b568093a9400800000000000000
+      internalID: 331640230793947299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_120
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 247
+        width: 51
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff3b827f157beb8b0800000000000000
+      internalID: -5134464962488912897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_121
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 247
+        width: 47
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9609aa5e98c5f9fc0800000000000000
+      internalID: -3485965839228039063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_122
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 247
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1a4ddb1d11622fe0800000000000000
+      internalID: -1215302171787179494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_123
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 247
+        width: 55
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b52309aa411143730800000000000000
+      internalID: 3977823151333585499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_124
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 247
+        width: 53
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5b18f718716810f0800000000000000
+      internalID: -1146058936739685538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_125
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 247
+        width: 81
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 837605e5940fff270800000000000000
+      internalID: 8286606037290608440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_126
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 247
+        width: 51
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bf535baa1576d7d0800000000000000
+      internalID: -2893996953134997577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_127
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 247
+        width: 84
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d44748962a2df9350800000000000000
+      internalID: 6025766421441836109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_128
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 247
+        width: 51
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2172e189ce6185b0800000000000000
+      internalID: -5367887469102337745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_129
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 247
+        width: 51
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7806d93a42684f670800000000000000
+      internalID: 8571623482714841223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_130
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 247
+        width: 51
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b86f316a86ca0860800000000000000
+      internalID: 7497022827350943926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_131
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 247
+        width: 51
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abf100946873425d0800000000000000
+      internalID: -3088282394579427398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_132
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 247
+        width: 51
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0b06890678022cd0800000000000000
+      internalID: -2584493933098300659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_133
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 247
+        width: 51
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf283c04681000040800000000000000
+      internalID: 4611687694551188219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_134
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 136
+        width: 51
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32a90c2fc30607110800000000000000
+      internalID: 1256610110923381283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_135
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 147
+        width: 45
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9690637b3a7c0c700800000000000000
+      internalID: 558665859761310057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_136
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 155
+        width: 47
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01f9b91aa34404eb0800000000000000
+      internalID: -4737711789383639280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_137
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 136
+        width: 51
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acb13313ea8ab3d40800000000000000
+      internalID: 5565227230649588682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_138
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 136
+        width: 53
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bec0b8e68b4c98650800000000000000
+      internalID: 6235731455478795499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_139
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 136
+        width: 63
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05ac225c0a182fa40800000000000000
+      internalID: 5400521430672788048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_140
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 136
+        width: 47
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1e84a8ad5f2ea8b0800000000000000
+      internalID: -5139118045475336673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_141
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 139
+        width: 57
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e31e5151257a90900800000000000000
+      internalID: 651235592114659646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_142
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 155
+        width: 61
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74b062cea72bb8250800000000000000
+      internalID: 5948043973890542407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_143
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 136
+        width: 85
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20757be8033b196e0800000000000000
+      internalID: -1832486552228899070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_144
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 136
+        width: 78
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5100250b2d4b271d0800000000000000
+      internalID: -3354419955443302379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_145
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 136
+        width: 51
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8866ef7b87eff1e40800000000000000
+      internalID: 5629497853672842888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_146
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 136
+        width: 52
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e05ac8ae19f066a40800000000000000
+      internalID: 5360989525810914574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_147
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 136
+        width: 57
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a08b29894b4e6270800000000000000
+      internalID: 8245610746967982248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_148
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 136
+        width: 52
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 432e0fedac98b00d0800000000000000
+      internalID: -3455516784659996108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_149
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 146
+        width: 76
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd72c91ac8dca8370800000000000000
+      internalID: 8325692865038264287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_150
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 136
+        width: 85
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e17a99a27888d4440800000000000000
+      internalID: 4921740081902495518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_151
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 146
+        width: 76
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f035a8640ca243920800000000000000
+      internalID: 2969045059649557263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_152
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 136
+        width: 85
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f52373b0284d7ac0800000000000000
+      internalID: -3855846400672455183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_153
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 136
+        width: 51
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ba5728e037a773d0800000000000000
+      internalID: -3208912380983027023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_154
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 136
+        width: 51
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba06517b70f09dc90800000000000000
+      internalID: -7144662808035762005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_155
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 9
+        width: 62
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46723733819373190800000000000000
+      internalID: -7982849038385731740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_156
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 9
+        width: 64
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fbef385e6d0f8b10800000000000000
+      internalID: 1985820728271825913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_157
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 9
+        width: 64
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02fbd06f74beaf150800000000000000
+      internalID: 5907292555553128224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_158
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 9
+        width: 76
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcbf478d0424606e0800000000000000
+      internalID: -1871735748848976945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_159
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 9
+        width: 76
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ada314d1350b4fd0800000000000000
+      internalID: -2356784268428726877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_160
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 9
+        width: 64
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aba99b52223684d0800000000000000
+      internalID: -3132761367642526810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_161
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 9
+        width: 64
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88916083018e55550800000000000000
+      internalID: 6149076022601324936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_162
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 9
+        width: 62
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36eaa093833073850800000000000000
+      internalID: 6356552939066797667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_163
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 9
+        width: 47
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71671462f0152aa30800000000000000
+      internalID: 4225028525935130135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_164
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 9
+        width: 51
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1e4dcbecd0b07d20800000000000000
+      internalID: 3274311391993744924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_165
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 50
+        width: 37
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f225274681a6ce940800000000000000
+      internalID: 5326749112269427247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_166
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 49
+        width: 46
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c37dca369806b5290800000000000000
+      internalID: -7900614978092345540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_167
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 9
+        width: 61
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22ca808804c4e6f90800000000000000
+      internalID: -6958540534196949982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_168
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 9
+        width: 54
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca31a9556385507f0800000000000000
+      internalID: -647013981070158932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_169
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 9
+        width: 54
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49c1ef97bb3a1e8f0800000000000000
+      internalID: -512948856942617452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_170
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 9
+        width: 54
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bac3b8fe2d4c6ef50800000000000000
+      internalID: 6910427088487660715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_171
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 9
+        width: 54
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78cd05af6a75466d0800000000000000
+      internalID: -2998175077246116729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_172
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 9
+        width: 54
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6dabae5477c35970800000000000000
+      internalID: 8742550604274707823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_173
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 9
+        width: 54
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2eea5563cb474910800000000000000
+      internalID: 1821507876885818923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_174
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 9
+        width: 54
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0cf44e478d545d70800000000000000
+      internalID: 9030945988499799053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_175
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 9
+        width: 51
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23dfc4b2d42a03780800000000000000
+      internalID: -8705279627384521422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DhalsimSprites_176
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 9
+        width: 51
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1194d869a816d860800000000000000
+      internalID: 7554252540847886618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      DhalsimSprites_0: -4502612270560931127
+      DhalsimSprites_1: 8850419190141106122
+      DhalsimSprites_10: 4396515274137666617
+      DhalsimSprites_100: 6625640926195265269
+      DhalsimSprites_101: 8679052048317850074
+      DhalsimSprites_102: -266418114282920377
+      DhalsimSprites_103: -4614301837900032611
+      DhalsimSprites_104: -8401068730895131600
+      DhalsimSprites_105: 6914999273827510096
+      DhalsimSprites_106: -2322517205354276516
+      DhalsimSprites_107: -22271197774918383
+      DhalsimSprites_108: 8638887063251955192
+      DhalsimSprites_109: 566873067199963137
+      DhalsimSprites_11: 9159690356912877792
+      DhalsimSprites_110: -997521006245284572
+      DhalsimSprites_111: -455391617113892282
+      DhalsimSprites_112: -1884941262494424316
+      DhalsimSprites_113: 3090642294779908738
+      DhalsimSprites_114: 9157062801796550242
+      DhalsimSprites_115: 7506197842968225158
+      DhalsimSprites_116: -8169016223864554568
+      DhalsimSprites_117: -8196375143967825800
+      DhalsimSprites_118: -3605639705184691405
+      DhalsimSprites_119: 331640230793947299
+      DhalsimSprites_12: -1379037646551801461
+      DhalsimSprites_120: -5134464962488912897
+      DhalsimSprites_121: -3485965839228039063
+      DhalsimSprites_122: -1215302171787179494
+      DhalsimSprites_123: 3977823151333585499
+      DhalsimSprites_124: -1146058936739685538
+      DhalsimSprites_125: 8286606037290608440
+      DhalsimSprites_126: -2893996953134997577
+      DhalsimSprites_127: 6025766421441836109
+      DhalsimSprites_128: -5367887469102337745
+      DhalsimSprites_129: 8571623482714841223
+      DhalsimSprites_13: -1160612659289165530
+      DhalsimSprites_130: 7497022827350943926
+      DhalsimSprites_131: -3088282394579427398
+      DhalsimSprites_132: -2584493933098300659
+      DhalsimSprites_133: 4611687694551188219
+      DhalsimSprites_134: 1256610110923381283
+      DhalsimSprites_135: 558665859761310057
+      DhalsimSprites_136: -4737711789383639280
+      DhalsimSprites_137: 5565227230649588682
+      DhalsimSprites_138: 6235731455478795499
+      DhalsimSprites_139: 5400521430672788048
+      DhalsimSprites_14: -5028363137189785113
+      DhalsimSprites_140: -5139118045475336673
+      DhalsimSprites_141: 651235592114659646
+      DhalsimSprites_142: 5948043973890542407
+      DhalsimSprites_143: -1832486552228899070
+      DhalsimSprites_144: -3354419955443302379
+      DhalsimSprites_145: 5629497853672842888
+      DhalsimSprites_146: 5360989525810914574
+      DhalsimSprites_147: 8245610746967982248
+      DhalsimSprites_148: -3455516784659996108
+      DhalsimSprites_149: 8325692865038264287
+      DhalsimSprites_15: -9172552107446749702
+      DhalsimSprites_150: 4921740081902495518
+      DhalsimSprites_151: 2969045059649557263
+      DhalsimSprites_152: -3855846400672455183
+      DhalsimSprites_153: -3208912380983027023
+      DhalsimSprites_154: -7144662808035762005
+      DhalsimSprites_155: -7982849038385731740
+      DhalsimSprites_156: 1985820728271825913
+      DhalsimSprites_157: 5907292555553128224
+      DhalsimSprites_158: -1871735748848976945
+      DhalsimSprites_159: -2356784268428726877
+      DhalsimSprites_16: 3221128126232723680
+      DhalsimSprites_160: -3132761367642526810
+      DhalsimSprites_161: 6149076022601324936
+      DhalsimSprites_162: 6356552939066797667
+      DhalsimSprites_163: 4225028525935130135
+      DhalsimSprites_164: 3274311391993744924
+      DhalsimSprites_165: 5326749112269427247
+      DhalsimSprites_166: -7900614978092345540
+      DhalsimSprites_167: -6958540534196949982
+      DhalsimSprites_168: -647013981070158932
+      DhalsimSprites_169: -512948856942617452
+      DhalsimSprites_17: -4063058895170359840
+      DhalsimSprites_170: 6910427088487660715
+      DhalsimSprites_171: -2998175077246116729
+      DhalsimSprites_172: 8742550604274707823
+      DhalsimSprites_173: 1821507876885818923
+      DhalsimSprites_174: 9030945988499799053
+      DhalsimSprites_175: -8705279627384521422
+      DhalsimSprites_176: 7554252540847886618
+      DhalsimSprites_18: -1027909083433812832
+      DhalsimSprites_19: -8126126054042913681
+      DhalsimSprites_2: -3093385461816882254
+      DhalsimSprites_20: -5853939362893341115
+      DhalsimSprites_21: 8129605887672401604
+      DhalsimSprites_22: -6906317052653128617
+      DhalsimSprites_23: -327401484967506839
+      DhalsimSprites_24: 8590044257537091620
+      DhalsimSprites_25: -7380567446585279759
+      DhalsimSprites_26: -5789028408410963712
+      DhalsimSprites_27: -2804374297861358617
+      DhalsimSprites_28: -6498806937864053725
+      DhalsimSprites_29: -8315214048037115054
+      DhalsimSprites_3: 6128773946623215804
+      DhalsimSprites_30: -634120262195631103
+      DhalsimSprites_31: -8525037752250342386
+      DhalsimSprites_32: 1773404187317849753
+      DhalsimSprites_33: 3855602574722328940
+      DhalsimSprites_34: -6883639852027529274
+      DhalsimSprites_35: -2876614224196769530
+      DhalsimSprites_36: 8066154446935745007
+      DhalsimSprites_37: -8536196170598416709
+      DhalsimSprites_38: -5249869363160058021
+      DhalsimSprites_39: 1625136799904455278
+      DhalsimSprites_4: 5474844115867181675
+      DhalsimSprites_40: 3990648788524533143
+      DhalsimSprites_41: 8895330922491439164
+      DhalsimSprites_42: -1226676271189314619
+      DhalsimSprites_43: -3582464869899944123
+      DhalsimSprites_44: 3334523317803168658
+      DhalsimSprites_45: 6470815440928318541
+      DhalsimSprites_46: -46481975363507923
+      DhalsimSprites_47: 701794593496871641
+      DhalsimSprites_48: 93268373810934127
+      DhalsimSprites_49: 4771187750145112108
+      DhalsimSprites_5: -8326146001658734580
+      DhalsimSprites_50: -917670474817758448
+      DhalsimSprites_51: -203098522694311839
+      DhalsimSprites_52: -4933491885083363431
+      DhalsimSprites_53: -7456673631670539044
+      DhalsimSprites_54: 4077715604098312018
+      DhalsimSprites_55: 3169872263165920913
+      DhalsimSprites_56: -1204513734671007365
+      DhalsimSprites_57: 1266805663280536166
+      DhalsimSprites_58: 8078422274752906428
+      DhalsimSprites_59: 1979770846498839450
+      DhalsimSprites_6: -2461149355805095918
+      DhalsimSprites_60: -4596579344849572122
+      DhalsimSprites_61: 1927872611530958716
+      DhalsimSprites_62: 8107724431641595100
+      DhalsimSprites_63: -5984959287767066023
+      DhalsimSprites_64: 6486001966115355158
+      DhalsimSprites_65: 5959075087912063206
+      DhalsimSprites_66: -7499957723657983109
+      DhalsimSprites_67: -7506586235551980300
+      DhalsimSprites_68: 3918490367225764560
+      DhalsimSprites_69: -5227259418564964261
+      DhalsimSprites_7: -3473563028938950896
+      DhalsimSprites_70: 4178546658243068295
+      DhalsimSprites_71: -5844671152199330481
+      DhalsimSprites_72: 8421114410538133417
+      DhalsimSprites_73: 2370032012394914053
+      DhalsimSprites_74: -7256468594219927433
+      DhalsimSprites_75: -9176979589001820772
+      DhalsimSprites_76: -7482318604618112756
+      DhalsimSprites_77: 9119060969551733280
+      DhalsimSprites_78: -2788263846027009046
+      DhalsimSprites_79: -3038668498839299155
+      DhalsimSprites_8: 7716781046899402942
+      DhalsimSprites_80: -4324246690179540674
+      DhalsimSprites_81: -3684987319056503236
+      DhalsimSprites_82: -246654851211491571
+      DhalsimSprites_83: -3105590109774555641
+      DhalsimSprites_84: -6147139161453879662
+      DhalsimSprites_85: -5209327442058279511
+      DhalsimSprites_86: 7255204164494437877
+      DhalsimSprites_87: 4658820290122419381
+      DhalsimSprites_88: -1773879866582939048
+      DhalsimSprites_89: -1326310383027328744
+      DhalsimSprites_9: -1569763931890958533
+      DhalsimSprites_90: -5013330847938681276
+      DhalsimSprites_91: -4520205082599900950
+      DhalsimSprites_92: 1385659343373063338
+      DhalsimSprites_93: 170246739988459431
+      DhalsimSprites_94: 2666021716779419223
+      DhalsimSprites_95: 4115606623746551481
+      DhalsimSprites_96: 5074196708391961560
+      DhalsimSprites_97: 4040880548788541538
+      DhalsimSprites_98: 5214996521205518352
+      DhalsimSprites_99: 4163284063338133052
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

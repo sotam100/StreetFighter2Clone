@@ -1,0 +1,832 @@
+fileFormatVersion: 2
+guid: b35928a444f83416fbb58f415de8e0a7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7069156189518518137
+    second: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Barrel_0
+  - first:
+      213: 8935488714059012277
+    second: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Barrel_1
+  - first:
+      213: 5534848196461236425
+    second: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Barrel_2
+  - first:
+      213: -6259954629622333588
+    second: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Barrel_3
+  - first:
+      213: -1884598178135075972
+    second: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Barrel_4
+  - first:
+      213: 6492097398482289942
+    second: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Barrel_5
+  - first:
+      213: -8019560294871029576
+    second: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Barrel_6
+  - first:
+      213: -1686826519873388098
+    second: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Barrel_7
+  - first:
+      213: 5217670452760152222
+    second: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Barrel_8
+  - first:
+      213: -5571507537897488869
+    second: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Barrel_9
+  - first:
+      213: -1715858435204950603
+    second: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Barrel_10
+  - first:
+      213: 2532344018160229233
+    second: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Barrel_11
+  - first:
+      213: -6668977668752482888
+    second: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Barrel_12
+  - first:
+      213: -6950727471826255683
+    second: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Barrel_13
+  - first:
+      213: 6666307191073469203
+    second: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Barrel_14
+  - first:
+      213: 4702061478695609938
+    second: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Barrel_15
+  - first:
+      213: -5621929196656850523
+    second: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Barrel_16
+  - first:
+      213: -3662291803219978635
+    second: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Barrel_17
+  - first:
+      213: 2836764282715587312
+    second: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Barrel_18
+  - first:
+      213: -7109927092781202672
+    second: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Barrel_19
+  - first:
+      213: 8429911780094940870
+    second: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Barrel_20
+  - first:
+      213: 1417569084953397806
+    second: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Barrel_21
+  - first:
+      213: -7074202734736026756
+    second: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Barrel_22
+  - first:
+      213: -7102961614344402580
+    second: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Barrel_23
+  - first:
+      213: 5836648040984236025
+    second: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Barrel_24
+  - first:
+      213: -5803759674467194759
+    second: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Barrel_25
+  - first:
+      213: 5366727183630079862
+    second: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Barrel_26
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Barrel_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 215
+        width: 98
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 788aefd46ef45ed90800000000000000
+      internalID: -7069156189518518137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Barrel_1
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 220
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b8dff7a4ab310c70800000000000000
+      internalID: 8935488714059012277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Barrel_2
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 220
+        width: 7
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c098cb1c1bbfcc40800000000000000
+      internalID: 5534848196461236425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Barrel_3
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 220
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6f7c475e6c2029a0800000000000000
+      internalID: -6259954629622333588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Barrel_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 220
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7319e721ff88d5e0800000000000000
+      internalID: -1884598178135075972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Barrel_5
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 220
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61546c3ff20981a50800000000000000
+      internalID: 6492097398482289942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Barrel_6
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 220
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b8a269b66cc4b090800000000000000
+      internalID: -8019560294871029576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Barrel_7
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 220
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb10d35a7303798e0800000000000000
+      internalID: -1686826519873388098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Barrel_8
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 220
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9802d3e1a3e86840800000000000000
+      internalID: 5217670452760152222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Barrel_9
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 220
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1e7534d9670ea2b0800000000000000
+      internalID: -5571507537897488869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Barrel_10
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 220
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b550cc18db0038e0800000000000000
+      internalID: -1715858435204950603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Barrel_11
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 152
+        width: 76
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17b9683b771b42320800000000000000
+      internalID: 2532344018160229233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Barrel_12
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 152
+        width: 76
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bddefed4280373a0800000000000000
+      internalID: -6668977668752482888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Barrel_13
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 152
+        width: 76
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db04f3fd03e0a8f90800000000000000
+      internalID: -6950727471826255683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Barrel_14
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 152
+        width: 76
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 313f097121b738c50800000000000000
+      internalID: 6666307191073469203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Barrel_15
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 89
+        width: 49
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25623b59004114140800000000000000
+      internalID: 4702061478695609938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Barrel_16
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 89
+        width: 49
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a90fd09e25eaf1b0800000000000000
+      internalID: -5621929196656850523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Barrel_17
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 125
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5769f35320dec2dc0800000000000000
+      internalID: -3662291803219978635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Barrel_18
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 125
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f247c6d5163e5720800000000000000
+      internalID: 2836764282715587312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Barrel_19
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 125
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 013c9d7aaf6745d90800000000000000
+      internalID: -7109927092781202672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Barrel_20
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 125
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c69074b9101df470800000000000000
+      internalID: 8429911780094940870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Barrel_21
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 125
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2a093972973ca310800000000000000
+      internalID: 1417569084953397806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Barrel_22
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 125
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7356fee71263dd90800000000000000
+      internalID: -7074202734736026756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Barrel_23
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 125
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6944cb7b063d6d90800000000000000
+      internalID: -7102961614344402580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Barrel_24
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 91
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ff48d92870fff050800000000000000
+      internalID: 5836648040984236025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Barrel_25
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 93
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97865a16357e47fa0800000000000000
+      internalID: -5803759674467194759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Barrel_26
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 94
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67714ba70f17a7a40800000000000000
+      internalID: 5366727183630079862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Barrel_0: -7069156189518518137
+      Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Barrel_1: 8935488714059012277
+      Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Barrel_10: -1715858435204950603
+      Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Barrel_11: 2532344018160229233
+      Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Barrel_12: -6668977668752482888
+      Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Barrel_13: -6950727471826255683
+      Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Barrel_14: 6666307191073469203
+      Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Barrel_15: 4702061478695609938
+      Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Barrel_16: -5621929196656850523
+      Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Barrel_17: -3662291803219978635
+      Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Barrel_18: 2836764282715587312
+      Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Barrel_19: -7109927092781202672
+      Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Barrel_2: 5534848196461236425
+      Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Barrel_20: 8429911780094940870
+      Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Barrel_21: 1417569084953397806
+      Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Barrel_22: -7074202734736026756
+      Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Barrel_23: -7102961614344402580
+      Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Barrel_24: 5836648040984236025
+      Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Barrel_25: -5803759674467194759
+      Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Barrel_26: 5366727183630079862
+      Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Barrel_3: -6259954629622333588
+      Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Barrel_4: -1884598178135075972
+      Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Barrel_5: 6492097398482289942
+      Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Barrel_6: -8019560294871029576
+      Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Barrel_7: -1686826519873388098
+      Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Barrel_8: 5217670452760152222
+      Arcade - Street Fighter 2 Super Street Fighter 2 - Bonus Stage Barrel_9: -5571507537897488869
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

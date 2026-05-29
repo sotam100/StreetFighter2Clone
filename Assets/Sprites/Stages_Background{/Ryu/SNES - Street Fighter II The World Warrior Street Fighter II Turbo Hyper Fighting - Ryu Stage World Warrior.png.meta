@@ -1,0 +1,634 @@
+fileFormatVersion: 2
+guid: 50c51bcfc6cf142568330b75a4cce402
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6459020670604341623
+    second: SNES - Street Fighter II The World Warrior Street Fighter II Turbo Hyper
+      Fighting - Ryu Stage World Warrior_0
+  - first:
+      213: -4755677939629185247
+    second: SNES - Street Fighter II The World Warrior Street Fighter II Turbo Hyper
+      Fighting - Ryu Stage World Warrior_1
+  - first:
+      213: -7754107201243444380
+    second: SNES - Street Fighter II The World Warrior Street Fighter II Turbo Hyper
+      Fighting - Ryu Stage World Warrior_2
+  - first:
+      213: -2213989542073494045
+    second: SNES - Street Fighter II The World Warrior Street Fighter II Turbo Hyper
+      Fighting - Ryu Stage World Warrior_3
+  - first:
+      213: 8052560712577275080
+    second: SNES - Street Fighter II The World Warrior Street Fighter II Turbo Hyper
+      Fighting - Ryu Stage World Warrior_4
+  - first:
+      213: -3593145628241815128
+    second: SNES - Street Fighter II The World Warrior Street Fighter II Turbo Hyper
+      Fighting - Ryu Stage World Warrior_5
+  - first:
+      213: -6992513682844592349
+    second: SNES - Street Fighter II The World Warrior Street Fighter II Turbo Hyper
+      Fighting - Ryu Stage World Warrior_6
+  - first:
+      213: -8565677328647504072
+    second: SNES - Street Fighter II The World Warrior Street Fighter II Turbo Hyper
+      Fighting - Ryu Stage World Warrior_7
+  - first:
+      213: -1836138743844444148
+    second: SNES - Street Fighter II The World Warrior Street Fighter II Turbo Hyper
+      Fighting - Ryu Stage World Warrior_8
+  - first:
+      213: 2325699759998651763
+    second: SNES - Street Fighter II The World Warrior Street Fighter II Turbo Hyper
+      Fighting - Ryu Stage World Warrior_9
+  - first:
+      213: -3872278622032855976
+    second: SNES - Street Fighter II The World Warrior Street Fighter II Turbo Hyper
+      Fighting - Ryu Stage World Warrior_10
+  - first:
+      213: 5076651141895237899
+    second: SNES - Street Fighter II The World Warrior Street Fighter II Turbo Hyper
+      Fighting - Ryu Stage World Warrior_11
+  - first:
+      213: -2397966982979078121
+    second: SNES - Street Fighter II The World Warrior Street Fighter II Turbo Hyper
+      Fighting - Ryu Stage World Warrior_12
+  - first:
+      213: -1176855564497907810
+    second: SNES - Street Fighter II The World Warrior Street Fighter II Turbo Hyper
+      Fighting - Ryu Stage World Warrior_13
+  - first:
+      213: 3726986381715919757
+    second: SNES - Street Fighter II The World Warrior Street Fighter II Turbo Hyper
+      Fighting - Ryu Stage World Warrior_14
+  - first:
+      213: 5354238666051807836
+    second: SNES - Street Fighter II The World Warrior Street Fighter II Turbo Hyper
+      Fighting - Ryu Stage World Warrior_15
+  - first:
+      213: -8674137862670395831
+    second: SNES - Street Fighter II The World Warrior Street Fighter II Turbo Hyper
+      Fighting - Ryu Stage World Warrior_16
+  - first:
+      213: 7016573010576343734
+    second: SNES - Street Fighter II The World Warrior Street Fighter II Turbo Hyper
+      Fighting - Ryu Stage World Warrior_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SNES - Street Fighter II The World Warrior Street Fighter II Turbo Hyper
+        Fighting - Ryu Stage World Warrior_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 679
+        width: 514
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98e09b3ebe2fc56a0800000000000000
+      internalID: -6459020670604341623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Street Fighter II The World Warrior Street Fighter II Turbo Hyper
+        Fighting - Ryu Stage World Warrior_1
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 711
+        width: 418
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 127ad3e4c10700eb0800000000000000
+      internalID: -4755677939629185247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Street Fighter II The World Warrior Street Fighter II Turbo Hyper
+        Fighting - Ryu Stage World Warrior_2
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 551
+        width: 418
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46b069f5590e36490800000000000000
+      internalID: -7754107201243444380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Street Fighter II The World Warrior Street Fighter II Turbo Hyper
+        Fighting - Ryu Stage World Warrior_3
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 455
+        width: 514
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e59740ed345641e0800000000000000
+      internalID: -2213989542073494045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Street Fighter II The World Warrior Street Fighter II Turbo Hyper
+        Fighting - Ryu Stage World Warrior_4
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 367
+        width: 229
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c45f65cd4170cf60800000000000000
+      internalID: 8052560712577275080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Street Fighter II The World Warrior Street Fighter II Turbo Hyper
+        Fighting - Ryu Stage World Warrior_5
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 367
+        width: 274
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a91662a615922ec0800000000000000
+      internalID: -3593145628241815128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Street Fighter II The World Warrior Street Fighter II Turbo Hyper
+        Fighting - Ryu Stage World Warrior_6
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 354
+        width: 58
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3275df67ad995fe90800000000000000
+      internalID: -6992513682844592349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Street Fighter II The World Warrior Street Fighter II Turbo Hyper
+        Fighting - Ryu Stage World Warrior_7
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 343
+        width: 50
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83f395d3ad9902980800000000000000
+      internalID: -8565677328647504072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Street Fighter II The World Warrior Street Fighter II Turbo Hyper
+        Fighting - Ryu Stage World Warrior_8
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 256
+        width: 23
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c08e1de6a89b486e0800000000000000
+      internalID: -1836138743844444148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Street Fighter II The World Warrior Street Fighter II Turbo Hyper
+        Fighting - Ryu Stage World Warrior_9
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 256
+        width: 23
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37d4ee01c9b864020800000000000000
+      internalID: 2325699759998651763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Street Fighter II The World Warrior Street Fighter II Turbo Hyper
+        Fighting - Ryu Stage World Warrior_10
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 136
+        width: 23
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85c74660c17e24ac0800000000000000
+      internalID: -3872278622032855976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Street Fighter II The World Warrior Street Fighter II Turbo Hyper
+        Fighting - Ryu Stage World Warrior_11
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 199
+        width: 10
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b013f39f053e37640800000000000000
+      internalID: 5076651141895237899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Street Fighter II The World Warrior Street Fighter II Turbo Hyper
+        Fighting - Ryu Stage World Warrior_12
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 199
+        width: 9
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 718ba64ebb5b8bed0800000000000000
+      internalID: -2397966982979078121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Street Fighter II The World Warrior Street Fighter II Turbo Hyper
+        Fighting - Ryu Stage World Warrior_13
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 199
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9f092e6918faafe0800000000000000
+      internalID: -1176855564497907810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Street Fighter II The World Warrior Street Fighter II Turbo Hyper
+        Fighting - Ryu Stage World Warrior_14
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 199
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8355e42e5ae8b330800000000000000
+      internalID: 3726986381715919757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Street Fighter II The World Warrior Street Fighter II Turbo Hyper
+        Fighting - Ryu Stage World Warrior_15
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 199
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5aeda4e2b31e4a40800000000000000
+      internalID: 5354238666051807836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Street Fighter II The World Warrior Street Fighter II Turbo Hyper
+        Fighting - Ryu Stage World Warrior_16
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 95
+        width: 79
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 946d3ca42954f9780800000000000000
+      internalID: -8674137862670395831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Street Fighter II The World Warrior Street Fighter II Turbo Hyper
+        Fighting - Ryu Stage World Warrior_17
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 136
+        width: 23
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b20ffb4affdf5160800000000000000
+      internalID: 7016573010576343734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SNES - Street Fighter II The World Warrior Street Fighter II Turbo Hyper Fighting - Ryu Stage World Warrior_0: -6459020670604341623
+      SNES - Street Fighter II The World Warrior Street Fighter II Turbo Hyper Fighting - Ryu Stage World Warrior_1: -4755677939629185247
+      SNES - Street Fighter II The World Warrior Street Fighter II Turbo Hyper Fighting - Ryu Stage World Warrior_10: -3872278622032855976
+      SNES - Street Fighter II The World Warrior Street Fighter II Turbo Hyper Fighting - Ryu Stage World Warrior_11: 5076651141895237899
+      SNES - Street Fighter II The World Warrior Street Fighter II Turbo Hyper Fighting - Ryu Stage World Warrior_12: -2397966982979078121
+      SNES - Street Fighter II The World Warrior Street Fighter II Turbo Hyper Fighting - Ryu Stage World Warrior_13: -1176855564497907810
+      SNES - Street Fighter II The World Warrior Street Fighter II Turbo Hyper Fighting - Ryu Stage World Warrior_14: 3726986381715919757
+      SNES - Street Fighter II The World Warrior Street Fighter II Turbo Hyper Fighting - Ryu Stage World Warrior_15: 5354238666051807836
+      SNES - Street Fighter II The World Warrior Street Fighter II Turbo Hyper Fighting - Ryu Stage World Warrior_16: -8674137862670395831
+      SNES - Street Fighter II The World Warrior Street Fighter II Turbo Hyper Fighting - Ryu Stage World Warrior_17: 7016573010576343734
+      SNES - Street Fighter II The World Warrior Street Fighter II Turbo Hyper Fighting - Ryu Stage World Warrior_2: -7754107201243444380
+      SNES - Street Fighter II The World Warrior Street Fighter II Turbo Hyper Fighting - Ryu Stage World Warrior_3: -2213989542073494045
+      SNES - Street Fighter II The World Warrior Street Fighter II Turbo Hyper Fighting - Ryu Stage World Warrior_4: 8052560712577275080
+      SNES - Street Fighter II The World Warrior Street Fighter II Turbo Hyper Fighting - Ryu Stage World Warrior_5: -3593145628241815128
+      SNES - Street Fighter II The World Warrior Street Fighter II Turbo Hyper Fighting - Ryu Stage World Warrior_6: -6992513682844592349
+      SNES - Street Fighter II The World Warrior Street Fighter II Turbo Hyper Fighting - Ryu Stage World Warrior_7: -8565677328647504072
+      SNES - Street Fighter II The World Warrior Street Fighter II Turbo Hyper Fighting - Ryu Stage World Warrior_8: -1836138743844444148
+      SNES - Street Fighter II The World Warrior Street Fighter II Turbo Hyper Fighting - Ryu Stage World Warrior_9: 2325699759998651763
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1118 @@
+fileFormatVersion: 2
+guid: e19b7b3a053844eb5a2d73611b7b49d0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -920841577088019011
+    second: SNES - Super Street Fighter II The New Challengers - M Bison Stage_0
+  - first:
+      213: 1416922944611905629
+    second: SNES - Super Street Fighter II The New Challengers - M Bison Stage_1
+  - first:
+      213: -44172754984738071
+    second: SNES - Super Street Fighter II The New Challengers - M Bison Stage_2
+  - first:
+      213: 3687765611768353269
+    second: SNES - Super Street Fighter II The New Challengers - M Bison Stage_3
+  - first:
+      213: 5878404822673911299
+    second: SNES - Super Street Fighter II The New Challengers - M Bison Stage_4
+  - first:
+      213: -6958271211829441594
+    second: SNES - Super Street Fighter II The New Challengers - M Bison Stage_5
+  - first:
+      213: 2712332340581454810
+    second: SNES - Super Street Fighter II The New Challengers - M Bison Stage_6
+  - first:
+      213: -4735213634229059657
+    second: SNES - Super Street Fighter II The New Challengers - M Bison Stage_7
+  - first:
+      213: 4404173366806172557
+    second: SNES - Super Street Fighter II The New Challengers - M Bison Stage_8
+  - first:
+      213: -7716795810935902464
+    second: SNES - Super Street Fighter II The New Challengers - M Bison Stage_9
+  - first:
+      213: -4974208387189056546
+    second: SNES - Super Street Fighter II The New Challengers - M Bison Stage_10
+  - first:
+      213: 352933635903190550
+    second: SNES - Super Street Fighter II The New Challengers - M Bison Stage_11
+  - first:
+      213: 6339640757815859314
+    second: SNES - Super Street Fighter II The New Challengers - M Bison Stage_12
+  - first:
+      213: -3980740579581167402
+    second: SNES - Super Street Fighter II The New Challengers - M Bison Stage_13
+  - first:
+      213: -5845640409511198063
+    second: SNES - Super Street Fighter II The New Challengers - M Bison Stage_14
+  - first:
+      213: 5607703399479163502
+    second: SNES - Super Street Fighter II The New Challengers - M Bison Stage_15
+  - first:
+      213: -8719058809474596613
+    second: SNES - Super Street Fighter II The New Challengers - M Bison Stage_16
+  - first:
+      213: 2849320799879191046
+    second: SNES - Super Street Fighter II The New Challengers - M Bison Stage_17
+  - first:
+      213: 8963334711509799781
+    second: SNES - Super Street Fighter II The New Challengers - M Bison Stage_18
+  - first:
+      213: 2196681815905749947
+    second: SNES - Super Street Fighter II The New Challengers - M Bison Stage_19
+  - first:
+      213: -8635642648586265441
+    second: SNES - Super Street Fighter II The New Challengers - M Bison Stage_20
+  - first:
+      213: 1349229155668932866
+    second: SNES - Super Street Fighter II The New Challengers - M Bison Stage_21
+  - first:
+      213: -6670091797413298817
+    second: SNES - Super Street Fighter II The New Challengers - M Bison Stage_22
+  - first:
+      213: 2038452455421331478
+    second: SNES - Super Street Fighter II The New Challengers - M Bison Stage_23
+  - first:
+      213: 4986415094173180969
+    second: SNES - Super Street Fighter II The New Challengers - M Bison Stage_24
+  - first:
+      213: 3611613467332689093
+    second: SNES - Super Street Fighter II The New Challengers - M Bison Stage_25
+  - first:
+      213: -7771720267724483841
+    second: SNES - Super Street Fighter II The New Challengers - M Bison Stage_26
+  - first:
+      213: -3401468298895808630
+    second: SNES - Super Street Fighter II The New Challengers - M Bison Stage_27
+  - first:
+      213: -3548438065449378282
+    second: SNES - Super Street Fighter II The New Challengers - M Bison Stage_28
+  - first:
+      213: 2767218908281328490
+    second: SNES - Super Street Fighter II The New Challengers - M Bison Stage_29
+  - first:
+      213: 1874698928431354876
+    second: SNES - Super Street Fighter II The New Challengers - M Bison Stage_30
+  - first:
+      213: -6472682954757803452
+    second: SNES - Super Street Fighter II The New Challengers - M Bison Stage_31
+  - first:
+      213: -6934733035274836964
+    second: SNES - Super Street Fighter II The New Challengers - M Bison Stage_32
+  - first:
+      213: -6642209774734274557
+    second: SNES - Super Street Fighter II The New Challengers - M Bison Stage_33
+  - first:
+      213: 1873909512622881281
+    second: SNES - Super Street Fighter II The New Challengers - M Bison Stage_34
+  - first:
+      213: 6377169884851862032
+    second: SNES - Super Street Fighter II The New Challengers - M Bison Stage_35
+  - first:
+      213: 4409045557439309162
+    second: SNES - Super Street Fighter II The New Challengers - M Bison Stage_36
+  - first:
+      213: 2977748637232697994
+    second: SNES - Super Street Fighter II The New Challengers - M Bison Stage_37
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - M Bison Stage_0
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 549
+        width: 450
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db51247e6738833f0800000000000000
+      internalID: -920841577088019011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - M Bison Stage_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 365
+        width: 512
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5071b339ebe9a310800000000000000
+      internalID: 1416922944611905629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - M Bison Stage_2
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 199
+        width: 22
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e262660d11136ff0800000000000000
+      internalID: -44172754984738071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - M Bison Stage_3
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 189
+        width: 20
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f19a5809439d2330800000000000000
+      internalID: 3687765611768353269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - M Bison Stage_4
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 189
+        width: 21
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30eeb658a0a449150800000000000000
+      internalID: 5878404822673911299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - M Bison Stage_5
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 189
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cb441803314f6f90800000000000000
+      internalID: -6958271211829441594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - M Bison Stage_6
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 185
+        width: 32
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad35929a4e324a520800000000000000
+      internalID: 2712332340581454810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - M Bison Stage_7
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 214
+        width: 72
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bfb034b944294eb0800000000000000
+      internalID: -4735213634229059657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - M Bison Stage_8
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 189
+        width: 22
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d83d7b1c754ce1d30800000000000000
+      internalID: 4404173366806172557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - M Bison Stage_9
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 189
+        width: 23
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00f61f4681f68e490800000000000000
+      internalID: -7716795810935902464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - M Bison Stage_10
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 189
+        width: 20
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edbd3da83df08fab0800000000000000
+      internalID: -4974208387189056546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - M Bison Stage_11
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 190
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 616fb4d954fd5e400800000000000000
+      internalID: 352933635903190550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - M Bison Stage_12
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 199
+        width: 22
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 278d33d2eadeaf750800000000000000
+      internalID: 6339640757815859314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - M Bison Stage_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 49
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d8f413a88191c8c0800000000000000
+      internalID: -3980740579581167402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - M Bison Stage_14
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 120
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1928a62e40d10eea0800000000000000
+      internalID: -5845640409511198063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - M Bison Stage_15
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 87
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6ab4bbe78092dd40800000000000000
+      internalID: 5607703399479163502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - M Bison Stage_16
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 87
+        width: 34
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf0c685553eaff680800000000000000
+      internalID: -8719058809474596613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - M Bison Stage_17
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 93
+        width: 41
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60a5eefcb22da8720800000000000000
+      internalID: 2849320799879191046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - M Bison Stage_18
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 93
+        width: 23
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 563587a2e69246c70800000000000000
+      internalID: 8963334711509799781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - M Bison Stage_19
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 93
+        width: 20
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbb4f99197e2c7e10800000000000000
+      internalID: 2196681815905749947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - M Bison Stage_20
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 86
+        width: 32
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9c5dc3c3c8082880800000000000000
+      internalID: -8635642648586265441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - M Bison Stage_21
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 86
+        width: 32
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2093f30c4cc69b210800000000000000
+      internalID: 1349229155668932866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - M Bison Stage_22
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 93
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7dfee399d21f63a0800000000000000
+      internalID: -6670091797413298817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - M Bison Stage_23
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 93
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61849e045b90a4c10800000000000000
+      internalID: 2038452455421331478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - M Bison Stage_24
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 102
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 924a6d6eb1e433540800000000000000
+      internalID: 4986415094173180969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - M Bison Stage_25
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 86
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ccb16a30570f1230800000000000000
+      internalID: 3611613467332689093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - M Bison Stage_26
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 69
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff21494c79d452490800000000000000
+      internalID: -7771720267724483841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - M Bison Stage_27
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 29
+        width: 405
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8720999a9e8bc0d0800000000000000
+      internalID: -3401468298895808630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - M Bison Stage_28
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 0
+        width: 50
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61e5a61416a61cec0800000000000000
+      internalID: -3548438065449378282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - M Bison Stage_29
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 6
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a635adb8fe2276620800000000000000
+      internalID: 2767218908281328490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - M Bison Stage_30
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 4
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf3d4f92eb4440a10800000000000000
+      internalID: 1874698928431354876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - M Bison Stage_31
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 6
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4427fe975296c26a0800000000000000
+      internalID: -6472682954757803452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - M Bison Stage_32
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 4
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c14e644db01e2cf90800000000000000
+      internalID: -6934733035274836964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - M Bison Stage_33
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 6
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 300165dd66122d3a0800000000000000
+      internalID: -6642209774734274557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - M Bison Stage_34
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 6
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10abc19f5c6710a10800000000000000
+      internalID: 1873909512622881281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - M Bison Stage_35
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 6
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01af9eaf832408850800000000000000
+      internalID: 6377169884851862032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - M Bison Stage_36
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 6
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a652fa90393103d30800000000000000
+      internalID: 4409045557439309162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - M Bison Stage_37
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 6
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8298a8db96135920800000000000000
+      internalID: 2977748637232697994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SNES - Super Street Fighter II The New Challengers - M Bison Stage_0: -920841577088019011
+      SNES - Super Street Fighter II The New Challengers - M Bison Stage_1: 1416922944611905629
+      SNES - Super Street Fighter II The New Challengers - M Bison Stage_10: -4974208387189056546
+      SNES - Super Street Fighter II The New Challengers - M Bison Stage_11: 352933635903190550
+      SNES - Super Street Fighter II The New Challengers - M Bison Stage_12: 6339640757815859314
+      SNES - Super Street Fighter II The New Challengers - M Bison Stage_13: -3980740579581167402
+      SNES - Super Street Fighter II The New Challengers - M Bison Stage_14: -5845640409511198063
+      SNES - Super Street Fighter II The New Challengers - M Bison Stage_15: 5607703399479163502
+      SNES - Super Street Fighter II The New Challengers - M Bison Stage_16: -8719058809474596613
+      SNES - Super Street Fighter II The New Challengers - M Bison Stage_17: 2849320799879191046
+      SNES - Super Street Fighter II The New Challengers - M Bison Stage_18: 8963334711509799781
+      SNES - Super Street Fighter II The New Challengers - M Bison Stage_19: 2196681815905749947
+      SNES - Super Street Fighter II The New Challengers - M Bison Stage_2: -44172754984738071
+      SNES - Super Street Fighter II The New Challengers - M Bison Stage_20: -8635642648586265441
+      SNES - Super Street Fighter II The New Challengers - M Bison Stage_21: 1349229155668932866
+      SNES - Super Street Fighter II The New Challengers - M Bison Stage_22: -6670091797413298817
+      SNES - Super Street Fighter II The New Challengers - M Bison Stage_23: 2038452455421331478
+      SNES - Super Street Fighter II The New Challengers - M Bison Stage_24: 4986415094173180969
+      SNES - Super Street Fighter II The New Challengers - M Bison Stage_25: 3611613467332689093
+      SNES - Super Street Fighter II The New Challengers - M Bison Stage_26: -7771720267724483841
+      SNES - Super Street Fighter II The New Challengers - M Bison Stage_27: -3401468298895808630
+      SNES - Super Street Fighter II The New Challengers - M Bison Stage_28: -3548438065449378282
+      SNES - Super Street Fighter II The New Challengers - M Bison Stage_29: 2767218908281328490
+      SNES - Super Street Fighter II The New Challengers - M Bison Stage_3: 3687765611768353269
+      SNES - Super Street Fighter II The New Challengers - M Bison Stage_30: 1874698928431354876
+      SNES - Super Street Fighter II The New Challengers - M Bison Stage_31: -6472682954757803452
+      SNES - Super Street Fighter II The New Challengers - M Bison Stage_32: -6934733035274836964
+      SNES - Super Street Fighter II The New Challengers - M Bison Stage_33: -6642209774734274557
+      SNES - Super Street Fighter II The New Challengers - M Bison Stage_34: 1873909512622881281
+      SNES - Super Street Fighter II The New Challengers - M Bison Stage_35: 6377169884851862032
+      SNES - Super Street Fighter II The New Challengers - M Bison Stage_36: 4409045557439309162
+      SNES - Super Street Fighter II The New Challengers - M Bison Stage_37: 2977748637232697994
+      SNES - Super Street Fighter II The New Challengers - M Bison Stage_4: 5878404822673911299
+      SNES - Super Street Fighter II The New Challengers - M Bison Stage_5: -6958271211829441594
+      SNES - Super Street Fighter II The New Challengers - M Bison Stage_6: 2712332340581454810
+      SNES - Super Street Fighter II The New Challengers - M Bison Stage_7: -4735213634229059657
+      SNES - Super Street Fighter II The New Challengers - M Bison Stage_8: 4404173366806172557
+      SNES - Super Street Fighter II The New Challengers - M Bison Stage_9: -7716795810935902464
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

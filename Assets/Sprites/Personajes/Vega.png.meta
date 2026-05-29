@@ -1,0 +1,4758 @@
+fileFormatVersion: 2
+guid: 33907a4cf73a54b9281185a3b6d5ddd0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7556540770020574473
+    second: Vega_0
+  - first:
+      213: -1966168191568606229
+    second: Vega_1
+  - first:
+      213: 2530145943157385678
+    second: Vega_2
+  - first:
+      213: 1218623838870794296
+    second: Vega_3
+  - first:
+      213: 2650013126945595525
+    second: Vega_4
+  - first:
+      213: -119165208282364195
+    second: Vega_5
+  - first:
+      213: 1127562635687194512
+    second: Vega_6
+  - first:
+      213: 7273623406069583855
+    second: Vega_7
+  - first:
+      213: 5080666731522887066
+    second: Vega_8
+  - first:
+      213: 8162043167242717372
+    second: Vega_9
+  - first:
+      213: 3334358951057256428
+    second: Vega_10
+  - first:
+      213: -3523465501301561568
+    second: Vega_11
+  - first:
+      213: 4343095339990611358
+    second: Vega_12
+  - first:
+      213: -5443075765292220434
+    second: Vega_13
+  - first:
+      213: -846398487310481477
+    second: Vega_14
+  - first:
+      213: 7484396958713852491
+    second: Vega_15
+  - first:
+      213: -2714023396568040861
+    second: Vega_16
+  - first:
+      213: 5453724940448438272
+    second: Vega_17
+  - first:
+      213: -4230810512722123563
+    second: Vega_18
+  - first:
+      213: -8229720208728867812
+    second: Vega_19
+  - first:
+      213: 4847277522305019453
+    second: Vega_20
+  - first:
+      213: 1089811395894053059
+    second: Vega_21
+  - first:
+      213: 9011064314204181725
+    second: Vega_22
+  - first:
+      213: -8777674539182009384
+    second: Vega_23
+  - first:
+      213: 4609491692628752862
+    second: Vega_24
+  - first:
+      213: 8242820073305140621
+    second: Vega_25
+  - first:
+      213: 4993776589755998055
+    second: Vega_26
+  - first:
+      213: 4010509275405029673
+    second: Vega_27
+  - first:
+      213: -7837577684672026965
+    second: Vega_28
+  - first:
+      213: 1291416555777243762
+    second: Vega_29
+  - first:
+      213: 6426391680144974642
+    second: Vega_30
+  - first:
+      213: -7575912880064074511
+    second: Vega_31
+  - first:
+      213: 5189433172390374960
+    second: Vega_32
+  - first:
+      213: 6042634985573683958
+    second: Vega_33
+  - first:
+      213: -2736164713654888151
+    second: Vega_34
+  - first:
+      213: -4402959101058782969
+    second: Vega_35
+  - first:
+      213: 9132016656758783094
+    second: Vega_36
+  - first:
+      213: 6904457063748695530
+    second: Vega_37
+  - first:
+      213: -4263926687009883904
+    second: Vega_38
+  - first:
+      213: 6561004694735546858
+    second: Vega_39
+  - first:
+      213: -2082278675692544353
+    second: Vega_40
+  - first:
+      213: 5568998926915498442
+    second: Vega_41
+  - first:
+      213: 7760656796567194018
+    second: Vega_42
+  - first:
+      213: 5680040573896984946
+    second: Vega_43
+  - first:
+      213: 5289869563212280248
+    second: Vega_44
+  - first:
+      213: -4666233650356026542
+    second: Vega_45
+  - first:
+      213: 4299678087187374618
+    second: Vega_46
+  - first:
+      213: 784562835328429691
+    second: Vega_47
+  - first:
+      213: -1747119086088539186
+    second: Vega_48
+  - first:
+      213: 923135999968709132
+    second: Vega_49
+  - first:
+      213: 1905457941963438073
+    second: Vega_50
+  - first:
+      213: 1444035231873412953
+    second: Vega_51
+  - first:
+      213: 6393581540942348488
+    second: Vega_52
+  - first:
+      213: -163968045287091068
+    second: Vega_53
+  - first:
+      213: 8190053046873486521
+    second: Vega_54
+  - first:
+      213: 5939714235178851517
+    second: Vega_55
+  - first:
+      213: -6909139607012467785
+    second: Vega_56
+  - first:
+      213: -2913670614958083764
+    second: Vega_57
+  - first:
+      213: 6543907119111988956
+    second: Vega_58
+  - first:
+      213: -6760492148191941999
+    second: Vega_59
+  - first:
+      213: -5248592968419899418
+    second: Vega_60
+  - first:
+      213: -3527178304077967559
+    second: Vega_61
+  - first:
+      213: -6715815774077817592
+    second: Vega_62
+  - first:
+      213: -3174701311549580947
+    second: Vega_63
+  - first:
+      213: 1824371454968494499
+    second: Vega_64
+  - first:
+      213: 6292923616221128539
+    second: Vega_65
+  - first:
+      213: 3111745259463691165
+    second: Vega_66
+  - first:
+      213: 6512575743897606286
+    second: Vega_67
+  - first:
+      213: -1186352961319536571
+    second: Vega_68
+  - first:
+      213: -6500545154788578431
+    second: Vega_69
+  - first:
+      213: -2898518720174157076
+    second: Vega_70
+  - first:
+      213: 1003716094176321836
+    second: Vega_71
+  - first:
+      213: 7920606325514840288
+    second: Vega_72
+  - first:
+      213: -3172022006612646016
+    second: Vega_73
+  - first:
+      213: -4533158826322037780
+    second: Vega_74
+  - first:
+      213: 7512710047573785702
+    second: Vega_75
+  - first:
+      213: 474712107076837422
+    second: Vega_76
+  - first:
+      213: 3531469494146445187
+    second: Vega_77
+  - first:
+      213: -7363655097507943586
+    second: Vega_78
+  - first:
+      213: -9014924088053461725
+    second: Vega_79
+  - first:
+      213: 2796925676892481973
+    second: Vega_80
+  - first:
+      213: -40147905361621623
+    second: Vega_81
+  - first:
+      213: -8568782548429753270
+    second: Vega_82
+  - first:
+      213: 3505556147359781971
+    second: Vega_83
+  - first:
+      213: -7801276242762811197
+    second: Vega_84
+  - first:
+      213: 6711752305610470984
+    second: Vega_85
+  - first:
+      213: 8812838015608742841
+    second: Vega_86
+  - first:
+      213: 3514019021399082744
+    second: Vega_87
+  - first:
+      213: 2352398808298849082
+    second: Vega_88
+  - first:
+      213: -3669619878329730527
+    second: Vega_89
+  - first:
+      213: -3865723860670666269
+    second: Vega_90
+  - first:
+      213: -1893986734559215442
+    second: Vega_91
+  - first:
+      213: -778027850849880400
+    second: Vega_92
+  - first:
+      213: 9056550529096745071
+    second: Vega_93
+  - first:
+      213: 4512361374825364812
+    second: Vega_94
+  - first:
+      213: 4600128871175035052
+    second: Vega_95
+  - first:
+      213: -8991788394290594879
+    second: Vega_96
+  - first:
+      213: -1177336896335330719
+    second: Vega_97
+  - first:
+      213: -7461263476494723470
+    second: Vega_98
+  - first:
+      213: -7021764710118627821
+    second: Vega_99
+  - first:
+      213: 8261463951372800924
+    second: Vega_100
+  - first:
+      213: -1707496753526444051
+    second: Vega_101
+  - first:
+      213: -3982974032730611504
+    second: Vega_102
+  - first:
+      213: -393925202915851644
+    second: Vega_103
+  - first:
+      213: 2098751972293523108
+    second: Vega_104
+  - first:
+      213: -421684607168597705
+    second: Vega_105
+  - first:
+      213: 4123099321470447735
+    second: Vega_106
+  - first:
+      213: -3267592097048065836
+    second: Vega_107
+  - first:
+      213: -7103764908015764271
+    second: Vega_108
+  - first:
+      213: 1908185175252075347
+    second: Vega_109
+  - first:
+      213: 1411653417426714867
+    second: Vega_110
+  - first:
+      213: 6391210232643118273
+    second: Vega_111
+  - first:
+      213: 4282051922695001702
+    second: Vega_112
+  - first:
+      213: -6727482668631186443
+    second: Vega_113
+  - first:
+      213: 4000531136568746590
+    second: Vega_114
+  - first:
+      213: -6030078971255252254
+    second: Vega_115
+  - first:
+      213: -2422675834806083107
+    second: Vega_116
+  - first:
+      213: -6733316020249244600
+    second: Vega_117
+  - first:
+      213: 4830773325686575745
+    second: Vega_118
+  - first:
+      213: -6411091957030941250
+    second: Vega_119
+  - first:
+      213: 6013342550144034408
+    second: Vega_120
+  - first:
+      213: -2315233358069267395
+    second: Vega_121
+  - first:
+      213: -2124833885289336765
+    second: Vega_122
+  - first:
+      213: -3027167849292258488
+    second: Vega_123
+  - first:
+      213: 5048065902751637685
+    second: Vega_124
+  - first:
+      213: 1636608263874935211
+    second: Vega_125
+  - first:
+      213: -7978583429836505819
+    second: Vega_126
+  - first:
+      213: 1951672270959060666
+    second: Vega_127
+  - first:
+      213: 529685414681957130
+    second: Vega_128
+  - first:
+      213: 4613567460942603113
+    second: Vega_129
+  - first:
+      213: -2014046657764958967
+    second: Vega_130
+  - first:
+      213: -5208524904284689675
+    second: Vega_131
+  - first:
+      213: 3349310331173158091
+    second: Vega_132
+  - first:
+      213: 2315978469169470508
+    second: Vega_133
+  - first:
+      213: -6790916679684045556
+    second: Vega_134
+  - first:
+      213: -7394042793568617803
+    second: Vega_135
+  - first:
+      213: 9155946921100072385
+    second: Vega_136
+  - first:
+      213: -5029073437853487841
+    second: Vega_137
+  - first:
+      213: -3230904234447400213
+    second: Vega_138
+  - first:
+      213: -503348062223761028
+    second: Vega_139
+  - first:
+      213: -7388668112234312721
+    second: Vega_140
+  - first:
+      213: -8287707486900630890
+    second: Vega_141
+  - first:
+      213: 1459850668385401055
+    second: Vega_142
+  - first:
+      213: 1957623017670223384
+    second: Vega_143
+  - first:
+      213: 97631667951555399
+    second: Vega_144
+  - first:
+      213: -283126157610821061
+    second: Vega_145
+  - first:
+      213: 6367537641590105232
+    second: Vega_146
+  - first:
+      213: 6255034011602356746
+    second: Vega_147
+  - first:
+      213: 6005459793330684156
+    second: Vega_148
+  - first:
+      213: 3507790548864710835
+    second: Vega_149
+  - first:
+      213: 2499335864859968596
+    second: Vega_150
+  - first:
+      213: -5128039917813403199
+    second: Vega_151
+  - first:
+      213: -1319062895454230581
+    second: Vega_152
+  - first:
+      213: 306159341151436422
+    second: Vega_153
+  - first:
+      213: -2415434286324687810
+    second: Vega_154
+  - first:
+      213: 3965563658889179666
+    second: Vega_155
+  - first:
+      213: -5021556240278756346
+    second: Vega_156
+  - first:
+      213: -1103423356642443081
+    second: Vega_157
+  - first:
+      213: 8607648512090746058
+    second: Vega_158
+  - first:
+      213: -9033134910980752408
+    second: Vega_159
+  - first:
+      213: 7279237976357590953
+    second: Vega_160
+  - first:
+      213: 100269806641440234
+    second: Vega_161
+  - first:
+      213: -1832736430991910212
+    second: Vega_162
+  - first:
+      213: -7932236377261842863
+    second: Vega_163
+  - first:
+      213: 2956903021038688965
+    second: Vega_164
+  - first:
+      213: 6140775188440368220
+    second: Vega_165
+  - first:
+      213: 5412611153539689008
+    second: Vega_166
+  - first:
+      213: 6982805116092451779
+    second: Vega_167
+  - first:
+      213: 5789922320327550073
+    second: Vega_168
+  - first:
+      213: -6128775945571763752
+    second: Vega_169
+  - first:
+      213: 8859059733929907079
+    second: Vega_170
+  - first:
+      213: 7793231771336383557
+    second: Vega_171
+  - first:
+      213: 2293286983566394297
+    second: Vega_172
+  - first:
+      213: -1916050143765219417
+    second: Vega_173
+  - first:
+      213: -37966237837209498
+    second: Vega_174
+  - first:
+      213: -570770755011307271
+    second: Vega_175
+  - first:
+      213: 1739952711759107924
+    second: Vega_176
+  - first:
+      213: -6468395931497426616
+    second: Vega_177
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Vega_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1161
+        width: 60
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7faba28b436c12790800000000000000
+      internalID: -7556540770020574473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_1
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1161
+        width: 60
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beb81ec6274c6b4e0800000000000000
+      internalID: -1966168191568606229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_2
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1161
+        width: 60
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec9aacb7452ec1320800000000000000
+      internalID: 2530145943157385678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_3
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 1161
+        width: 60
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83077b6cceb69e010800000000000000
+      internalID: 1218623838870794296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_4
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 1161
+        width: 60
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 580e6b906ecb6c420800000000000000
+      internalID: 2650013126945595525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_5
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 1161
+        width: 60
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd68ebadfd3a85ef0800000000000000
+      internalID: -119165208282364195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_6
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 1161
+        width: 60
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09f632a3e38e5af00800000000000000
+      internalID: 1127562635687194512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_7
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 1161
+        width: 60
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fef8eb453f911f460800000000000000
+      internalID: 7273623406069583855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_8
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 1162
+        width: 60
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9d019a4977228640800000000000000
+      internalID: 5080666731522887066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_9
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 1161
+        width: 37
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb808e82407654170800000000000000
+      internalID: 8162043167242717372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_10
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 1176
+        width: 47
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cef696fbcc5064e20800000000000000
+      internalID: 3334358951057256428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_11
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 1161
+        width: 60
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 027a3907bc22a1fc0800000000000000
+      internalID: -3523465501301561568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_12
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 1161
+        width: 37
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e957bc57336c54c30800000000000000
+      internalID: 4343095339990611358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_13
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 1179
+        width: 52
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eef383c1e6f4674b0800000000000000
+      internalID: -5443075765292220434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_14
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 1187
+        width: 46
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb74e696f0df044f0800000000000000
+      internalID: -846398487310481477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_15
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 1185
+        width: 62
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b423722416bedd760800000000000000
+      internalID: 7484396958713852491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_16
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 1161
+        width: 37
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36a767fa91ad55ad0800000000000000
+      internalID: -2714023396568040861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_17
+      rect:
+        serializedVersion: 2
+        x: 1231
+        y: 1161
+        width: 60
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0081e1230f58fab40800000000000000
+      internalID: 5453724940448438272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_18
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 1161
+        width: 60
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d4a53521442945c0800000000000000
+      internalID: -4230810512722123563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_19
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 1161
+        width: 60
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1cbcd5b2192acd80800000000000000
+      internalID: -8229720208728867812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_20
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 1161
+        width: 56
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3ee9bc793df44340800000000000000
+      internalID: 4847277522305019453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_21
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1042
+        width: 60
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c80074c0b9cf1f00800000000000000
+      internalID: 1089811395894053059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_22
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1042
+        width: 94
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd4d658404bbd0d70800000000000000
+      internalID: 9011064314204181725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_23
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 1043
+        width: 60
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d3d012438f6f2680800000000000000
+      internalID: -8777674539182009384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_24
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 1043
+        width: 68
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed93046b54438ff30800000000000000
+      internalID: 4609491692628752862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_25
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 1043
+        width: 67
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8defc03f21646270800000000000000
+      internalID: 8242820073305140621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_26
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 1043
+        width: 115
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76f5118a9557d4540800000000000000
+      internalID: 4993776589755998055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_27
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 1043
+        width: 80
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9211de8ffe038a730800000000000000
+      internalID: 4010509275405029673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_28
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 1043
+        width: 68
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba6689dfe945b3390800000000000000
+      internalID: -7837577684672026965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_29
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 1042
+        width: 60
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27a3928e3880ce110800000000000000
+      internalID: 1291416555777243762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_30
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 1042
+        width: 65
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23321924f212f2950800000000000000
+      internalID: 6426391680144974642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_31
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 1042
+        width: 77
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fc697edf53fcd690800000000000000
+      internalID: -7575912880064074511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_32
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 1042
+        width: 124
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03ee4f9b9f1940840800000000000000
+      internalID: 5189433172390374960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_33
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 1042
+        width: 67
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f2977e0180cbd350800000000000000
+      internalID: 6042634985573683958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_34
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 1042
+        width: 60
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92954a390b0370ad0800000000000000
+      internalID: -2736164713654888151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_35
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 1042
+        width: 60
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70961d4860c85e2c0800000000000000
+      internalID: -4402959101058782969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_36
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 1042
+        width: 60
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67cbe0d04c07bbe70800000000000000
+      internalID: 9132016656758783094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_37
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 1042
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae57dab3e1f81df50800000000000000
+      internalID: 6904457063748695530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_38
+      rect:
+        serializedVersion: 2
+        x: 1498
+        y: 1042
+        width: 60
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 009b778f44d73d4c0800000000000000
+      internalID: -4263926687009883904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_39
+      rect:
+        serializedVersion: 2
+        x: 1561
+        y: 1042
+        width: 60
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae9e167120f5d0b50800000000000000
+      internalID: 6561004694735546858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_40
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 900
+        width: 60
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9e99fba3924a13e0800000000000000
+      internalID: -2082278675692544353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_41
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 900
+        width: 67
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac17459a40f094d40800000000000000
+      internalID: 5568998926915498442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_42
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 908
+        width: 74
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a9cb1f1d3463bb60800000000000000
+      internalID: 7760656796567194018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_43
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 901
+        width: 60
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2798feccece83de40800000000000000
+      internalID: 5680040573896984946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_44
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 900
+        width: 69
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b13b6f3754696940800000000000000
+      internalID: 5289869563212280248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_45
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 900
+        width: 94
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2530e8fb7353e3fb0800000000000000
+      internalID: -4666233650356026542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_46
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 900
+        width: 69
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a12a55b80768bab30800000000000000
+      internalID: 4299678087187374618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_47
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 900
+        width: 60
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7e69bfedb353ea00800000000000000
+      internalID: 784562835328429691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_48
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 900
+        width: 69
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec33365a27cf0c7e0800000000000000
+      internalID: -1747119086088539186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_49
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 900
+        width: 94
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0a828d0d43afcc00800000000000000
+      internalID: 923135999968709132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_50
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 900
+        width: 69
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f77d2517eb817a10800000000000000
+      internalID: 1905457941963438073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_51
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 900
+        width: 60
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95fa6fe746e3a0410800000000000000
+      internalID: 1444035231873412953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_52
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 900
+        width: 60
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c00d5e69809ab850800000000000000
+      internalID: 6393581540942348488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_53
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 900
+        width: 65
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 484d52a7ee779bdf0800000000000000
+      internalID: -163968045287091068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_54
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 900
+        width: 60
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b4ff767ad9e8a170800000000000000
+      internalID: 8190053046873486521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_55
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 900
+        width: 60
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbc9a2f70aa1e6250800000000000000
+      internalID: 5939714235178851517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_56
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 900
+        width: 84
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bb9074322ecd10a0800000000000000
+      internalID: -6909139607012467785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_57
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 900
+        width: 60
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c41fde253009097d0800000000000000
+      internalID: -2913670614958083764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_58
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 792
+        width: 59
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd6e1dd8ad0a0da50800000000000000
+      internalID: 6543907119111988956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_59
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 792
+        width: 69
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19aa338b538ed22a0800000000000000
+      internalID: -6760492148191941999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_60
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 792
+        width: 105
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e708b2e0804927b0800000000000000
+      internalID: -5248592968419899418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_61
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 792
+        width: 69
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93fc7fd2502fc0fc0800000000000000
+      internalID: -3527178304077967559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_62
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 792
+        width: 59
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80d6029a221acc2a0800000000000000
+      internalID: -6715815774077817592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_63
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 792
+        width: 59
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d69de193af131f3d0800000000000000
+      internalID: -3174701311549580947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_64
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 792
+        width: 69
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a972cf1c28715910800000000000000
+      internalID: 1824371454968494499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_65
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 792
+        width: 99
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b57e68700b4f45750800000000000000
+      internalID: 6292923616221128539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_66
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 792
+        width: 69
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9bc6d5a3d32f2b20800000000000000
+      internalID: 3111745259463691165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_67
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 792
+        width: 59
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8897db4221516a50800000000000000
+      internalID: 6512575743897606286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_68
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 792
+        width: 62
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 548f05a644a398fe0800000000000000
+      internalID: -1186352961319536571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_69
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 792
+        width: 60
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18ba0728f9c69c5a0800000000000000
+      internalID: -6500545154788578431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_70
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 792
+        width: 62
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce2133db49466c7d0800000000000000
+      internalID: -2898518720174157076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_71
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 790
+        width: 72
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c21e8b0487aeded00800000000000000
+      internalID: 1003716094176321836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_72
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 792
+        width: 60
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e82606ec75abed60800000000000000
+      internalID: 7920606325514840288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_73
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 673
+        width: 50
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 087a1248ac6baf3d0800000000000000
+      internalID: -3172022006612646016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_74
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 673
+        width: 79
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce3f5aea01cf611c0800000000000000
+      internalID: -4533158826322037780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_75
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 673
+        width: 50
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66cb426fbf1824860800000000000000
+      internalID: 7512710047573785702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_76
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 682
+        width: 47
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2064e07524869600800000000000000
+      internalID: 474712107076837422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_77
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 682
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38f2abd5bcc420130800000000000000
+      internalID: 3531469494146445187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_78
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 682
+        width: 47
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5b6b8004ba0fc990800000000000000
+      internalID: -7363655097507943586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_79
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 682
+        width: 47
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32d06761e4e84e280800000000000000
+      internalID: -9014924088053461725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_80
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 673
+        width: 64
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b9685a951da0d620800000000000000
+      internalID: 2796925676892481973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_81
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 682
+        width: 47
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98dc17a51bd517ff0800000000000000
+      internalID: -40147905361621623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_82
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 674
+        width: 47
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a44374beba1951980800000000000000
+      internalID: -8568782548429753270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_83
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 675
+        width: 65
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35411972ebc36a030800000000000000
+      internalID: 3505556147359781971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_84
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 674
+        width: 47
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c8bd63179c4cb390800000000000000
+      internalID: -7801276242762811197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_85
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 688
+        width: 47
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 846325c592fe42d50800000000000000
+      internalID: 6711752305610470984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_86
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 679
+        width: 68
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b3ea679b7d7d4a70800000000000000
+      internalID: 8812838015608742841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_87
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 688
+        width: 47
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f645709ead44c030800000000000000
+      internalID: 3514019021399082744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_88
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 688
+        width: 38
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3384baa04665a020800000000000000
+      internalID: 2352398808298849082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_89
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 551
+        width: 60
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12ab173c924e21dc0800000000000000
+      internalID: -3669619878329730527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_90
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 567
+        width: 74
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e929f451a03a5ac0800000000000000
+      internalID: -3865723860670666269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_91
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 558
+        width: 53
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea0cb45891537b5e0800000000000000
+      internalID: -1893986734559215442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_92
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 559
+        width: 46
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b67bb4bac3e335f0800000000000000
+      internalID: -778027850849880400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_93
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 559
+        width: 62
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f600039f8b45fad70800000000000000
+      internalID: 9056550529096745071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_94
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 551
+        width: 59
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4db8ac43c02f9e30800000000000000
+      internalID: 4512361374825364812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_95
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 551
+        width: 69
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca81867f5d0f6df30800000000000000
+      internalID: 4600128871175035052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_96
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 551
+        width: 99
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cb34de8810c63380800000000000000
+      internalID: -8991788394290594879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_97
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 551
+        width: 69
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 162c8f0a45249afe0800000000000000
+      internalID: -1177336896335330719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_98
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 550
+        width: 37
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2769feb4664447890800000000000000
+      internalID: -7461263476494723470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_99
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 551
+        width: 31
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3166105f23ead8e90800000000000000
+      internalID: -7021764710118627821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_100
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 584
+        width: 101
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c93554251bd96a270800000000000000
+      internalID: 8261463951372800924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_101
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 575
+        width: 102
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: def6ce6dfb0cd48e0800000000000000
+      internalID: -1707496753526444051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_102
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 577
+        width: 133
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d0ac7d4832a9b8c0800000000000000
+      internalID: -3982974032730611504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_103
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 551
+        width: 81
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48280247d1f788af0800000000000000
+      internalID: -393925202915851644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_104
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 551
+        width: 72
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a6b4349cc3402d10800000000000000
+      internalID: 2098751972293523108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_105
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 551
+        width: 100
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 731377e7510e52af0800000000000000
+      internalID: -421684607168597705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_106
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 417
+        width: 60
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77076eddcf0383930800000000000000
+      internalID: 4123099321470447735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_107
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 418
+        width: 57
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d88398dc4e27a2d0800000000000000
+      internalID: -3267592097048065836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_108
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 443
+        width: 75
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dcb5d9147b5a6d90800000000000000
+      internalID: -7103764908015764271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_109
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 423
+        width: 72
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35301909e4c3b7a10800000000000000
+      internalID: 1908185175252075347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_110
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 445
+        width: 74
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f08fabcd43379310800000000000000
+      internalID: 1411653417426714867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_111
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 417
+        width: 60
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c4e88138d322b850800000000000000
+      internalID: 6391210232643118273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_112
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 418
+        width: 60
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66693025987ec6b30800000000000000
+      internalID: 4282051922695001702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_113
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 419
+        width: 57
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f324a7182e23a2a0800000000000000
+      internalID: -6727482668631186443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_114
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 447
+        width: 75
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e52e11c7fddb48730800000000000000
+      internalID: 4000531136568746590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_115
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 418
+        width: 59
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ea17c6df1bd05ca0800000000000000
+      internalID: -6030078971255252254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_116
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 418
+        width: 72
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd1e5740a2de06ed0800000000000000
+      internalID: -2422675834806083107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_117
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 438
+        width: 74
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84cc89411c47e82a0800000000000000
+      internalID: -6733316020249244600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_118
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 418
+        width: 60
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1821bf3ceba5a0340800000000000000
+      internalID: 4830773325686575745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_119
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 419
+        width: 60
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebd8ece15d93707a0800000000000000
+      internalID: -6411091957030941250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_120
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 420
+        width: 58
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 866a316703fa37350800000000000000
+      internalID: 6013342550144034408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_121
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 432
+        width: 82
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3485280783aedfd0800000000000000
+      internalID: -2315233358069267395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_122
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 421
+        width: 71
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 340bd94d6d21382e0800000000000000
+      internalID: -2124833885289336765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_123
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 433
+        width: 72
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 843a37331e65df5d0800000000000000
+      internalID: -3027167849292258488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_124
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 444
+        width: 74
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b0e54851355e0640800000000000000
+      internalID: 5048065902751637685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_125
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 417
+        width: 60
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba9fbbc7b8666b610800000000000000
+      internalID: 1636608263874935211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_126
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 417
+        width: 60
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52df6c594a0664190800000000000000
+      internalID: -7978583429836505819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_127
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 417
+        width: 60
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab6ae7c079bb51b10800000000000000
+      internalID: 1951672270959060666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_128
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 304
+        width: 61
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a03d2d80412d95700800000000000000
+      internalID: 529685414681957130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_129
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 304
+        width: 60
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 963e8c8792fa60040800000000000000
+      internalID: 4613567460942603113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_130
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 304
+        width: 62
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90d5bd25c3bac04e0800000000000000
+      internalID: -2014046657764958967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_131
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 304
+        width: 61
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fae55c023a97b7b0800000000000000
+      internalID: -5208524904284689675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_132
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 304
+        width: 60
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcc3f1430042b7e20800000000000000
+      internalID: 3349310331173158091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_133
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 304
+        width: 62
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2c9c4aa522042020800000000000000
+      internalID: 2315978469169470508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_134
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 304
+        width: 60
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0548287241d1c1a0800000000000000
+      internalID: -6790916679684045556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_135
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 304
+        width: 61
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ba3e4b2145136990800000000000000
+      internalID: -7394042793568617803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_136
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 304
+        width: 60
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c55086e635701f70800000000000000
+      internalID: 9155946921100072385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_137
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 304
+        width: 61
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1de36b7a54253ab0800000000000000
+      internalID: -5029073437853487841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_138
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 309
+        width: 59
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be2157287b58923d0800000000000000
+      internalID: -3230904234447400213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_139
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 333
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7185c0ba9fb309f0800000000000000
+      internalID: -503348062223761028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_140
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 304
+        width: 81
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feb840faf7d267990800000000000000
+      internalID: -7388668112234312721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_141
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 306
+        width: 62
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69a41f863f52cfc80800000000000000
+      internalID: -8287707486900630890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_142
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 306
+        width: 60
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd87a32c27e624410800000000000000
+      internalID: 1459850668385401055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_143
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 306
+        width: 60
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 816ac5c33cfda2b10800000000000000
+      internalID: 1957623017670223384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_144
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 306
+        width: 59
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 743d4171c7bda5100800000000000000
+      internalID: 97631667951555399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_145
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 334
+        width: 69
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3a5cfc7242221cf0800000000000000
+      internalID: -283126157610821061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_146
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 304
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09428e49fb90e5850800000000000000
+      internalID: 6367537641590105232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_147
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 314
+        width: 69
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0a8b8ffa485ec650800000000000000
+      internalID: 6255034011602356746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_148
+      rect:
+        serializedVersion: 2
+        x: 1436
+        y: 304
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf0cd5e1ddda75350800000000000000
+      internalID: 6005459793330684156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_149
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 302
+        width: 81
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b8bd8b4bec2ea030800000000000000
+      internalID: 3507790548864710835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_150
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 153
+        width: 60
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4544f5f1abc6fa220800000000000000
+      internalID: 2499335864859968596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_151
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 153
+        width: 60
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c175b04dda85d8b0800000000000000
+      internalID: -5128039917813403199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_152
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 184
+        width: 75
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc76d08094fb1bde0800000000000000
+      internalID: -1319062895454230581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_153
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 153
+        width: 69
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68ebff57c42bf3400800000000000000
+      internalID: 306159341151436422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_154
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 169
+        width: 72
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3c51596057aa7ed0800000000000000
+      internalID: -2415434286324687810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_155
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 180
+        width: 74
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 212b9462323880730800000000000000
+      internalID: 3965563658889179666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_156
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 153
+        width: 60
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 604e98e6439df4ab0800000000000000
+      internalID: -5021556240278756346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_157
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 153
+        width: 60
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b04576ad4adfa0f0800000000000000
+      internalID: -1103423356642443081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_158
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 153
+        width: 60
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acca69a67b2847770800000000000000
+      internalID: 8607648512090746058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_159
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 153
+        width: 60
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ebffc678abd3a280800000000000000
+      internalID: -9033134910980752408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_160
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 153
+        width: 60
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a7d3585f5c050560800000000000000
+      internalID: 7279237976357590953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_161
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 153
+        width: 60
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae56f8e9bda346100800000000000000
+      internalID: 100269806641440234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_162
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 153
+        width: 60
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cba5fcf1defc096e0800000000000000
+      internalID: -1832736430991910212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_163
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 153
+        width: 60
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15e50eaaa090be190800000000000000
+      internalID: -7932236377261842863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_164
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 153
+        width: 60
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ca5a4c91a7090920800000000000000
+      internalID: 2956903021038688965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_165
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 153
+        width: 60
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c544588af7a683550800000000000000
+      internalID: 6140775188440368220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_166
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 153
+        width: 60
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03aec0aba257d1b40800000000000000
+      internalID: 5412611153539689008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_167
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 153
+        width: 60
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cb8870b148e7e060800000000000000
+      internalID: 6982805116092451779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_168
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 153
+        width: 60
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 974aa3c8cafe95050800000000000000
+      internalID: 5789922320327550073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_169
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 11
+        width: 60
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d97c38cfb632faa0800000000000000
+      internalID: -6128775945571763752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_170
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 11
+        width: 65
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 783dbd404e3b1fa70800000000000000
+      internalID: 8859059733929907079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_171
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 11
+        width: 77
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54c1bc6710f172c60800000000000000
+      internalID: 7793231771336383557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_172
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 11
+        width: 65
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b380877c5463df10800000000000000
+      internalID: 2293286983566394297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_173
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 11
+        width: 64
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a7b901cb82d865e0800000000000000
+      internalID: -1916050143765219417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_174
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 11
+        width: 75
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 660514868ed197ff0800000000000000
+      internalID: -37966237837209498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_175
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 11
+        width: 75
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f89e5bb5073418f0800000000000000
+      internalID: -570770755011307271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_176
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 11
+        width: 75
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 457116ec5cd852810800000000000000
+      internalID: 1739952711759107924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vega_177
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 10
+        width: 60
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 841938cdb24ab36a0800000000000000
+      internalID: -6468395931497426616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Vega_0: -7556540770020574473
+      Vega_1: -1966168191568606229
+      Vega_10: 3334358951057256428
+      Vega_100: 8261463951372800924
+      Vega_101: -1707496753526444051
+      Vega_102: -3982974032730611504
+      Vega_103: -393925202915851644
+      Vega_104: 2098751972293523108
+      Vega_105: -421684607168597705
+      Vega_106: 4123099321470447735
+      Vega_107: -3267592097048065836
+      Vega_108: -7103764908015764271
+      Vega_109: 1908185175252075347
+      Vega_11: -3523465501301561568
+      Vega_110: 1411653417426714867
+      Vega_111: 6391210232643118273
+      Vega_112: 4282051922695001702
+      Vega_113: -6727482668631186443
+      Vega_114: 4000531136568746590
+      Vega_115: -6030078971255252254
+      Vega_116: -2422675834806083107
+      Vega_117: -6733316020249244600
+      Vega_118: 4830773325686575745
+      Vega_119: -6411091957030941250
+      Vega_12: 4343095339990611358
+      Vega_120: 6013342550144034408
+      Vega_121: -2315233358069267395
+      Vega_122: -2124833885289336765
+      Vega_123: -3027167849292258488
+      Vega_124: 5048065902751637685
+      Vega_125: 1636608263874935211
+      Vega_126: -7978583429836505819
+      Vega_127: 1951672270959060666
+      Vega_128: 529685414681957130
+      Vega_129: 4613567460942603113
+      Vega_13: -5443075765292220434
+      Vega_130: -2014046657764958967
+      Vega_131: -5208524904284689675
+      Vega_132: 3349310331173158091
+      Vega_133: 2315978469169470508
+      Vega_134: -6790916679684045556
+      Vega_135: -7394042793568617803
+      Vega_136: 9155946921100072385
+      Vega_137: -5029073437853487841
+      Vega_138: -3230904234447400213
+      Vega_139: -503348062223761028
+      Vega_14: -846398487310481477
+      Vega_140: -7388668112234312721
+      Vega_141: -8287707486900630890
+      Vega_142: 1459850668385401055
+      Vega_143: 1957623017670223384
+      Vega_144: 97631667951555399
+      Vega_145: -283126157610821061
+      Vega_146: 6367537641590105232
+      Vega_147: 6255034011602356746
+      Vega_148: 6005459793330684156
+      Vega_149: 3507790548864710835
+      Vega_15: 7484396958713852491
+      Vega_150: 2499335864859968596
+      Vega_151: -5128039917813403199
+      Vega_152: -1319062895454230581
+      Vega_153: 306159341151436422
+      Vega_154: -2415434286324687810
+      Vega_155: 3965563658889179666
+      Vega_156: -5021556240278756346
+      Vega_157: -1103423356642443081
+      Vega_158: 8607648512090746058
+      Vega_159: -9033134910980752408
+      Vega_16: -2714023396568040861
+      Vega_160: 7279237976357590953
+      Vega_161: 100269806641440234
+      Vega_162: -1832736430991910212
+      Vega_163: -7932236377261842863
+      Vega_164: 2956903021038688965
+      Vega_165: 6140775188440368220
+      Vega_166: 5412611153539689008
+      Vega_167: 6982805116092451779
+      Vega_168: 5789922320327550073
+      Vega_169: -6128775945571763752
+      Vega_17: 5453724940448438272
+      Vega_170: 8859059733929907079
+      Vega_171: 7793231771336383557
+      Vega_172: 2293286983566394297
+      Vega_173: -1916050143765219417
+      Vega_174: -37966237837209498
+      Vega_175: -570770755011307271
+      Vega_176: 1739952711759107924
+      Vega_177: -6468395931497426616
+      Vega_18: -4230810512722123563
+      Vega_19: -8229720208728867812
+      Vega_2: 2530145943157385678
+      Vega_20: 4847277522305019453
+      Vega_21: 1089811395894053059
+      Vega_22: 9011064314204181725
+      Vega_23: -8777674539182009384
+      Vega_24: 4609491692628752862
+      Vega_25: 8242820073305140621
+      Vega_26: 4993776589755998055
+      Vega_27: 4010509275405029673
+      Vega_28: -7837577684672026965
+      Vega_29: 1291416555777243762
+      Vega_3: 1218623838870794296
+      Vega_30: 6426391680144974642
+      Vega_31: -7575912880064074511
+      Vega_32: 5189433172390374960
+      Vega_33: 6042634985573683958
+      Vega_34: -2736164713654888151
+      Vega_35: -4402959101058782969
+      Vega_36: 9132016656758783094
+      Vega_37: 6904457063748695530
+      Vega_38: -4263926687009883904
+      Vega_39: 6561004694735546858
+      Vega_4: 2650013126945595525
+      Vega_40: -2082278675692544353
+      Vega_41: 5568998926915498442
+      Vega_42: 7760656796567194018
+      Vega_43: 5680040573896984946
+      Vega_44: 5289869563212280248
+      Vega_45: -4666233650356026542
+      Vega_46: 4299678087187374618
+      Vega_47: 784562835328429691
+      Vega_48: -1747119086088539186
+      Vega_49: 923135999968709132
+      Vega_5: -119165208282364195
+      Vega_50: 1905457941963438073
+      Vega_51: 1444035231873412953
+      Vega_52: 6393581540942348488
+      Vega_53: -163968045287091068
+      Vega_54: 8190053046873486521
+      Vega_55: 5939714235178851517
+      Vega_56: -6909139607012467785
+      Vega_57: -2913670614958083764
+      Vega_58: 6543907119111988956
+      Vega_59: -6760492148191941999
+      Vega_6: 1127562635687194512
+      Vega_60: -5248592968419899418
+      Vega_61: -3527178304077967559
+      Vega_62: -6715815774077817592
+      Vega_63: -3174701311549580947
+      Vega_64: 1824371454968494499
+      Vega_65: 6292923616221128539
+      Vega_66: 3111745259463691165
+      Vega_67: 6512575743897606286
+      Vega_68: -1186352961319536571
+      Vega_69: -6500545154788578431
+      Vega_7: 7273623406069583855
+      Vega_70: -2898518720174157076
+      Vega_71: 1003716094176321836
+      Vega_72: 7920606325514840288
+      Vega_73: -3172022006612646016
+      Vega_74: -4533158826322037780
+      Vega_75: 7512710047573785702
+      Vega_76: 474712107076837422
+      Vega_77: 3531469494146445187
+      Vega_78: -7363655097507943586
+      Vega_79: -9014924088053461725
+      Vega_8: 5080666731522887066
+      Vega_80: 2796925676892481973
+      Vega_81: -40147905361621623
+      Vega_82: -8568782548429753270
+      Vega_83: 3505556147359781971
+      Vega_84: -7801276242762811197
+      Vega_85: 6711752305610470984
+      Vega_86: 8812838015608742841
+      Vega_87: 3514019021399082744
+      Vega_88: 2352398808298849082
+      Vega_89: -3669619878329730527
+      Vega_9: 8162043167242717372
+      Vega_90: -3865723860670666269
+      Vega_91: -1893986734559215442
+      Vega_92: -778027850849880400
+      Vega_93: 9056550529096745071
+      Vega_94: 4512361374825364812
+      Vega_95: 4600128871175035052
+      Vega_96: -8991788394290594879
+      Vega_97: -1177336896335330719
+      Vega_98: -7461263476494723470
+      Vega_99: -7021764710118627821
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
