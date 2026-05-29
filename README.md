@@ -1,30 +1,28 @@
-# StreetFighter2Clone Railway deployment
+# StreetFighter2Clone Railway Deployment
 
-This repo is configured to build Unity WebGL and serve it through nginx.
+This repo deploys a pre-built Unity WebGL game through nginx on Railway.
 
-## Deployment prep for Railway
+## Deployment Flow
 
-1. Railway must build the container from this repository using `Dockerfile`.
-2. Unity build requires a valid Unity license in CI. Set the following Railway environment variables before deploy:
-   - `UNITY_LICENSE` — Base64-encoded Unity license file.
-   - `UNITY_EMAIL` — optional Unity account email for activation.
-   - `UNITY_PASSWORD` — optional Unity account password for activation.
+1. **Build locally** – Generate WebGL in Unity to `Build/WebGL/`
+2. **Commit & push** – Add the build folder to git
+3. **Deploy to Railway** – Railway builds the Docker image and serves static files
 
-> If you use a Unity license file instead of account activation, encode it with `base64` and store the result in `UNITY_LICENSE`.
+## Local Build
 
-## Local build flow
+Open the project in Unity 2022.3.22f1 and build to WebGL. Files will be generated in `Build/WebGL/`.
 
-1. Build WebGL locally with Unity 2022.3.22f1.
-2. The generated files will be placed in `Build/WebGL`.
+## Docker Deployment
 
-## Docker build flow
+The `Dockerfile` is a single-stage build that:
+- Copies the pre-built WebGL folder
+- Runs nginx to serve static files on port 80
 
-The `Dockerfile` performs a two-stage build:
+## Setup in Railway
 
-- `builder`: uses `unityci/editor:2022.3.22f1-webgl` to build the project
-- `runtime`: copies `Build/WebGL` into an nginx image
+1. Connect this repository to Railway
+2. Railway will auto-detect the Dockerfile and deploy
+3. Your WebGL app will be available at the Railway URL
 
-## Notes
+No environment variables or license keys needed!
 
-- If Railway cannot activate Unity in CI, build locally and deploy the generated `Build/WebGL` output as a static site instead.
-- Use `railway up` or the Railway dashboard to point the project at this repository.

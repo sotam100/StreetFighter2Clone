@@ -6,11 +6,8 @@
       "type": "docker",
       "dockerfile": "Dockerfile",
       "runCommand": "nginx -g 'daemon off;'",
-      "port": 80,
-      "env": {
-        "UNITY_LICENSE": "set in Railway environment"
-      }
+      "port": 80
     }
   ],
-  "notes": "Builds Unity WebGL with the Dockerfile and serves it from nginx. Ensure UNITY_LICENSE is configured in Railway before deployment."
+  "notes": "Serves pre-built WebGL from Build/WebGL directory via nginx."
 }
